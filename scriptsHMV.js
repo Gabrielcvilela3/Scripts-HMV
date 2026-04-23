@@ -2,6 +2,8 @@
  * Script da página atualização de RQE do HMV
  */
 
+// Mudança
+
 function iniciar() {
     RBLib.config({
       urlBase: "https://crmhmv.apprubeus.com.br",
