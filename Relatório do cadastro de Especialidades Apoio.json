@@ -1,0 +1,3200 @@
+{
+  "timestamp": "2025-10-26T21:57:06.027273",
+  "total_processados": 399,
+  "sucessos": 399,
+  "erros": 0,
+  "detalhes": [
+    {
+      "item": 1,
+      "nome": "ACUPUNTURA",
+      "id": "196",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":196}"
+    },
+    {
+      "item": 2,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "108",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":108}"
+    },
+    {
+      "item": 3,
+      "nome": "CIRURGIA GERAL",
+      "id": "197",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":197}"
+    },
+    {
+      "item": 4,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "198",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":198}"
+    },
+    {
+      "item": 5,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "199",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":199}"
+    },
+    {
+      "item": 6,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "200",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":200}"
+    },
+    {
+      "item": 7,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "201",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":201}"
+    },
+    {
+      "item": 8,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "202",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":202}"
+    },
+    {
+      "item": 9,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "203",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":203}"
+    },
+    {
+      "item": 10,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "204",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":204}"
+    },
+    {
+      "item": 11,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "205",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":205}"
+    },
+    {
+      "item": 12,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "101",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":101}"
+    },
+    {
+      "item": 13,
+      "nome": "DERMATOLOGIA",
+      "id": "206",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":206}"
+    },
+    {
+      "item": 14,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "207",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":207}"
+    },
+    {
+      "item": 15,
+      "nome": "ENDOSCOPIA",
+      "id": "208",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":208}"
+    },
+    {
+      "item": 16,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "209",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":209}"
+    },
+    {
+      "item": 17,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "210",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":210}"
+    },
+    {
+      "item": 18,
+      "nome": "GERIATRIA",
+      "id": "211",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":211}"
+    },
+    {
+      "item": 19,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "212",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":212}"
+    },
+    {
+      "item": 20,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "213",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":213}"
+    },
+    {
+      "item": 21,
+      "nome": "HOMEOPATIA",
+      "id": "214",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":214}"
+    },
+    {
+      "item": 22,
+      "nome": "INFECTOLOGIA",
+      "id": "215",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":215}"
+    },
+    {
+      "item": 23,
+      "nome": "ANESTESIOLOGIA",
+      "id": "102",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":102}"
+    },
+    {
+      "item": 24,
+      "nome": "MASTOLOGIA",
+      "id": "216",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":216}"
+    },
+    {
+      "item": 25,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "217",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":217}"
+    },
+    {
+      "item": 26,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "218",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":218}"
+    },
+    {
+      "item": 27,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "219",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":219}"
+    },
+    {
+      "item": 28,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "220",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":220}"
+    },
+    {
+      "item": 29,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "221",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":221}"
+    },
+    {
+      "item": 30,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "222",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":222}"
+    },
+    {
+      "item": 31,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "223",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":223}"
+    },
+    {
+      "item": 32,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "224",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":224}"
+    },
+    {
+      "item": 33,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "225",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":225}"
+    },
+    {
+      "item": 34,
+      "nome": "ANGIOLOGIA",
+      "id": "103",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":103}"
+    },
+    {
+      "item": 35,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "226",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":226}"
+    },
+    {
+      "item": 36,
+      "nome": "NEFROLOGIA",
+      "id": "227",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":227}"
+    },
+    {
+      "item": 37,
+      "nome": "NEUROCIRURGIA",
+      "id": "228",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":228}"
+    },
+    {
+      "item": 38,
+      "nome": "NEUROLOGIA",
+      "id": "229",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":229}"
+    },
+    {
+      "item": 39,
+      "nome": "NUTROLOGIA",
+      "id": "230",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":230}"
+    },
+    {
+      "item": 40,
+      "nome": "OFTALMOLOGIA",
+      "id": "231",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":231}"
+    },
+    {
+      "item": 41,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "232",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":232}"
+    },
+    {
+      "item": 42,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "233",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":233}"
+    },
+    {
+      "item": 43,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "234",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":234}"
+    },
+    {
+      "item": 44,
+      "nome": "PATOLOGIA",
+      "id": "235",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":235}"
+    },
+    {
+      "item": 45,
+      "nome": "CARDIOLOGIA",
+      "id": "105",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":105}"
+    },
+    {
+      "item": 46,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "236",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":236}"
+    },
+    {
+      "item": 47,
+      "nome": "PEDIATRIA",
+      "id": "237",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":237}"
+    },
+    {
+      "item": 48,
+      "nome": "PNEUMOLOGIA",
+      "id": "238",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":238}"
+    },
+    {
+      "item": 49,
+      "nome": "PSIQUIATRIA",
+      "id": "239",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":239}"
+    },
+    {
+      "item": 50,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "240",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":240}"
+    },
+    {
+      "item": 51,
+      "nome": "RADIOTERAPIA",
+      "id": "241",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":241}"
+    },
+    {
+      "item": 52,
+      "nome": "REUMATOLOGIA",
+      "id": "242",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":242}"
+    },
+    {
+      "item": 53,
+      "nome": "UROLOGIA",
+      "id": "243",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":243}"
+    },
+    {
+      "item": 54,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "104",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":104}"
+    },
+    {
+      "item": 55,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "109",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":109}"
+    },
+    {
+      "item": 56,
+      "nome": "CIRURGIA DA MAO",
+      "id": "110",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":110}"
+    },
+    {
+      "item": 57,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "106",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":106}"
+    },
+    {
+      "item": 58,
+      "nome": "ACUPUNTURA",
+      "id": "111",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":111}"
+    },
+    {
+      "item": 59,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "120",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":120}"
+    },
+    {
+      "item": 60,
+      "nome": "CIRURGIA GERAL",
+      "id": "244",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":244}"
+    },
+    {
+      "item": 61,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "245",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":245}"
+    },
+    {
+      "item": 62,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "246",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":246}"
+    },
+    {
+      "item": 63,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "247",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":247}"
+    },
+    {
+      "item": 64,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "248",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":248}"
+    },
+    {
+      "item": 65,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "249",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":249}"
+    },
+    {
+      "item": 66,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "250",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":250}"
+    },
+    {
+      "item": 67,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "251",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":251}"
+    },
+    {
+      "item": 68,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "252",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":252}"
+    },
+    {
+      "item": 69,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "112",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":112}"
+    },
+    {
+      "item": 70,
+      "nome": "DERMATOLOGIA",
+      "id": "253",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":253}"
+    },
+    {
+      "item": 71,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "254",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":254}"
+    },
+    {
+      "item": 72,
+      "nome": "ENDOSCOPIA",
+      "id": "255",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":255}"
+    },
+    {
+      "item": 73,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "256",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":256}"
+    },
+    {
+      "item": 74,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "257",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":257}"
+    },
+    {
+      "item": 75,
+      "nome": "GERIATRIA",
+      "id": "258",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":258}"
+    },
+    {
+      "item": 76,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "259",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":259}"
+    },
+    {
+      "item": 77,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "260",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":260}"
+    },
+    {
+      "item": 78,
+      "nome": "HOMEOPATIA",
+      "id": "261",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":261}"
+    },
+    {
+      "item": 79,
+      "nome": "INFECTOLOGIA",
+      "id": "262",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":262}"
+    },
+    {
+      "item": 80,
+      "nome": "ANESTESIOLOGIA",
+      "id": "113",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":113}"
+    },
+    {
+      "item": 81,
+      "nome": "MASTOLOGIA",
+      "id": "263",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":263}"
+    },
+    {
+      "item": 82,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "264",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":264}"
+    },
+    {
+      "item": 83,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "265",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":265}"
+    },
+    {
+      "item": 84,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "266",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":266}"
+    },
+    {
+      "item": 85,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "267",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":267}"
+    },
+    {
+      "item": 86,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "268",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":268}"
+    },
+    {
+      "item": 87,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "269",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":269}"
+    },
+    {
+      "item": 88,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "270",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":270}"
+    },
+    {
+      "item": 89,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "271",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":271}"
+    },
+    {
+      "item": 90,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "272",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":272}"
+    },
+    {
+      "item": 91,
+      "nome": "ANGIOLOGIA",
+      "id": "114",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":114}"
+    },
+    {
+      "item": 92,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "273",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":273}"
+    },
+    {
+      "item": 93,
+      "nome": "NEFROLOGIA",
+      "id": "274",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":274}"
+    },
+    {
+      "item": 94,
+      "nome": "NEUROCIRURGIA",
+      "id": "275",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":275}"
+    },
+    {
+      "item": 95,
+      "nome": "NEUROLOGIA",
+      "id": "276",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":276}"
+    },
+    {
+      "item": 96,
+      "nome": "NUTROLOGIA",
+      "id": "277",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":277}"
+    },
+    {
+      "item": 97,
+      "nome": "OFTALMOLOGIA",
+      "id": "278",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":278}"
+    },
+    {
+      "item": 98,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "279",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":279}"
+    },
+    {
+      "item": 99,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "280",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":280}"
+    },
+    {
+      "item": 100,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "281",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":281}"
+    },
+    {
+      "item": 101,
+      "nome": "PATOLOGIA",
+      "id": "282",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":282}"
+    },
+    {
+      "item": 102,
+      "nome": "CARDIOLOGIA",
+      "id": "115",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":115}"
+    },
+    {
+      "item": 103,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "283",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":283}"
+    },
+    {
+      "item": 104,
+      "nome": "PEDIATRIA",
+      "id": "284",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":284}"
+    },
+    {
+      "item": 105,
+      "nome": "PNEUMOLOGIA",
+      "id": "285",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":285}"
+    },
+    {
+      "item": 106,
+      "nome": "PSIQUIATRIA",
+      "id": "286",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":286}"
+    },
+    {
+      "item": 107,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "287",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":287}"
+    },
+    {
+      "item": 108,
+      "nome": "RADIOTERAPIA",
+      "id": "288",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":288}"
+    },
+    {
+      "item": 109,
+      "nome": "REUMATOLOGIA",
+      "id": "289",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":289}"
+    },
+    {
+      "item": 110,
+      "nome": "UROLOGIA",
+      "id": "290",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":290}"
+    },
+    {
+      "item": 111,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "116",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":116}"
+    },
+    {
+      "item": 112,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "117",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":117}"
+    },
+    {
+      "item": 113,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "118",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":118}"
+    },
+    {
+      "item": 114,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "119",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":119}"
+    },
+    {
+      "item": 115,
+      "nome": "ACUPUNTURA",
+      "id": "142",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":142}"
+    },
+    {
+      "item": 116,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "184",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":184}"
+    },
+    {
+      "item": 117,
+      "nome": "CIRURGIA GERAL",
+      "id": "480",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":480}"
+    },
+    {
+      "item": 118,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "481",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":481}"
+    },
+    {
+      "item": 119,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "482",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":482}"
+    },
+    {
+      "item": 120,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "483",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":483}"
+    },
+    {
+      "item": 121,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "484",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":484}"
+    },
+    {
+      "item": 122,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "485",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":485}"
+    },
+    {
+      "item": 123,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "486",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":486}"
+    },
+    {
+      "item": 124,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "487",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":487}"
+    },
+    {
+      "item": 125,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "488",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":488}"
+    },
+    {
+      "item": 126,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "143",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":143}"
+    },
+    {
+      "item": 127,
+      "nome": "DERMATOLOGIA",
+      "id": "489",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":489}"
+    },
+    {
+      "item": 128,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "490",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":490}"
+    },
+    {
+      "item": 129,
+      "nome": "ENDOSCOPIA",
+      "id": "491",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":491}"
+    },
+    {
+      "item": 130,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "492",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":492}"
+    },
+    {
+      "item": 131,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "493",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":493}"
+    },
+    {
+      "item": 132,
+      "nome": "GERIATRIA",
+      "id": "494",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":494}"
+    },
+    {
+      "item": 133,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "495",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":495}"
+    },
+    {
+      "item": 134,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "496",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":496}"
+    },
+    {
+      "item": 135,
+      "nome": "HOMEOPATIA",
+      "id": "497",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":497}"
+    },
+    {
+      "item": 136,
+      "nome": "INFECTOLOGIA",
+      "id": "498",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":498}"
+    },
+    {
+      "item": 137,
+      "nome": "ANESTESIOLOGIA",
+      "id": "144",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":144}"
+    },
+    {
+      "item": 138,
+      "nome": "MASTOLOGIA",
+      "id": "499",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":499}"
+    },
+    {
+      "item": 139,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "500",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":500}"
+    },
+    {
+      "item": 140,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "501",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":501}"
+    },
+    {
+      "item": 141,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "502",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":502}"
+    },
+    {
+      "item": 142,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "503",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":503}"
+    },
+    {
+      "item": 143,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "504",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":504}"
+    },
+    {
+      "item": 144,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "505",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":505}"
+    },
+    {
+      "item": 145,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "506",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":506}"
+    },
+    {
+      "item": 146,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "507",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":507}"
+    },
+    {
+      "item": 147,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "508",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":508}"
+    },
+    {
+      "item": 148,
+      "nome": "ANGIOLOGIA",
+      "id": "145",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":145}"
+    },
+    {
+      "item": 149,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "509",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":509}"
+    },
+    {
+      "item": 150,
+      "nome": "NEFROLOGIA",
+      "id": "510",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":510}"
+    },
+    {
+      "item": 151,
+      "nome": "NEUROCIRURGIA",
+      "id": "511",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":511}"
+    },
+    {
+      "item": 152,
+      "nome": "NEUROLOGIA",
+      "id": "512",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":512}"
+    },
+    {
+      "item": 153,
+      "nome": "NUTROLOGIA",
+      "id": "513",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":513}"
+    },
+    {
+      "item": 154,
+      "nome": "OFTALMOLOGIA",
+      "id": "514",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":514}"
+    },
+    {
+      "item": 155,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "515",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":515}"
+    },
+    {
+      "item": 156,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "516",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":516}"
+    },
+    {
+      "item": 157,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "517",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":517}"
+    },
+    {
+      "item": 158,
+      "nome": "PATOLOGIA",
+      "id": "518",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":518}"
+    },
+    {
+      "item": 159,
+      "nome": "CARDIOLOGIA",
+      "id": "146",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":146}"
+    },
+    {
+      "item": 160,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "519",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":519}"
+    },
+    {
+      "item": 161,
+      "nome": "PEDIATRIA",
+      "id": "520",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":520}"
+    },
+    {
+      "item": 162,
+      "nome": "PNEUMOLOGIA",
+      "id": "521",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":521}"
+    },
+    {
+      "item": 163,
+      "nome": "PSIQUIATRIA",
+      "id": "522",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":522}"
+    },
+    {
+      "item": 164,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "523",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":523}"
+    },
+    {
+      "item": 165,
+      "nome": "RADIOTERAPIA",
+      "id": "524",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":524}"
+    },
+    {
+      "item": 166,
+      "nome": "REUMATOLOGIA",
+      "id": "525",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":525}"
+    },
+    {
+      "item": 167,
+      "nome": "UROLOGIA",
+      "id": "526",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":526}"
+    },
+    {
+      "item": 168,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "180",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":180}"
+    },
+    {
+      "item": 169,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "181",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":181}"
+    },
+    {
+      "item": 170,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "182",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":182}"
+    },
+    {
+      "item": 171,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "183",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":183}"
+    },
+    {
+      "item": 172,
+      "nome": "ACUPUNTURA",
+      "id": "131",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":131}"
+    },
+    {
+      "item": 173,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "164",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":164}"
+    },
+    {
+      "item": 174,
+      "nome": "CIRURGIA GERAL",
+      "id": "291",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":291}"
+    },
+    {
+      "item": 175,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "292",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":292}"
+    },
+    {
+      "item": 176,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "293",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":293}"
+    },
+    {
+      "item": 177,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "294",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":294}"
+    },
+    {
+      "item": 178,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "295",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":295}"
+    },
+    {
+      "item": 179,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "296",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":296}"
+    },
+    {
+      "item": 180,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "297",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":297}"
+    },
+    {
+      "item": 181,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "298",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":298}"
+    },
+    {
+      "item": 182,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "299",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":299}"
+    },
+    {
+      "item": 183,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "132",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":132}"
+    },
+    {
+      "item": 184,
+      "nome": "DERMATOLOGIA",
+      "id": "300",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":300}"
+    },
+    {
+      "item": 185,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "301",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":301}"
+    },
+    {
+      "item": 186,
+      "nome": "ENDOSCOPIA",
+      "id": "302",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":302}"
+    },
+    {
+      "item": 187,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "303",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":303}"
+    },
+    {
+      "item": 188,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "304",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":304}"
+    },
+    {
+      "item": 189,
+      "nome": "GERIATRIA",
+      "id": "305",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":305}"
+    },
+    {
+      "item": 190,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "306",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":306}"
+    },
+    {
+      "item": 191,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "307",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":307}"
+    },
+    {
+      "item": 192,
+      "nome": "HOMEOPATIA",
+      "id": "308",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":308}"
+    },
+    {
+      "item": 193,
+      "nome": "INFECTOLOGIA",
+      "id": "309",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":309}"
+    },
+    {
+      "item": 194,
+      "nome": "ANESTESIOLOGIA",
+      "id": "133",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":133}"
+    },
+    {
+      "item": 195,
+      "nome": "MASTOLOGIA",
+      "id": "310",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":310}"
+    },
+    {
+      "item": 196,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "311",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":311}"
+    },
+    {
+      "item": 197,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "312",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":312}"
+    },
+    {
+      "item": 198,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "313",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":313}"
+    },
+    {
+      "item": 199,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "314",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":314}"
+    },
+    {
+      "item": 200,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "315",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":315}"
+    },
+    {
+      "item": 201,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "316",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":316}"
+    },
+    {
+      "item": 202,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "317",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":317}"
+    },
+    {
+      "item": 203,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "318",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":318}"
+    },
+    {
+      "item": 204,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "319",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":319}"
+    },
+    {
+      "item": 205,
+      "nome": "ANGIOLOGIA",
+      "id": "134",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":134}"
+    },
+    {
+      "item": 206,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "320",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":320}"
+    },
+    {
+      "item": 207,
+      "nome": "NEFROLOGIA",
+      "id": "321",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":321}"
+    },
+    {
+      "item": 208,
+      "nome": "NEUROCIRURGIA",
+      "id": "322",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":322}"
+    },
+    {
+      "item": 209,
+      "nome": "NEUROLOGIA",
+      "id": "323",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":323}"
+    },
+    {
+      "item": 210,
+      "nome": "NUTROLOGIA",
+      "id": "324",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":324}"
+    },
+    {
+      "item": 211,
+      "nome": "OFTALMOLOGIA",
+      "id": "325",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":325}"
+    },
+    {
+      "item": 212,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "326",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":326}"
+    },
+    {
+      "item": 213,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "327",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":327}"
+    },
+    {
+      "item": 214,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "328",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":328}"
+    },
+    {
+      "item": 215,
+      "nome": "PATOLOGIA",
+      "id": "329",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":329}"
+    },
+    {
+      "item": 216,
+      "nome": "CARDIOLOGIA",
+      "id": "135",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":135}"
+    },
+    {
+      "item": 217,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "330",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":330}"
+    },
+    {
+      "item": 218,
+      "nome": "PEDIATRIA",
+      "id": "331",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":331}"
+    },
+    {
+      "item": 219,
+      "nome": "PNEUMOLOGIA",
+      "id": "332",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":332}"
+    },
+    {
+      "item": 220,
+      "nome": "PSIQUIATRIA",
+      "id": "333",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":333}"
+    },
+    {
+      "item": 221,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "334",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":334}"
+    },
+    {
+      "item": 222,
+      "nome": "RADIOTERAPIA",
+      "id": "335",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":335}"
+    },
+    {
+      "item": 223,
+      "nome": "REUMATOLOGIA",
+      "id": "336",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":336}"
+    },
+    {
+      "item": 224,
+      "nome": "UROLOGIA",
+      "id": "337",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":337}"
+    },
+    {
+      "item": 225,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "160",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":160}"
+    },
+    {
+      "item": 226,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "161",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":161}"
+    },
+    {
+      "item": 227,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "162",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":162}"
+    },
+    {
+      "item": 228,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "163",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":163}"
+    },
+    {
+      "item": 229,
+      "nome": "ACUPUNTURA",
+      "id": "121",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":121}"
+    },
+    {
+      "item": 230,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "169",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":169}"
+    },
+    {
+      "item": 231,
+      "nome": "CIRURGIA GERAL",
+      "id": "338",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":338}"
+    },
+    {
+      "item": 232,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "339",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":339}"
+    },
+    {
+      "item": 233,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "340",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":340}"
+    },
+    {
+      "item": 234,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "341",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":341}"
+    },
+    {
+      "item": 235,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "342",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":342}"
+    },
+    {
+      "item": 236,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "343",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":343}"
+    },
+    {
+      "item": 237,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "344",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":344}"
+    },
+    {
+      "item": 238,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "345",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":345}"
+    },
+    {
+      "item": 239,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "346",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":346}"
+    },
+    {
+      "item": 240,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "122",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":122}"
+    },
+    {
+      "item": 241,
+      "nome": "DERMATOLOGIA",
+      "id": "347",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":347}"
+    },
+    {
+      "item": 242,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "348",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":348}"
+    },
+    {
+      "item": 243,
+      "nome": "ENDOSCOPIA",
+      "id": "349",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":349}"
+    },
+    {
+      "item": 244,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "350",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":350}"
+    },
+    {
+      "item": 245,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "351",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":351}"
+    },
+    {
+      "item": 246,
+      "nome": "GERIATRIA",
+      "id": "352",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":352}"
+    },
+    {
+      "item": 247,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "353",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":353}"
+    },
+    {
+      "item": 248,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "354",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":354}"
+    },
+    {
+      "item": 249,
+      "nome": "HOMEOPATIA",
+      "id": "356",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":356}"
+    },
+    {
+      "item": 250,
+      "nome": "INFECTOLOGIA",
+      "id": "357",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":357}"
+    },
+    {
+      "item": 251,
+      "nome": "ANESTESIOLOGIA",
+      "id": "123",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":123}"
+    },
+    {
+      "item": 252,
+      "nome": "MASTOLOGIA",
+      "id": "358",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":358}"
+    },
+    {
+      "item": 253,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "359",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":359}"
+    },
+    {
+      "item": 254,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "360",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":360}"
+    },
+    {
+      "item": 255,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "361",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":361}"
+    },
+    {
+      "item": 256,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "362",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":362}"
+    },
+    {
+      "item": 257,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "363",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":363}"
+    },
+    {
+      "item": 258,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "364",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":364}"
+    },
+    {
+      "item": 259,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "365",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":365}"
+    },
+    {
+      "item": 260,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "366",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":366}"
+    },
+    {
+      "item": 261,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "367",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":367}"
+    },
+    {
+      "item": 262,
+      "nome": "ANGIOLOGIA",
+      "id": "124",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":124}"
+    },
+    {
+      "item": 263,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "368",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":368}"
+    },
+    {
+      "item": 264,
+      "nome": "NEFROLOGIA",
+      "id": "369",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":369}"
+    },
+    {
+      "item": 265,
+      "nome": "NEUROCIRURGIA",
+      "id": "370",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":370}"
+    },
+    {
+      "item": 266,
+      "nome": "NEUROLOGIA",
+      "id": "371",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":371}"
+    },
+    {
+      "item": 267,
+      "nome": "NUTROLOGIA",
+      "id": "372",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":372}"
+    },
+    {
+      "item": 268,
+      "nome": "OFTALMOLOGIA",
+      "id": "373",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":373}"
+    },
+    {
+      "item": 269,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "374",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":374}"
+    },
+    {
+      "item": 270,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "375",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":375}"
+    },
+    {
+      "item": 271,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "376",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":376}"
+    },
+    {
+      "item": 272,
+      "nome": "PATOLOGIA",
+      "id": "377",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":377}"
+    },
+    {
+      "item": 273,
+      "nome": "CARDIOLOGIA",
+      "id": "125",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":125}"
+    },
+    {
+      "item": 274,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "378",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":378}"
+    },
+    {
+      "item": 275,
+      "nome": "PEDIATRIA",
+      "id": "379",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":379}"
+    },
+    {
+      "item": 276,
+      "nome": "PNEUMOLOGIA",
+      "id": "380",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":380}"
+    },
+    {
+      "item": 277,
+      "nome": "PSIQUIATRIA",
+      "id": "381",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":381}"
+    },
+    {
+      "item": 278,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "382",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":382}"
+    },
+    {
+      "item": 279,
+      "nome": "RADIOTERAPIA",
+      "id": "383",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":383}"
+    },
+    {
+      "item": 280,
+      "nome": "REUMATOLOGIA",
+      "id": "384",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":384}"
+    },
+    {
+      "item": 281,
+      "nome": "UROLOGIA",
+      "id": "385",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":385}"
+    },
+    {
+      "item": 282,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "165",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":165}"
+    },
+    {
+      "item": 283,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "166",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":166}"
+    },
+    {
+      "item": 284,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "167",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":167}"
+    },
+    {
+      "item": 285,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "168",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":168}"
+    },
+    {
+      "item": 286,
+      "nome": "ACUPUNTURA",
+      "id": "137",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":137}"
+    },
+    {
+      "item": 287,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "179",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":179}"
+    },
+    {
+      "item": 288,
+      "nome": "CIRURGIA GERAL",
+      "id": "433",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":433}"
+    },
+    {
+      "item": 289,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "434",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":434}"
+    },
+    {
+      "item": 290,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "435",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":435}"
+    },
+    {
+      "item": 291,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "436",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":436}"
+    },
+    {
+      "item": 292,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "437",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":437}"
+    },
+    {
+      "item": 293,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "438",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":438}"
+    },
+    {
+      "item": 294,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "439",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":439}"
+    },
+    {
+      "item": 295,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "440",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":440}"
+    },
+    {
+      "item": 296,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "441",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":441}"
+    },
+    {
+      "item": 297,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "138",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":138}"
+    },
+    {
+      "item": 298,
+      "nome": "DERMATOLOGIA",
+      "id": "442",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":442}"
+    },
+    {
+      "item": 299,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "443",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":443}"
+    },
+    {
+      "item": 300,
+      "nome": "ENDOSCOPIA",
+      "id": "444",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":444}"
+    },
+    {
+      "item": 301,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "445",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":445}"
+    },
+    {
+      "item": 302,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "446",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":446}"
+    },
+    {
+      "item": 303,
+      "nome": "GERIATRIA",
+      "id": "447",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":447}"
+    },
+    {
+      "item": 304,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "448",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":448}"
+    },
+    {
+      "item": 305,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "449",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":449}"
+    },
+    {
+      "item": 306,
+      "nome": "HOMEOPATIA",
+      "id": "450",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":450}"
+    },
+    {
+      "item": 307,
+      "nome": "INFECTOLOGIA",
+      "id": "451",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":451}"
+    },
+    {
+      "item": 308,
+      "nome": "ANESTESIOLOGIA",
+      "id": "139",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":139}"
+    },
+    {
+      "item": 309,
+      "nome": "MASTOLOGIA",
+      "id": "452",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":452}"
+    },
+    {
+      "item": 310,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "453",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":453}"
+    },
+    {
+      "item": 311,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "454",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":454}"
+    },
+    {
+      "item": 312,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "455",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":455}"
+    },
+    {
+      "item": 313,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "456",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":456}"
+    },
+    {
+      "item": 314,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "457",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":457}"
+    },
+    {
+      "item": 315,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "458",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":458}"
+    },
+    {
+      "item": 316,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "459",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":459}"
+    },
+    {
+      "item": 317,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "460",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":460}"
+    },
+    {
+      "item": 318,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "461",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":461}"
+    },
+    {
+      "item": 319,
+      "nome": "ANGIOLOGIA",
+      "id": "140",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":140}"
+    },
+    {
+      "item": 320,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "462",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":462}"
+    },
+    {
+      "item": 321,
+      "nome": "NEFROLOGIA",
+      "id": "463",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":463}"
+    },
+    {
+      "item": 322,
+      "nome": "NEUROCIRURGIA",
+      "id": "464",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":464}"
+    },
+    {
+      "item": 323,
+      "nome": "NEUROLOGIA",
+      "id": "465",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":465}"
+    },
+    {
+      "item": 324,
+      "nome": "NUTROLOGIA",
+      "id": "466",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":466}"
+    },
+    {
+      "item": 325,
+      "nome": "OFTALMOLOGIA",
+      "id": "467",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":467}"
+    },
+    {
+      "item": 326,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "468",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":468}"
+    },
+    {
+      "item": 327,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "469",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":469}"
+    },
+    {
+      "item": 328,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "470",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":470}"
+    },
+    {
+      "item": 329,
+      "nome": "PATOLOGIA",
+      "id": "471",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":471}"
+    },
+    {
+      "item": 330,
+      "nome": "CARDIOLOGIA",
+      "id": "141",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":141}"
+    },
+    {
+      "item": 331,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "472",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":472}"
+    },
+    {
+      "item": 332,
+      "nome": "PEDIATRIA",
+      "id": "473",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":473}"
+    },
+    {
+      "item": 333,
+      "nome": "PNEUMOLOGIA",
+      "id": "474",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":474}"
+    },
+    {
+      "item": 334,
+      "nome": "PSIQUIATRIA",
+      "id": "475",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":475}"
+    },
+    {
+      "item": 335,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "476",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":476}"
+    },
+    {
+      "item": 336,
+      "nome": "RADIOTERAPIA",
+      "id": "477",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":477}"
+    },
+    {
+      "item": 337,
+      "nome": "REUMATOLOGIA",
+      "id": "478",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":478}"
+    },
+    {
+      "item": 338,
+      "nome": "UROLOGIA",
+      "id": "479",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":479}"
+    },
+    {
+      "item": 339,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "175",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":175}"
+    },
+    {
+      "item": 340,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "176",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":176}"
+    },
+    {
+      "item": 341,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "177",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":177}"
+    },
+    {
+      "item": 342,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "178",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":178}"
+    },
+    {
+      "item": 343,
+      "nome": "ACUPUNTURA",
+      "id": "126",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":126}"
+    },
+    {
+      "item": 344,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "id": "174",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":174}"
+    },
+    {
+      "item": 345,
+      "nome": "CIRURGIA GERAL",
+      "id": "386",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":386}"
+    },
+    {
+      "item": 346,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "id": "387",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":387}"
+    },
+    {
+      "item": 347,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "id": "388",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":388}"
+    },
+    {
+      "item": 348,
+      "nome": "CIRURGIA PLÁSTICA",
+      "id": "389",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":389}"
+    },
+    {
+      "item": 349,
+      "nome": "CIRURGIA TORÁCICA",
+      "id": "390",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":390}"
+    },
+    {
+      "item": 350,
+      "nome": "CIRURGIA VASCULAR",
+      "id": "391",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":391}"
+    },
+    {
+      "item": 351,
+      "nome": "CIRURGIÃO DENTISTA",
+      "id": "392",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":392}"
+    },
+    {
+      "item": 352,
+      "nome": "CLÍNICA MÉDICA",
+      "id": "393",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":393}"
+    },
+    {
+      "item": 353,
+      "nome": "COLOPROCTOLOGIA",
+      "id": "394",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":394}"
+    },
+    {
+      "item": 354,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "id": "127",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":127}"
+    },
+    {
+      "item": 355,
+      "nome": "DERMATOLOGIA",
+      "id": "395",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":395}"
+    },
+    {
+      "item": 356,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "id": "396",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":396}"
+    },
+    {
+      "item": 357,
+      "nome": "ENDOSCOPIA",
+      "id": "397",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":397}"
+    },
+    {
+      "item": 358,
+      "nome": "GASTROENTEROLOGIA",
+      "id": "398",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":398}"
+    },
+    {
+      "item": 359,
+      "nome": "GENÉTICA MÉDICA",
+      "id": "399",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":399}"
+    },
+    {
+      "item": 360,
+      "nome": "GERIATRIA",
+      "id": "400",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":400}"
+    },
+    {
+      "item": 361,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "id": "401",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":401}"
+    },
+    {
+      "item": 362,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "id": "402",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":402}"
+    },
+    {
+      "item": 363,
+      "nome": "HOMEOPATIA",
+      "id": "403",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":403}"
+    },
+    {
+      "item": 364,
+      "nome": "INFECTOLOGIA",
+      "id": "404",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":404}"
+    },
+    {
+      "item": 365,
+      "nome": "ANESTESIOLOGIA",
+      "id": "128",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":128}"
+    },
+    {
+      "item": 366,
+      "nome": "MASTOLOGIA",
+      "id": "405",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":405}"
+    },
+    {
+      "item": 367,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "id": "406",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":406}"
+    },
+    {
+      "item": 368,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "id": "407",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":407}"
+    },
+    {
+      "item": 369,
+      "nome": "MEDICINA DO TRABALHO",
+      "id": "408",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":408}"
+    },
+    {
+      "item": 370,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "id": "409",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":409}"
+    },
+    {
+      "item": 371,
+      "nome": "MEDICINA ESPORTIVA",
+      "id": "410",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":410}"
+    },
+    {
+      "item": 372,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "id": "411",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":411}"
+    },
+    {
+      "item": 373,
+      "nome": "MEDICINA INTENSIVA",
+      "id": "412",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":412}"
+    },
+    {
+      "item": 374,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "id": "413",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":413}"
+    },
+    {
+      "item": 375,
+      "nome": "MEDICINA NUCLEAR",
+      "id": "414",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":414}"
+    },
+    {
+      "item": 376,
+      "nome": "ANGIOLOGIA",
+      "id": "129",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":129}"
+    },
+    {
+      "item": 377,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "id": "415",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":415}"
+    },
+    {
+      "item": 378,
+      "nome": "NEFROLOGIA",
+      "id": "416",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":416}"
+    },
+    {
+      "item": 379,
+      "nome": "NEUROCIRURGIA",
+      "id": "417",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":417}"
+    },
+    {
+      "item": 380,
+      "nome": "NEUROLOGIA",
+      "id": "418",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":418}"
+    },
+    {
+      "item": 381,
+      "nome": "NUTROLOGIA",
+      "id": "419",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":419}"
+    },
+    {
+      "item": 382,
+      "nome": "OFTALMOLOGIA",
+      "id": "420",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":420}"
+    },
+    {
+      "item": 383,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "id": "421",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":421}"
+    },
+    {
+      "item": 384,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "id": "422",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":422}"
+    },
+    {
+      "item": 385,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "id": "423",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":423}"
+    },
+    {
+      "item": 386,
+      "nome": "PATOLOGIA",
+      "id": "424",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":424}"
+    },
+    {
+      "item": 387,
+      "nome": "CARDIOLOGIA",
+      "id": "130",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":130}"
+    },
+    {
+      "item": 388,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "id": "425",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":425}"
+    },
+    {
+      "item": 389,
+      "nome": "PEDIATRIA",
+      "id": "426",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":426}"
+    },
+    {
+      "item": 390,
+      "nome": "PNEUMOLOGIA",
+      "id": "427",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":427}"
+    },
+    {
+      "item": 391,
+      "nome": "PSIQUIATRIA",
+      "id": "428",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":428}"
+    },
+    {
+      "item": 392,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "id": "429",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":429}"
+    },
+    {
+      "item": 393,
+      "nome": "RADIOTERAPIA",
+      "id": "430",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":430}"
+    },
+    {
+      "item": 394,
+      "nome": "REUMATOLOGIA",
+      "id": "431",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":431}"
+    },
+    {
+      "item": 395,
+      "nome": "UROLOGIA",
+      "id": "432",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":432}"
+    },
+    {
+      "item": 396,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "id": "170",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":170}"
+    },
+    {
+      "item": 397,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "id": "171",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":171}"
+    },
+    {
+      "item": 398,
+      "nome": "CIRURGIA DA MÃO",
+      "id": "172",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":172}"
+    },
+    {
+      "item": 399,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "id": "173",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":173}"
+    }
+  ]
+}

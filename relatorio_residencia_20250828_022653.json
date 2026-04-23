@@ -1,0 +1,2334 @@
+{
+  "total_contatos": 93,
+  "contatos_processados": 93,
+  "contatos_com_erro": 0,
+  "total_eventos": 279,
+  "eventos_com_sucesso": 279,
+  "detalhes": [
+    {
+      "nome": "Giordano Gatti de Giacomo",
+      "codigo": "49002",
+      "CRM": "49002-RS",
+      "contato_criado": true,
+      "contato_id": 24377,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "João Flavio Fontes Almeida",
+      "codigo": "51876",
+      "CRM": "51876-RS",
+      "contato_criado": true,
+      "contato_id": 24378,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Felipe Alves da Silva",
+      "codigo": "59703",
+      "CRM": "59703-RS",
+      "contato_criado": true,
+      "contato_id": 24379,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Julia Vicenzi Carminatti",
+      "codigo": "51643",
+      "CRM": "51643-RS",
+      "contato_criado": true,
+      "contato_id": 24380,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Moisés Wolfart Kaufmann",
+      "codigo": "58774",
+      "CRM": "58774-RS",
+      "contato_criado": true,
+      "contato_id": 24381,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Pedro Farias Renk",
+      "codigo": "48722",
+      "CRM": "48722-RS",
+      "contato_criado": true,
+      "contato_id": 24382,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Andrei Meurer de Andrade",
+      "codigo": "56553",
+      "CRM": "56553-RS",
+      "contato_criado": true,
+      "contato_id": 24383,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Arthur Proença Rossi",
+      "codigo": "56957",
+      "CRM": "56957-RS",
+      "contato_criado": true,
+      "contato_id": 24384,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Felipe Dall Agnol Vasatta",
+      "codigo": "54169",
+      "CRM": "54169-RS",
+      "contato_criado": true,
+      "contato_id": 24385,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Jéssica Danieli Brondani Machado",
+      "codigo": "48792",
+      "CRM": "48792-RS",
+      "contato_criado": true,
+      "contato_id": 24386,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Larissa Prokopp da Costa",
+      "codigo": "53695",
+      "CRM": "53695-RS",
+      "contato_criado": true,
+      "contato_id": 24387,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luiz Francisco Meneguzzi Júnior",
+      "codigo": "44640",
+      "CRM": "44640-RS",
+      "contato_criado": true,
+      "contato_id": 24388,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Mariana Pereira Ramos",
+      "codigo": "56375",
+      "CRM": "56375-RS",
+      "contato_criado": true,
+      "contato_id": 24389,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Thathiane Vieira Franco Ribeiro",
+      "codigo": "54340",
+      "CRM": "54340-RS",
+      "contato_criado": true,
+      "contato_id": 24390,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Fernanda Ceron Damiani",
+      "codigo": "53850",
+      "CRM": "53850-RS",
+      "contato_criado": true,
+      "contato_id": 24391,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Guilherme Cavalcante Dantas",
+      "codigo": "59713",
+      "CRM": "59713-RS",
+      "contato_criado": true,
+      "contato_id": 24392,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luane Pereira Gomes",
+      "codigo": "53675",
+      "CRM": "53675-RS",
+      "contato_criado": true,
+      "contato_id": 24393,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Maria Eduarda Conte Gripa",
+      "codigo": "51772",
+      "CRM": "51772-RS",
+      "contato_criado": true,
+      "contato_id": 24394,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Rafaella Willig de Quadros",
+      "codigo": "59255",
+      "CRM": "59255-RS",
+      "contato_criado": true,
+      "contato_id": 24395,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Thales Lorenz Lampert",
+      "codigo": "57417",
+      "CRM": "57417-RS",
+      "contato_criado": true,
+      "contato_id": 24396,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Júlia Vives Leal",
+      "codigo": "50902",
+      "CRM": "50902-RS",
+      "contato_criado": true,
+      "contato_id": 24397,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luiza Rosso da Silva Pritsch",
+      "codigo": "53484",
+      "CRM": "53484-RS",
+      "contato_criado": true,
+      "contato_id": 24398,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Laura Przybylski",
+      "codigo": "47786",
+      "CRM": "47786-RS",
+      "contato_criado": true,
+      "contato_id": 24399,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luiza Duarte Pittol",
+      "codigo": "54554",
+      "CRM": "54554-RS",
+      "contato_criado": true,
+      "contato_id": 24400,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Emanuelle Toledo Ortiz",
+      "codigo": "49764",
+      "CRM": "49764-RS",
+      "contato_criado": true,
+      "contato_id": 24401,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Sabrina Navroski",
+      "codigo": "54116",
+      "CRM": "54116-RS",
+      "contato_criado": true,
+      "contato_id": 24402,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Amanda de Farias Balbinot",
+      "codigo": "59774",
+      "CRM": "59774-RS",
+      "contato_criado": true,
+      "contato_id": 24403,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Emerson dos Santos Hoffmann",
+      "codigo": "49184",
+      "CRM": "49184-RS",
+      "contato_criado": true,
+      "contato_id": 24404,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Nadiana Inocente",
+      "codigo": "41093",
+      "CRM": "41093-RS",
+      "contato_criado": true,
+      "contato_id": 24405,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Rodrigo Chiavaro da Fonseca",
+      "codigo": "47938",
+      "CRM": "47938-RS",
+      "contato_criado": true,
+      "contato_id": 24406,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luiza Rosa Nunes",
+      "codigo": "56739",
+      "CRM": "56739-RS",
+      "contato_criado": true,
+      "contato_id": 24407,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Marcus Vinicius Daldon Pavinato",
+      "codigo": "42208",
+      "CRM": "42208-RS",
+      "contato_criado": true,
+      "contato_id": 24408,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Mariana Gruber Pagel",
+      "codigo": "47855",
+      "CRM": "47855-RS",
+      "contato_criado": true,
+      "contato_id": 24409,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Paolla Favaro Bressiani",
+      "codigo": "58820",
+      "CRM": "58820-RS",
+      "contato_criado": true,
+      "contato_id": 24410,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Ana Luiza Ferretto Jaenisch",
+      "codigo": "59892",
+      "CRM": "59892-RS",
+      "contato_criado": true,
+      "contato_id": 24411,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Thomas Pagot Comissoli",
+      "codigo": "59953",
+      "CRM": "59953-RS",
+      "contato_criado": true,
+      "contato_id": 24412,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Wendersenn Pitterson da Silva Ideão",
+      "codigo": "57861",
+      "CRM": "57861",
+      "contato_criado": true,
+      "contato_id": 24413,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Fabiana Kurzawa Hagemann",
+      "codigo": "56852",
+      "CRM": "56852-RS",
+      "contato_criado": true,
+      "contato_id": 24414,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Franciele Smiderle Bremm",
+      "codigo": "56741",
+      "CRM": "56741-RS",
+      "contato_criado": true,
+      "contato_id": 24415,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Vanessa Wallau Luchsinger",
+      "codigo": "56807",
+      "CRM": "56807-RS",
+      "contato_criado": true,
+      "contato_id": 24416,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Gabriele Arbugeri Menegotto",
+      "codigo": "51696",
+      "CRM": "51696",
+      "contato_criado": true,
+      "contato_id": 24417,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Bruna Mirley Cavalcante Barreto",
+      "codigo": "54109",
+      "CRM": "54109-RS",
+      "contato_criado": true,
+      "contato_id": 24418,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Carlise Capeletti Medeiros",
+      "codigo": "49497",
+      "CRM": "49497-RS",
+      "contato_criado": true,
+      "contato_id": 24419,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Diego Seibel Júnior",
+      "codigo": "54325",
+      "CRM": "54325-RS",
+      "contato_criado": true,
+      "contato_id": 24420,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Felipe Cerbaro Viana",
+      "codigo": "51841",
+      "CRM": "51841-RS",
+      "contato_criado": true,
+      "contato_id": 24421,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Lucas Henrique Skalei Redmann",
+      "codigo": "58300",
+      "CRM": "58300",
+      "contato_criado": true,
+      "contato_id": 24422,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luís Henrique Nalin Vizioli",
+      "codigo": "51510",
+      "CRM": "51510-RS",
+      "contato_criado": true,
+      "contato_id": 24423,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Vinícius Ribeiro Escórcio",
+      "codigo": "59254",
+      "CRM": "59254",
+      "contato_criado": true,
+      "contato_id": 24424,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Mateus Mondadori Sironi",
+      "codigo": "51734",
+      "CRM": "51734-RS",
+      "contato_criado": true,
+      "contato_id": 24425,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Pedro d'Elia Machado Silva",
+      "codigo": "57427",
+      "CRM": "57427-RS",
+      "contato_criado": true,
+      "contato_id": 24426,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Alex Victor Souza Bialecki",
+      "codigo": "54241",
+      "CRM": "54241-RS",
+      "contato_criado": true,
+      "contato_id": 24427,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Lourenço Ache Fernandes",
+      "codigo": "51229",
+      "CRM": "51229-RS",
+      "contato_criado": true,
+      "contato_id": 24428,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Isabela Tramontini Muller",
+      "codigo": "52983",
+      "CRM": "52983",
+      "contato_criado": true,
+      "contato_id": 24429,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Carolina Yuka Ueda",
+      "codigo": "49607",
+      "CRM": "49607-RS",
+      "contato_criado": true,
+      "contato_id": 24430,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Felipe Dierings Andreis",
+      "codigo": "48518",
+      "CRM": "48518-RS",
+      "contato_criado": true,
+      "contato_id": 24431,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Michele Garcia Muraro",
+      "codigo": "46884",
+      "CRM": "46884-RS",
+      "contato_criado": true,
+      "contato_id": 24432,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Odanor Ferretti Tombini Filho",
+      "codigo": "54276",
+      "CRM": "54276",
+      "contato_criado": true,
+      "contato_id": 24433,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Bernardo Rivera Fernandes Severo",
+      "codigo": "57006",
+      "CRM": "57006-RS",
+      "contato_criado": true,
+      "contato_id": 24434,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Pedro Augusto Cavagni Ambrosi",
+      "codigo": "53527",
+      "CRM": "53527-RS",
+      "contato_criado": true,
+      "contato_id": 24435,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Abcael Martins Santos Alves",
+      "codigo": "50281",
+      "CRM": "50281-RS",
+      "contato_criado": true,
+      "contato_id": 24436,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Gabriel Alves Martinelli",
+      "codigo": "49818",
+      "CRM": "49818-RS",
+      "contato_criado": true,
+      "contato_id": 24437,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Daniel Ceconello Maronez",
+      "codigo": "51686",
+      "CRM": "51686-RS",
+      "contato_criado": true,
+      "contato_id": 24438,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Deise Pancotto",
+      "codigo": "51781",
+      "CRM": "51781-RS",
+      "contato_criado": true,
+      "contato_id": 24439,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Felipe Cardoso dos Santos",
+      "codigo": "55606",
+      "CRM": "55606",
+      "contato_criado": true,
+      "contato_id": 24440,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Leonardo Foletto Reisdorfer",
+      "codigo": "55845",
+      "CRM": "55845-RS",
+      "contato_criado": true,
+      "contato_id": 24441,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Carolina Scheer Ely",
+      "codigo": "59539",
+      "CRM": "59539",
+      "contato_criado": true,
+      "contato_id": 24442,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Joas Cavalcante Estumano",
+      "codigo": "60185",
+      "CRM": "60185",
+      "contato_criado": true,
+      "contato_id": 24443,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Letícia Kunst",
+      "codigo": "57009",
+      "CRM": "57009",
+      "contato_criado": true,
+      "contato_id": 24444,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Ana Luíza Fonseca Siqueira",
+      "codigo": "49160",
+      "CRM": "49160-RS",
+      "contato_criado": true,
+      "contato_id": 24445,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Emanuele Smaniotto Frederich",
+      "codigo": "44368",
+      "CRM": "44368-RS",
+      "contato_criado": true,
+      "contato_id": 24446,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Georgia de Assunção Krauzer",
+      "codigo": "56511",
+      "CRM": "56511-RS",
+      "contato_criado": true,
+      "contato_id": 24447,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "João Henrique Caurio da Silva",
+      "codigo": "47638",
+      "CRM": "47638-RS",
+      "contato_criado": true,
+      "contato_id": 24448,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Lara Damiani Cabral",
+      "codigo": "56912",
+      "CRM": "56912-RS",
+      "contato_criado": true,
+      "contato_id": 24449,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Paloma de Ávila Othero",
+      "codigo": "57709",
+      "CRM": "57709-RS",
+      "contato_criado": true,
+      "contato_id": 24450,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Thales Mascarenhas",
+      "codigo": "50400",
+      "CRM": "50400-RS",
+      "contato_criado": true,
+      "contato_id": 24451,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Rayla Rossetto dos Santos",
+      "codigo": "58395",
+      "CRM": "58395",
+      "contato_criado": true,
+      "contato_id": 24452,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "André Goulart Ramos",
+      "codigo": "60326",
+      "CRM": "60326",
+      "contato_criado": true,
+      "contato_id": 24453,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Giovana Sperandio",
+      "codigo": "60105",
+      "CRM": "60105",
+      "contato_criado": true,
+      "contato_id": 24454,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Marcela Lorea Habib",
+      "codigo": "49740",
+      "CRM": "49740-RS",
+      "contato_criado": true,
+      "contato_id": 24455,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Sibele Catarina Bernardi Jacob",
+      "codigo": "57535",
+      "CRM": "57535-RS",
+      "contato_criado": true,
+      "contato_id": 24456,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Carlos Eduardo Nedel",
+      "codigo": "47436",
+      "CRM": "47436-RS",
+      "contato_criado": true,
+      "contato_id": 24457,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "José Henrique Gorgone Zampieri",
+      "codigo": "45372",
+      "CRM": "45372-RS",
+      "contato_criado": true,
+      "contato_id": 24458,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Juliana Gonçalves Silveira",
+      "codigo": "47788",
+      "CRM": "47788-RS",
+      "contato_criado": true,
+      "contato_id": 24459,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Bárbara Luiza Bernardi",
+      "codigo": "49487",
+      "CRM": "49487",
+      "contato_criado": true,
+      "contato_id": 24460,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Karina Corrêa Brum Zinn",
+      "codigo": "55647",
+      "CRM": "55647",
+      "contato_criado": true,
+      "contato_id": 24461,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Mateus Xavier Schenato",
+      "codigo": "54364",
+      "CRM": "54364",
+      "contato_criado": true,
+      "contato_id": 24462,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Débora Koltermann da Silva",
+      "codigo": "50655",
+      "CRM": "50655-RS",
+      "contato_criado": true,
+      "contato_id": 24463,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Gabriela Carboni",
+      "codigo": "52882",
+      "CRM": "52882-RS",
+      "contato_criado": true,
+      "contato_id": 24464,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Isadora Zago Krebs",
+      "codigo": "50755",
+      "CRM": "50755",
+      "contato_criado": true,
+      "contato_id": 24465,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Ana Carolina Milán Rodriguez",
+      "codigo": "48774",
+      "CRM": "48774-RS",
+      "contato_criado": true,
+      "contato_id": 24466,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Cláudio Roberto Amorim dos Santos Júnior",
+      "codigo": "49181",
+      "CRM": "49181",
+      "contato_criado": true,
+      "contato_id": 24467,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Victor Kleinfelder Molinari",
+      "codigo": "42588",
+      "CRM": "42588",
+      "contato_criado": true,
+      "contato_id": 24468,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Gláuber Ian Dalberto",
+      "codigo": "46302",
+      "CRM": "46302-RS",
+      "contato_criado": true,
+      "contato_id": 24469,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-RESID-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-RESID-3",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    }
+  ]
+}

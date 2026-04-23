@@ -1,0 +1,4054 @@
+{
+  "total_contatos": 39,
+  "contatos_processados": 39,
+  "contatos_com_erro": 0,
+  "total_eventos": 731,
+  "eventos_com_sucesso": 731,
+  "detalhes": [
+    {
+      "nome": "ALINE SPIAZZI",
+      "codigo": "47281",
+      "email": "alinespiazzi1@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24335,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-18",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "DIANE ALICIA TORMES",
+      "codigo": "38232",
+      "email": "dianetormes@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24336,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "ISADORA FIORENZA SNOVARESKI",
+      "codigo": "45431",
+      "email": "isadorasnovareski@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24337,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CTI-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-21",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-22",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-23",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "JANAINA ELSING",
+      "codigo": "39805",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24338,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CTI-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-21",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-22",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-23",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "JULIA KOWACS BUTZKE",
+      "codigo": "48883",
+      "email": "juliakowacs@icloud.com",
+      "contato_criado": true,
+      "contato_id": 24339,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-MAT-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-13",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LARISSA HANSEN MARCONDES",
+      "codigo": "46415",
+      "email": "larissahmarcondes@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24340,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-MAT-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-13",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LETICIA ANTONIUK SEUS",
+      "codigo": "15670",
+      "email": "leticiaantoniuk@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24341,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LISIANE MACHADO",
+      "codigo": "28181",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24342,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CR-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LIVIA MASO BENVENUTTI",
+      "codigo": "33665",
+      "email": "liviambenvenutti@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24343,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUAN SOLEI FLORES CANTEIRO",
+      "codigo": "11586",
+      "email": "soleiluan@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24344,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUCIA HELENA SIEBEN MARTINS",
+      "codigo": "16394",
+      "email": "luciahsmartins63@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24345,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CR-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUCIA ROSSELL NICOLOSO",
+      "codigo": "24302",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24347,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-21",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUCIANA SAVI TUMELERO SANTIAGO DA CUNHA",
+      "codigo": "35438",
+      "email": "luciana.s.tumelero@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24348,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUIZ CARLOS MARQUES PALLARES",
+      "codigo": "8737",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24349,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUIZ FERNANDO SOARES VARELA",
+      "codigo": "32171",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24350,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "LUIZA MACHADO KOBE",
+      "codigo": "43028",
+      "email": "luizakobe@hotmail.com",
+      "contato_criado": true,
+      "contato_id": 24351,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-MAT-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-13",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MAIRA LUCILIA MONTEIRO FERREIRA",
+      "codigo": "59500",
+      "email": "marylumf@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24352,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MARCELO MENEGOTTO DONADEL",
+      "codigo": "31815",
+      "email": "menegottomarcelo@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24353,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MARIA LUISA BARRUFI ADIB",
+      "codigo": "39739",
+      "email": "dramarialuisaadib@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24354,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MARIANA GONZALEZ DE OLIVEIRA",
+      "codigo": "26142",
+      "email": "mariana.oliveira@hmv.org.br",
+      "contato_criado": true,
+      "contato_id": 24355,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-21",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MARIANA PESSINI",
+      "codigo": "51507",
+      "email": "marianapessini@hotmail.com",
+      "contato_criado": true,
+      "contato_id": 24356,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MARIO SALIM KALIL",
+      "codigo": "44289",
+      "email": "mariosalimkalil@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24357,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-MAT-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-MAT-13",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MATHEUS DE SOUZA NICHES",
+      "codigo": "53873",
+      "email": "matheusniches@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24358,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CR-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MATHEUS PRESA BARBIERI",
+      "codigo": "48969",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24359,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MICHELLE TOSCAN",
+      "codigo": "46265",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24360,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-18",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "MONICA FRANZOI MARCON",
+      "codigo": "43024",
+      "email": "monica_marcon@hotmail.com",
+      "contato_criado": true,
+      "contato_id": 24361,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-18",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "NATALIA BENDER FUHR",
+      "codigo": "48648",
+      "email": "natalia.fuhrb@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24362,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "NATHAN HERMENEGILDO LISBOA",
+      "codigo": "44509",
+      "email": "nathanlisboa@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24363,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "NICOLE BERTHIER ZANIN",
+      "codigo": "36564",
+      "email": "nikazanin@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24364,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "PATRICIA DE GODOY MARTINS IMSEIS",
+      "codigo": "21988",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24365,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-NEO-21",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "PAULA PITTA PINHEIRO",
+      "codigo": "35788",
+      "email": "paulappitta@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24366,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-18",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "RODOLFO TOME SOVERAL",
+      "codigo": "45451",
+      "email": "RTSOVERAL@GMAIL.COM",
+      "contato_criado": true,
+      "contato_id": 24367,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "RODRIGO DALCANALLE GARCIA",
+      "codigo": "47446",
+      "email": "g-rodrigo@hotmail.com",
+      "contato_criado": true,
+      "contato_id": 24368,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-P-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "ROSIRENE MARIA FROHLICH DALL AGNESE",
+      "codigo": "34717",
+      "email": "rosimfda@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24369,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-UTI-P-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-UTI-P-18",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "SIBELLE GRATSCH",
+      "codigo": "21555",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24370,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "TALIS HAAS",
+      "codigo": "39325",
+      "email": "",
+      "contato_criado": true,
+      "contato_id": 24371,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CTI-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-21",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-22",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-23",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "VINICIUS EDUARDO DO N DE LEMOS CAMPOS",
+      "codigo": "40580",
+      "email": "vinieducampos@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24372,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-EME-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-EME-A-20",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "WILLIAM SILVA DA SILVA",
+      "codigo": "49952",
+      "email": "williamsilvamed@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24373,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CTI-A-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-19",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-20",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-21",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-22",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CTI-A-23",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "YURI CARLOTTO RAMIRES",
+      "codigo": "48949",
+      "email": "yuri.ramires@gmail.com",
+      "contato_criado": true,
+      "contato_id": 24374,
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-CLT-CR-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-4",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-5",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-6",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-7",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-8",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-9",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-10",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-11",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-12",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-13",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-14",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-15",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-16",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-17",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-18",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-CLT-CR-19",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    }
+  ]
+}

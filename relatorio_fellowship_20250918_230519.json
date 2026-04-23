@@ -1,0 +1,1089 @@
+{
+  "total_contatos": 36,
+  "contatos_processados": 36,
+  "contatos_com_erro": 0,
+  "total_eventos": 144,
+  "eventos_com_sucesso": 144,
+  "detalhes": [
+    {
+      "nome": "Pedro Rotta de Ferreira",
+      "codigo": "49337",
+      "CRM": "49337",
+      "contato_criado": true,
+      "contato_id": "24767",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Paulo Eduardo Meneguzzo",
+      "codigo": "45168",
+      "CRM": "45168",
+      "contato_criado": true,
+      "contato_id": "24768",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Kellwin Nery Teixeira",
+      "codigo": "47494",
+      "CRM": "47494",
+      "contato_criado": true,
+      "contato_id": "24769",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Raíssa dos Reis Echer",
+      "codigo": "48241",
+      "CRM": "48241",
+      "contato_criado": true,
+      "contato_id": "24770",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Vivian Luisa Frantz",
+      "codigo": "51508",
+      "CRM": "51508",
+      "contato_criado": true,
+      "contato_id": "24771",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Leonardo Pereira de Lima",
+      "codigo": "44443",
+      "CRM": "44443",
+      "contato_criado": true,
+      "contato_id": "24772",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Marília Paz de Paiva",
+      "codigo": "44508",
+      "CRM": "44508",
+      "contato_criado": true,
+      "contato_id": "24773",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Greyce Berton",
+      "codigo": "33277",
+      "CRM": "33277",
+      "contato_criado": true,
+      "contato_id": "24774",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Rômulo Marx",
+      "codigo": "47025",
+      "CRM": "47025",
+      "contato_criado": true,
+      "contato_id": "24775",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Victor Otávio Derossi",
+      "codigo": "54791",
+      "CRM": "54791",
+      "contato_criado": true,
+      "contato_id": "24776",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Giannini Medeiros Rodrigues",
+      "codigo": "58800",
+      "CRM": "58800",
+      "contato_criado": true,
+      "contato_id": "24777",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Isabela Corrêa Bitencourt",
+      "codigo": "59782",
+      "CRM": "59782",
+      "contato_criado": true,
+      "contato_id": "24778",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Lucas Strassburger Matzenbacher",
+      "codigo": "59749",
+      "CRM": "59749",
+      "contato_criado": true,
+      "contato_id": "24779",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Dânisa Smiljanic Carrijo",
+      "codigo": "54661",
+      "CRM": "54661",
+      "contato_criado": true,
+      "contato_id": "24780",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Luciana D'Amico",
+      "codigo": "41639",
+      "CRM": "41639",
+      "contato_criado": true,
+      "contato_id": "24781",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Maria Paula Alves Corrêa",
+      "codigo": "51919",
+      "CRM": "51919",
+      "contato_criado": true,
+      "contato_id": "24782",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Camila Borges Mosmann Melere",
+      "codigo": "36681",
+      "CRM": "36681",
+      "contato_criado": true,
+      "contato_id": "24783",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Amanda Kühl",
+      "codigo": "50092",
+      "CRM": "50092",
+      "contato_criado": true,
+      "contato_id": "24784",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Ana Carolina Farias Rodrigues",
+      "codigo": "49728",
+      "CRM": "49728",
+      "contato_criado": true,
+      "contato_id": "24785",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "María José Santacruz Villalba",
+      "codigo": "50227",
+      "CRM": "50227",
+      "contato_criado": true,
+      "contato_id": "24786",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Paola Iana Fucks da Veiga",
+      "codigo": "50584",
+      "CRM": "50584",
+      "contato_criado": true,
+      "contato_id": "24787",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Cecyra Bauermann Collares Machado",
+      "codigo": "36434",
+      "CRM": "36434",
+      "contato_criado": true,
+      "contato_id": "24232",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Matheus Werlang Donadel",
+      "codigo": "47207",
+      "CRM": "47207",
+      "contato_criado": true,
+      "contato_id": "24788",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Brenda Rigatti",
+      "codigo": "47533",
+      "CRM": "47533",
+      "contato_criado": true,
+      "contato_id": "24789",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Ximena Alejandra Celi Loaiza",
+      "codigo": "52244",
+      "CRM": "52244",
+      "contato_criado": true,
+      "contato_id": "24790",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Leonardo Felipi Schmitz Franco",
+      "codigo": "50990",
+      "CRM": "50990",
+      "contato_criado": true,
+      "contato_id": "24791",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Lucas Leimig Telles Parente",
+      "codigo": "52014",
+      "CRM": "52014",
+      "contato_criado": true,
+      "contato_id": "24792",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Meiri Andreia Maria da Silva",
+      "codigo": "35868",
+      "CRM": "35868",
+      "contato_criado": true,
+      "contato_id": "24793",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Patrícia de Oliveira Pimentel Fonseca",
+      "codigo": "48129",
+      "CRM": "48129",
+      "contato_criado": true,
+      "contato_id": "24794",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Samuel Santos Freitas ",
+      "codigo": "46903",
+      "CRM": "46903",
+      "contato_criado": true,
+      "contato_id": "24795",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Viviani Draghetti",
+      "codigo": "24601",
+      "CRM": "24601",
+      "contato_criado": true,
+      "contato_id": "24796",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Júlia Plentz Portich",
+      "codigo": "42592",
+      "CRM": "42592",
+      "contato_criado": true,
+      "contato_id": "24797",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Caroline Nicola Sangalli - Nutricionista",
+      "codigo": "28962",
+      "CRM": "28962",
+      "contato_criado": true,
+      "contato_id": "24798",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Fernanda Fernandes Cruz - Farmacêutica",
+      "codigo": "16046",
+      "CRM": "16046",
+      "contato_criado": true,
+      "contato_id": "24799",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Flávia Marini Peres de Souza",
+      "codigo": "60450",
+      "CRM": "60450",
+      "contato_criado": true,
+      "contato_id": "24800",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    },
+    {
+      "nome": "Pablo Rojas Romero",
+      "codigo": "52189",
+      "CRM": "52189",
+      "contato_criado": true,
+      "contato_id": "24801",
+      "erro_contato": null,
+      "eventos": [
+        {
+          "privilegio": "PRV-FELLOW-1",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-2",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-3",
+          "sucesso": true,
+          "erro": null
+        },
+        {
+          "privilegio": "PRV-FELLOW-4",
+          "sucesso": true,
+          "erro": null
+        }
+      ]
+    }
+  ]
+}

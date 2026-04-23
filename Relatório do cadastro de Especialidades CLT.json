@@ -1,0 +1,3200 @@
+{
+  "timestamp": "2025-08-27T01:36:18.894283",
+  "total_processados": 399,
+  "sucessos": 399,
+  "erros": 0,
+  "detalhes": [
+    {
+      "item": 1,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-CR-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":669}"
+    },
+    {
+      "item": 2,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-CR-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":670}"
+    },
+    {
+      "item": 3,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-CR-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":671}"
+    },
+    {
+      "item": 4,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-CR-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":672}"
+    },
+    {
+      "item": 5,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-CR-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":673}"
+    },
+    {
+      "item": 6,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-CR-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":674}"
+    },
+    {
+      "item": 7,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-CR-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":675}"
+    },
+    {
+      "item": 8,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-CR-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":676}"
+    },
+    {
+      "item": 9,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-CR-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":677}"
+    },
+    {
+      "item": 10,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-CR-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":678}"
+    },
+    {
+      "item": 11,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-CR-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":679}"
+    },
+    {
+      "item": 12,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-CR-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":680}"
+    },
+    {
+      "item": 13,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-CR-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":681}"
+    },
+    {
+      "item": 14,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-CR-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":682}"
+    },
+    {
+      "item": 15,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-CR-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":683}"
+    },
+    {
+      "item": 16,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-CR-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":684}"
+    },
+    {
+      "item": 17,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-CR-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":685}"
+    },
+    {
+      "item": 18,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-CR-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":668}"
+    },
+    {
+      "item": 19,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-CR-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":686}"
+    },
+    {
+      "item": 20,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-CR-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":687}"
+    },
+    {
+      "item": 21,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-CR-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":688}"
+    },
+    {
+      "item": 22,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-CR-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":689}"
+    },
+    {
+      "item": 23,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-CR-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":690}"
+    },
+    {
+      "item": 24,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-CR-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":691}"
+    },
+    {
+      "item": 25,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-CR-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":692}"
+    },
+    {
+      "item": 26,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-CR-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":693}"
+    },
+    {
+      "item": 27,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-CR-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":694}"
+    },
+    {
+      "item": 28,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-CR-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":695}"
+    },
+    {
+      "item": 29,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-CR-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":696}"
+    },
+    {
+      "item": 30,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-CR-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":697}"
+    },
+    {
+      "item": 31,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-CR-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":698}"
+    },
+    {
+      "item": 32,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-CR-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":699}"
+    },
+    {
+      "item": 33,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-CR-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":700}"
+    },
+    {
+      "item": 34,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-CR-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":701}"
+    },
+    {
+      "item": 35,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-CR-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":702}"
+    },
+    {
+      "item": 36,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-CR-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":703}"
+    },
+    {
+      "item": 37,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-CR-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":704}"
+    },
+    {
+      "item": 38,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-CR-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":705}"
+    },
+    {
+      "item": 39,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-CR-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":706}"
+    },
+    {
+      "item": 40,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-CR-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":707}"
+    },
+    {
+      "item": 41,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-CR-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":708}"
+    },
+    {
+      "item": 42,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-CR-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":709}"
+    },
+    {
+      "item": 43,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-CR-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":710}"
+    },
+    {
+      "item": 44,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-CR-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":711}"
+    },
+    {
+      "item": 45,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-CR-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":712}"
+    },
+    {
+      "item": 46,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-CR-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":713}"
+    },
+    {
+      "item": 47,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-CR-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":714}"
+    },
+    {
+      "item": 48,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-CR-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":715}"
+    },
+    {
+      "item": 49,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-CR-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":716}"
+    },
+    {
+      "item": 50,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-CR-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":717}"
+    },
+    {
+      "item": 51,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-CR-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":718}"
+    },
+    {
+      "item": 52,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-CR-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":719}"
+    },
+    {
+      "item": 53,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-CR-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":720}"
+    },
+    {
+      "item": 54,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-CR-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":721}"
+    },
+    {
+      "item": 55,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-CR-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":722}"
+    },
+    {
+      "item": 56,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-CR-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":723}"
+    },
+    {
+      "item": 57,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-CR-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":724}"
+    },
+    {
+      "item": 58,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-CTI-A-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1010}"
+    },
+    {
+      "item": 59,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-CTI-A-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1011}"
+    },
+    {
+      "item": 60,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-CTI-A-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1012}"
+    },
+    {
+      "item": 61,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-CTI-A-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1013}"
+    },
+    {
+      "item": 62,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-CTI-A-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1014}"
+    },
+    {
+      "item": 63,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-CTI-A-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1015}"
+    },
+    {
+      "item": 64,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-CTI-A-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1016}"
+    },
+    {
+      "item": 65,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-CTI-A-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1017}"
+    },
+    {
+      "item": 66,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-CTI-A-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1018}"
+    },
+    {
+      "item": 67,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-CTI-A-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1019}"
+    },
+    {
+      "item": 68,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-CTI-A-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1020}"
+    },
+    {
+      "item": 69,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-CTI-A-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1021}"
+    },
+    {
+      "item": 70,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-CTI-A-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1022}"
+    },
+    {
+      "item": 71,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-CTI-A-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1023}"
+    },
+    {
+      "item": 72,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-CTI-A-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1024}"
+    },
+    {
+      "item": 73,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-CTI-A-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1025}"
+    },
+    {
+      "item": 74,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-CTI-A-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1026}"
+    },
+    {
+      "item": 75,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-CTI-A-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1027}"
+    },
+    {
+      "item": 76,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-CTI-A-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1028}"
+    },
+    {
+      "item": 77,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-CTI-A-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1029}"
+    },
+    {
+      "item": 78,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-CTI-A-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1030}"
+    },
+    {
+      "item": 79,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-CTI-A-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1031}"
+    },
+    {
+      "item": 80,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-CTI-A-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1032}"
+    },
+    {
+      "item": 81,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-CTI-A-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1033}"
+    },
+    {
+      "item": 82,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-CTI-A-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1034}"
+    },
+    {
+      "item": 83,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-CTI-A-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1035}"
+    },
+    {
+      "item": 84,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-CTI-A-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1036}"
+    },
+    {
+      "item": 85,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-CTI-A-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1037}"
+    },
+    {
+      "item": 86,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-CTI-A-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1038}"
+    },
+    {
+      "item": 87,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-CTI-A-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1039}"
+    },
+    {
+      "item": 88,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-CTI-A-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1040}"
+    },
+    {
+      "item": 89,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-CTI-A-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1041}"
+    },
+    {
+      "item": 90,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-CTI-A-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1042}"
+    },
+    {
+      "item": 91,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-CTI-A-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1043}"
+    },
+    {
+      "item": 92,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-CTI-A-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1044}"
+    },
+    {
+      "item": 93,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-CTI-A-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1045}"
+    },
+    {
+      "item": 94,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-CTI-A-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1046}"
+    },
+    {
+      "item": 95,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-CTI-A-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1047}"
+    },
+    {
+      "item": 96,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-CTI-A-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1048}"
+    },
+    {
+      "item": 97,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-CTI-A-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1049}"
+    },
+    {
+      "item": 98,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-CTI-A-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1050}"
+    },
+    {
+      "item": 99,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-CTI-A-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1051}"
+    },
+    {
+      "item": 100,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-CTI-A-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1052}"
+    },
+    {
+      "item": 101,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-CTI-A-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1053}"
+    },
+    {
+      "item": 102,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-CTI-A-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1054}"
+    },
+    {
+      "item": 103,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-CTI-A-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1055}"
+    },
+    {
+      "item": 104,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-CTI-A-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1056}"
+    },
+    {
+      "item": 105,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-CTI-A-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1057}"
+    },
+    {
+      "item": 106,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-CTI-A-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1058}"
+    },
+    {
+      "item": 107,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-CTI-A-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1059}"
+    },
+    {
+      "item": 108,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-CTI-A-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1060}"
+    },
+    {
+      "item": 109,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-CTI-A-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1061}"
+    },
+    {
+      "item": 110,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-CTI-A-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1062}"
+    },
+    {
+      "item": 111,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-CTI-A-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1063}"
+    },
+    {
+      "item": 112,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-CTI-A-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1064}"
+    },
+    {
+      "item": 113,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-CTI-A-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1065}"
+    },
+    {
+      "item": 114,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-CTI-A-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1066}"
+    },
+    {
+      "item": 115,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-EME-A-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":725}"
+    },
+    {
+      "item": 116,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-EME-A-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":726}"
+    },
+    {
+      "item": 117,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-EME-A-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":727}"
+    },
+    {
+      "item": 118,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-EME-A-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":728}"
+    },
+    {
+      "item": 119,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-EME-A-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":729}"
+    },
+    {
+      "item": 120,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-EME-A-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":730}"
+    },
+    {
+      "item": 121,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-EME-A-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":731}"
+    },
+    {
+      "item": 122,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-EME-A-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":732}"
+    },
+    {
+      "item": 123,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-EME-A-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":733}"
+    },
+    {
+      "item": 124,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-EME-A-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":734}"
+    },
+    {
+      "item": 125,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-EME-A-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":735}"
+    },
+    {
+      "item": 126,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-EME-A-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":736}"
+    },
+    {
+      "item": 127,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-EME-A-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":737}"
+    },
+    {
+      "item": 128,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-EME-A-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":738}"
+    },
+    {
+      "item": 129,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-EME-A-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":739}"
+    },
+    {
+      "item": 130,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-EME-A-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":740}"
+    },
+    {
+      "item": 131,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-EME-A-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":741}"
+    },
+    {
+      "item": 132,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-EME-A-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":742}"
+    },
+    {
+      "item": 133,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-EME-A-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":743}"
+    },
+    {
+      "item": 134,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-EME-A-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":744}"
+    },
+    {
+      "item": 135,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-EME-A-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":745}"
+    },
+    {
+      "item": 136,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-EME-A-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":746}"
+    },
+    {
+      "item": 137,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-EME-A-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":747}"
+    },
+    {
+      "item": 138,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-EME-A-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":748}"
+    },
+    {
+      "item": 139,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-EME-A-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":749}"
+    },
+    {
+      "item": 140,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-EME-A-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":750}"
+    },
+    {
+      "item": 141,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-EME-A-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":751}"
+    },
+    {
+      "item": 142,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-EME-A-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":752}"
+    },
+    {
+      "item": 143,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-EME-A-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":753}"
+    },
+    {
+      "item": 144,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-EME-A-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":754}"
+    },
+    {
+      "item": 145,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-EME-A-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":755}"
+    },
+    {
+      "item": 146,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-EME-A-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":756}"
+    },
+    {
+      "item": 147,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-EME-A-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":757}"
+    },
+    {
+      "item": 148,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-EME-A-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":758}"
+    },
+    {
+      "item": 149,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-EME-A-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":759}"
+    },
+    {
+      "item": 150,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-EME-A-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":760}"
+    },
+    {
+      "item": 151,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-EME-A-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":761}"
+    },
+    {
+      "item": 152,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-EME-A-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":762}"
+    },
+    {
+      "item": 153,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-EME-A-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":763}"
+    },
+    {
+      "item": 154,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-EME-A-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":764}"
+    },
+    {
+      "item": 155,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-EME-A-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":765}"
+    },
+    {
+      "item": 156,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-EME-A-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":766}"
+    },
+    {
+      "item": 157,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-EME-A-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":767}"
+    },
+    {
+      "item": 158,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-EME-A-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":768}"
+    },
+    {
+      "item": 159,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-EME-A-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":769}"
+    },
+    {
+      "item": 160,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-EME-A-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":770}"
+    },
+    {
+      "item": 161,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-EME-A-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":771}"
+    },
+    {
+      "item": 162,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-EME-A-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":772}"
+    },
+    {
+      "item": 163,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-EME-A-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":773}"
+    },
+    {
+      "item": 164,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-EME-A-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":774}"
+    },
+    {
+      "item": 165,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-EME-A-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":775}"
+    },
+    {
+      "item": 166,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-EME-A-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":776}"
+    },
+    {
+      "item": 167,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-EME-A-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":777}"
+    },
+    {
+      "item": 168,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-EME-A-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":778}"
+    },
+    {
+      "item": 169,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-EME-A-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":779}"
+    },
+    {
+      "item": 170,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-EME-A-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":780}"
+    },
+    {
+      "item": 171,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-EME-A-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":781}"
+    },
+    {
+      "item": 172,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-EME-P-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":782}"
+    },
+    {
+      "item": 173,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-EME-P-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":783}"
+    },
+    {
+      "item": 174,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-EME-P-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":784}"
+    },
+    {
+      "item": 175,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-EME-P-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":785}"
+    },
+    {
+      "item": 176,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-EME-P-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":786}"
+    },
+    {
+      "item": 177,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-EME-P-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":787}"
+    },
+    {
+      "item": 178,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-EME-P-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":788}"
+    },
+    {
+      "item": 179,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-EME-P-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":789}"
+    },
+    {
+      "item": 180,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-EME-P-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":790}"
+    },
+    {
+      "item": 181,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-EME-P-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":791}"
+    },
+    {
+      "item": 182,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-EME-P-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":792}"
+    },
+    {
+      "item": 183,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-EME-P-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":793}"
+    },
+    {
+      "item": 184,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-EME-P-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":794}"
+    },
+    {
+      "item": 185,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-EME-P-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":795}"
+    },
+    {
+      "item": 186,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-EME-P-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":796}"
+    },
+    {
+      "item": 187,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-EME-P-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":797}"
+    },
+    {
+      "item": 188,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-EME-P-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":798}"
+    },
+    {
+      "item": 189,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-EME-P-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":799}"
+    },
+    {
+      "item": 190,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-EME-P-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":800}"
+    },
+    {
+      "item": 191,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-EME-P-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":801}"
+    },
+    {
+      "item": 192,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-EME-P-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":802}"
+    },
+    {
+      "item": 193,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-EME-P-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":803}"
+    },
+    {
+      "item": 194,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-EME-P-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":804}"
+    },
+    {
+      "item": 195,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-EME-P-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":805}"
+    },
+    {
+      "item": 196,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-EME-P-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":806}"
+    },
+    {
+      "item": 197,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-EME-P-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":807}"
+    },
+    {
+      "item": 198,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-EME-P-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":808}"
+    },
+    {
+      "item": 199,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-EME-P-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":809}"
+    },
+    {
+      "item": 200,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-EME-P-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":810}"
+    },
+    {
+      "item": 201,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-EME-P-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":811}"
+    },
+    {
+      "item": 202,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-EME-P-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":812}"
+    },
+    {
+      "item": 203,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-EME-P-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":813}"
+    },
+    {
+      "item": 204,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-EME-P-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":814}"
+    },
+    {
+      "item": 205,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-EME-P-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":815}"
+    },
+    {
+      "item": 206,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-EME-P-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":816}"
+    },
+    {
+      "item": 207,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-EME-P-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":817}"
+    },
+    {
+      "item": 208,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-EME-P-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":818}"
+    },
+    {
+      "item": 209,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-EME-P-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":819}"
+    },
+    {
+      "item": 210,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-EME-P-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":820}"
+    },
+    {
+      "item": 211,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-EME-P-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":821}"
+    },
+    {
+      "item": 212,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-EME-P-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":822}"
+    },
+    {
+      "item": 213,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-EME-P-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":823}"
+    },
+    {
+      "item": 214,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-EME-P-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":824}"
+    },
+    {
+      "item": 215,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-EME-P-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":825}"
+    },
+    {
+      "item": 216,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-EME-P-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":826}"
+    },
+    {
+      "item": 217,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-EME-P-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":827}"
+    },
+    {
+      "item": 218,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-EME-P-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":828}"
+    },
+    {
+      "item": 219,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-EME-P-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":829}"
+    },
+    {
+      "item": 220,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-EME-P-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":830}"
+    },
+    {
+      "item": 221,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-EME-P-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":831}"
+    },
+    {
+      "item": 222,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-EME-P-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":832}"
+    },
+    {
+      "item": 223,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-EME-P-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":833}"
+    },
+    {
+      "item": 224,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-EME-P-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":834}"
+    },
+    {
+      "item": 225,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-EME-P-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":835}"
+    },
+    {
+      "item": 226,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-EME-P-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":836}"
+    },
+    {
+      "item": 227,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-EME-P-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":837}"
+    },
+    {
+      "item": 228,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-EME-P-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":838}"
+    },
+    {
+      "item": 229,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-MAT-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":839}"
+    },
+    {
+      "item": 230,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-MAT-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":840}"
+    },
+    {
+      "item": 231,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-MAT-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":841}"
+    },
+    {
+      "item": 232,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-MAT-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":842}"
+    },
+    {
+      "item": 233,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-MAT-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":843}"
+    },
+    {
+      "item": 234,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-MAT-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":844}"
+    },
+    {
+      "item": 235,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-MAT-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":845}"
+    },
+    {
+      "item": 236,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-MAT-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":846}"
+    },
+    {
+      "item": 237,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-MAT-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":847}"
+    },
+    {
+      "item": 238,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-MAT-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":848}"
+    },
+    {
+      "item": 239,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-MAT-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":849}"
+    },
+    {
+      "item": 240,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-MAT-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":850}"
+    },
+    {
+      "item": 241,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-MAT-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":851}"
+    },
+    {
+      "item": 242,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-MAT-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":852}"
+    },
+    {
+      "item": 243,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-MAT-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":853}"
+    },
+    {
+      "item": 244,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-MAT-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":854}"
+    },
+    {
+      "item": 245,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-MAT-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":855}"
+    },
+    {
+      "item": 246,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-MAT-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":856}"
+    },
+    {
+      "item": 247,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-MAT-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":857}"
+    },
+    {
+      "item": 248,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-MAT-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":858}"
+    },
+    {
+      "item": 249,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-MAT-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":859}"
+    },
+    {
+      "item": 250,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-MAT-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":860}"
+    },
+    {
+      "item": 251,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-MAT-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":861}"
+    },
+    {
+      "item": 252,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-MAT-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":862}"
+    },
+    {
+      "item": 253,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-MAT-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":863}"
+    },
+    {
+      "item": 254,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-MAT-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":864}"
+    },
+    {
+      "item": 255,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-MAT-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":865}"
+    },
+    {
+      "item": 256,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-MAT-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":866}"
+    },
+    {
+      "item": 257,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-MAT-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":867}"
+    },
+    {
+      "item": 258,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-MAT-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":868}"
+    },
+    {
+      "item": 259,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-MAT-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":869}"
+    },
+    {
+      "item": 260,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-MAT-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":870}"
+    },
+    {
+      "item": 261,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-MAT-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":871}"
+    },
+    {
+      "item": 262,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-MAT-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":872}"
+    },
+    {
+      "item": 263,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-MAT-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":873}"
+    },
+    {
+      "item": 264,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-MAT-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":874}"
+    },
+    {
+      "item": 265,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-MAT-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":875}"
+    },
+    {
+      "item": 266,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-MAT-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":876}"
+    },
+    {
+      "item": 267,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-MAT-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":877}"
+    },
+    {
+      "item": 268,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-MAT-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":878}"
+    },
+    {
+      "item": 269,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-MAT-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":879}"
+    },
+    {
+      "item": 270,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-MAT-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":880}"
+    },
+    {
+      "item": 271,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-MAT-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":881}"
+    },
+    {
+      "item": 272,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-MAT-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":882}"
+    },
+    {
+      "item": 273,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-MAT-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":883}"
+    },
+    {
+      "item": 274,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-MAT-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":884}"
+    },
+    {
+      "item": 275,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-MAT-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":885}"
+    },
+    {
+      "item": 276,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-MAT-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":886}"
+    },
+    {
+      "item": 277,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-MAT-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":887}"
+    },
+    {
+      "item": 278,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-MAT-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":888}"
+    },
+    {
+      "item": 279,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-MAT-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":889}"
+    },
+    {
+      "item": 280,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-MAT-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":890}"
+    },
+    {
+      "item": 281,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-MAT-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":891}"
+    },
+    {
+      "item": 282,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-MAT-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":892}"
+    },
+    {
+      "item": 283,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-MAT-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":893}"
+    },
+    {
+      "item": 284,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-MAT-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":894}"
+    },
+    {
+      "item": 285,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-MAT-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":895}"
+    },
+    {
+      "item": 286,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-UTI-NEO-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":896}"
+    },
+    {
+      "item": 287,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-UTI-NEO-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":897}"
+    },
+    {
+      "item": 288,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-UTI-NEO-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":898}"
+    },
+    {
+      "item": 289,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-UTI-NEO-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":899}"
+    },
+    {
+      "item": 290,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-UTI-NEO-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":900}"
+    },
+    {
+      "item": 291,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-UTI-NEO-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":901}"
+    },
+    {
+      "item": 292,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-UTI-NEO-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":902}"
+    },
+    {
+      "item": 293,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-UTI-NEO-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":903}"
+    },
+    {
+      "item": 294,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-UTI-NEO-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":904}"
+    },
+    {
+      "item": 295,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-UTI-NEO-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":905}"
+    },
+    {
+      "item": 296,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-UTI-NEO-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":906}"
+    },
+    {
+      "item": 297,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-UTI-NEO-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":907}"
+    },
+    {
+      "item": 298,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-UTI-NEO-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":908}"
+    },
+    {
+      "item": 299,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-UTI-NEO-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":909}"
+    },
+    {
+      "item": 300,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-UTI-NEO-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":910}"
+    },
+    {
+      "item": 301,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-UTI-NEO-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":911}"
+    },
+    {
+      "item": 302,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-UTI-NEO-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":912}"
+    },
+    {
+      "item": 303,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-UTI-NEO-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":913}"
+    },
+    {
+      "item": 304,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-UTI-NEO-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":914}"
+    },
+    {
+      "item": 305,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-UTI-NEO-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":915}"
+    },
+    {
+      "item": 306,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-UTI-NEO-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":916}"
+    },
+    {
+      "item": 307,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-UTI-NEO-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":917}"
+    },
+    {
+      "item": 308,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-UTI-NEO-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":918}"
+    },
+    {
+      "item": 309,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-UTI-NEO-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":919}"
+    },
+    {
+      "item": 310,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-UTI-NEO-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":920}"
+    },
+    {
+      "item": 311,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-UTI-NEO-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":921}"
+    },
+    {
+      "item": 312,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-UTI-NEO-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":922}"
+    },
+    {
+      "item": 313,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-UTI-NEO-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":923}"
+    },
+    {
+      "item": 314,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-UTI-NEO-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":924}"
+    },
+    {
+      "item": 315,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-UTI-NEO-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":925}"
+    },
+    {
+      "item": 316,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-UTI-NEO-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":926}"
+    },
+    {
+      "item": 317,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-UTI-NEO-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":927}"
+    },
+    {
+      "item": 318,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-UTI-NEO-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":928}"
+    },
+    {
+      "item": 319,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-UTI-NEO-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":929}"
+    },
+    {
+      "item": 320,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-UTI-NEO-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":930}"
+    },
+    {
+      "item": 321,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-UTI-NEO-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":931}"
+    },
+    {
+      "item": 322,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-UTI-NEO-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":932}"
+    },
+    {
+      "item": 323,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-UTI-NEO-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":933}"
+    },
+    {
+      "item": 324,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-UTI-NEO-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":934}"
+    },
+    {
+      "item": 325,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-UTI-NEO-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":935}"
+    },
+    {
+      "item": 326,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-UTI-NEO-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":936}"
+    },
+    {
+      "item": 327,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-UTI-NEO-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":937}"
+    },
+    {
+      "item": 328,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-UTI-NEO-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":938}"
+    },
+    {
+      "item": 329,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-UTI-NEO-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":939}"
+    },
+    {
+      "item": 330,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-UTI-NEO-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":940}"
+    },
+    {
+      "item": 331,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-UTI-NEO-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":941}"
+    },
+    {
+      "item": 332,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-UTI-NEO-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":942}"
+    },
+    {
+      "item": 333,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-UTI-NEO-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":943}"
+    },
+    {
+      "item": 334,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-UTI-NEO-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":944}"
+    },
+    {
+      "item": 335,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-UTI-NEO-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":945}"
+    },
+    {
+      "item": 336,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-UTI-NEO-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":946}"
+    },
+    {
+      "item": 337,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-UTI-NEO-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":947}"
+    },
+    {
+      "item": 338,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-UTI-NEO-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":948}"
+    },
+    {
+      "item": 339,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-UTI-NEO-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":949}"
+    },
+    {
+      "item": 340,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-UTI-NEO-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":950}"
+    },
+    {
+      "item": 341,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-UTI-NEO-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":951}"
+    },
+    {
+      "item": 342,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-UTI-NEO-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":952}"
+    },
+    {
+      "item": 343,
+      "nome": "ACUPUNTURA",
+      "codOferta": "CLT-UTI-P-1",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":953}"
+    },
+    {
+      "item": 344,
+      "nome": "ALERGIA E IMUNOLOGIA",
+      "codOferta": "CLT-UTI-P-2",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":954}"
+    },
+    {
+      "item": 345,
+      "nome": "ANESTESIOLOGIA",
+      "codOferta": "CLT-UTI-P-3",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":955}"
+    },
+    {
+      "item": 346,
+      "nome": "ANGIOLOGIA",
+      "codOferta": "CLT-UTI-P-4",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":956}"
+    },
+    {
+      "item": 347,
+      "nome": "CARDIOLOGIA",
+      "codOferta": "CLT-UTI-P-5",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":957}"
+    },
+    {
+      "item": 348,
+      "nome": "CIRURGIA BUCO-MAXILO-FACIAL",
+      "codOferta": "CLT-UTI-P-6",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":958}"
+    },
+    {
+      "item": 349,
+      "nome": "CIRURGIA CARDIOVASCULAR",
+      "codOferta": "CLT-UTI-P-7",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":959}"
+    },
+    {
+      "item": 350,
+      "nome": "CIRURGIA DA MÃO",
+      "codOferta": "CLT-UTI-P-8",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":960}"
+    },
+    {
+      "item": 351,
+      "nome": "CIRURGIA DE CABEÇA E PESCOÇO",
+      "codOferta": "CLT-UTI-P-9",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":961}"
+    },
+    {
+      "item": 352,
+      "nome": "CIRURGIA DO APARELHO DIGESTIVO",
+      "codOferta": "CLT-UTI-P-10",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":962}"
+    },
+    {
+      "item": 353,
+      "nome": "CIRURGIA GERAL",
+      "codOferta": "CLT-UTI-P-11",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":963}"
+    },
+    {
+      "item": 354,
+      "nome": "CIRURGIA ONCOLÓGICA",
+      "codOferta": "CLT-UTI-P-12",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":964}"
+    },
+    {
+      "item": 355,
+      "nome": "CIRURGIA PEDIÁTRICA",
+      "codOferta": "CLT-UTI-P-13",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":965}"
+    },
+    {
+      "item": 356,
+      "nome": "CIRURGIA PLÁSTICA",
+      "codOferta": "CLT-UTI-P-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":966}"
+    },
+    {
+      "item": 357,
+      "nome": "CIRURGIA TORÁCICA",
+      "codOferta": "CLT-UTI-P-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":967}"
+    },
+    {
+      "item": 358,
+      "nome": "CIRURGIA VASCULAR",
+      "codOferta": "CLT-UTI-P-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":968}"
+    },
+    {
+      "item": 359,
+      "nome": "CIRURGIÃO DENTISTA",
+      "codOferta": "CLT-UTI-P-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":969}"
+    },
+    {
+      "item": 360,
+      "nome": "CLÍNICA MÉDICA",
+      "codOferta": "CLT-UTI-P-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":970}"
+    },
+    {
+      "item": 361,
+      "nome": "COLOPROCTOLOGIA",
+      "codOferta": "CLT-UTI-P-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":971}"
+    },
+    {
+      "item": 362,
+      "nome": "DERMATOLOGIA",
+      "codOferta": "CLT-UTI-P-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":972}"
+    },
+    {
+      "item": 363,
+      "nome": "ENDOCRINOLOGIA E METABOLOGIA",
+      "codOferta": "CLT-UTI-P-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":973}"
+    },
+    {
+      "item": 364,
+      "nome": "ENDOSCOPIA",
+      "codOferta": "CLT-UTI-P-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":974}"
+    },
+    {
+      "item": 365,
+      "nome": "GASTROENTEROLOGIA",
+      "codOferta": "CLT-UTI-P-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":975}"
+    },
+    {
+      "item": 366,
+      "nome": "GENÉTICA MÉDICA",
+      "codOferta": "CLT-UTI-P-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":976}"
+    },
+    {
+      "item": 367,
+      "nome": "GERIATRIA",
+      "codOferta": "CLT-UTI-P-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":977}"
+    },
+    {
+      "item": 368,
+      "nome": "GINECOLOGIA E OBSTETRÍCIA",
+      "codOferta": "CLT-UTI-P-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":978}"
+    },
+    {
+      "item": 369,
+      "nome": "HEMATOLOGIA E HEMOTERAPIA",
+      "codOferta": "CLT-UTI-P-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":979}"
+    },
+    {
+      "item": 370,
+      "nome": "HOMEOPATIA",
+      "codOferta": "CLT-UTI-P-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":980}"
+    },
+    {
+      "item": 371,
+      "nome": "INFECTOLOGIA",
+      "codOferta": "CLT-UTI-P-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":981}"
+    },
+    {
+      "item": 372,
+      "nome": "MASTOLOGIA",
+      "codOferta": "CLT-UTI-P-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":982}"
+    },
+    {
+      "item": 373,
+      "nome": "MEDICINA DE EMERGÊNCIA",
+      "codOferta": "CLT-UTI-P-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":983}"
+    },
+    {
+      "item": 374,
+      "nome": "MEDICINA DE FAMÍLIA E COMUNIDADE",
+      "codOferta": "CLT-UTI-P-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":984}"
+    },
+    {
+      "item": 375,
+      "nome": "MEDICINA DO TRABALHO",
+      "codOferta": "CLT-UTI-P-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":985}"
+    },
+    {
+      "item": 376,
+      "nome": "MEDICINA DO TRÁFEGO",
+      "codOferta": "CLT-UTI-P-34",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":986}"
+    },
+    {
+      "item": 377,
+      "nome": "MEDICINA ESPORTIVA",
+      "codOferta": "CLT-UTI-P-35",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":987}"
+    },
+    {
+      "item": 378,
+      "nome": "MEDICINA FÍSICA E REABILITAÇÃO",
+      "codOferta": "CLT-UTI-P-36",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":988}"
+    },
+    {
+      "item": 379,
+      "nome": "MEDICINA INTENSIVA",
+      "codOferta": "CLT-UTI-P-37",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":989}"
+    },
+    {
+      "item": 380,
+      "nome": "MEDICINA LEGAL E PERÍCIA MÉDICA",
+      "codOferta": "CLT-UTI-P-38",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":990}"
+    },
+    {
+      "item": 381,
+      "nome": "MEDICINA NUCLEAR",
+      "codOferta": "CLT-UTI-P-39",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":991}"
+    },
+    {
+      "item": 382,
+      "nome": "MEDICINA PREVENTIVA SOCIAL",
+      "codOferta": "CLT-UTI-P-40",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":992}"
+    },
+    {
+      "item": 383,
+      "nome": "NEFROLOGIA",
+      "codOferta": "CLT-UTI-P-41",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":993}"
+    },
+    {
+      "item": 384,
+      "nome": "NEUROCIRURGIA",
+      "codOferta": "CLT-UTI-P-42",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":994}"
+    },
+    {
+      "item": 385,
+      "nome": "NEUROLOGIA",
+      "codOferta": "CLT-UTI-P-43",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":995}"
+    },
+    {
+      "item": 386,
+      "nome": "NUTROLOGIA",
+      "codOferta": "CLT-UTI-P-44",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":996}"
+    },
+    {
+      "item": 387,
+      "nome": "OFTALMOLOGIA",
+      "codOferta": "CLT-UTI-P-45",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":997}"
+    },
+    {
+      "item": 388,
+      "nome": "ONCOLOGIA CLÍNICA",
+      "codOferta": "CLT-UTI-P-46",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":998}"
+    },
+    {
+      "item": 389,
+      "nome": "ORTOPEDIA E TRAUMATOLOGIA",
+      "codOferta": "CLT-UTI-P-47",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":999}"
+    },
+    {
+      "item": 390,
+      "nome": "OTORRINOLARINGOLOGIA",
+      "codOferta": "CLT-UTI-P-48",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1000}"
+    },
+    {
+      "item": 391,
+      "nome": "PATOLOGIA",
+      "codOferta": "CLT-UTI-P-49",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1001}"
+    },
+    {
+      "item": 392,
+      "nome": "PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL",
+      "codOferta": "CLT-UTI-P-50",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1002}"
+    },
+    {
+      "item": 393,
+      "nome": "PEDIATRIA",
+      "codOferta": "CLT-UTI-P-51",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1003}"
+    },
+    {
+      "item": 394,
+      "nome": "PNEUMOLOGIA",
+      "codOferta": "CLT-UTI-P-52",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1004}"
+    },
+    {
+      "item": 395,
+      "nome": "PSIQUIATRIA",
+      "codOferta": "CLT-UTI-P-53",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1005}"
+    },
+    {
+      "item": 396,
+      "nome": "RADIOLOGIA E DIAGNÓSTICO POR IMAGEM",
+      "codOferta": "CLT-UTI-P-54",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1006}"
+    },
+    {
+      "item": 397,
+      "nome": "RADIOTERAPIA",
+      "codOferta": "CLT-UTI-P-55",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1007}"
+    },
+    {
+      "item": 398,
+      "nome": "REUMATOLOGIA",
+      "codOferta": "CLT-UTI-P-56",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1008}"
+    },
+    {
+      "item": 399,
+      "nome": "UROLOGIA",
+      "codOferta": "CLT-UTI-P-57",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1009}"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "resumo": {
+    "data_execucao": "2025-08-27 01:01:16",
+    "total_itens": 21,
+    "sucessos": 21,
+    "falhas": 0,
+    "taxa_sucesso": 100.0
+  },
+  "detalhes": [
+    {
+      "numero": 1,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:08",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"393\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 2,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:09",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"394\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 3,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:10",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"395\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 4,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:11",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"396\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 5,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:13",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"397\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 6,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:14",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"398\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 7,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:15",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"399\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 8,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:16",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"400\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 9,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-9",
+        "titulo": "Realizar cirurgias vídeo-endoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia",
+        "descricao": "Realizar cirurgias vídeo-endoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS) de treinamento em cirurgia vídeo-endoscópico em Ginecologia ou comprovação de produção cirúrgica no HMV ou como parte do treinamento em residência médica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:59:27",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 10,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-10",
+        "titulo": "Realizar cirurgias vídeo-endoscópicas para ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias malignas, envolvendo linfadenectomia, incuindo ressecção de órgãos não genitais",
+        "descricao": "Realizar cirurgias vídeo-endoscópicas para ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias malignas, envolvendo linfadenectomia, incuindo ressecção de órgãos não genitais (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS) de treinamento em cirurgia vídeo-endoscópico em Ginecologia ou comprovação de produção cirúrgica no HMV ou como parte do treinamento em residência médica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:59:28",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"401\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 11,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-11",
+        "titulo": "Realizar video-histeroscopia diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS)",
+        "descricao": "Realizar video-histeroscopia diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS) de treinamento em cirurgia vídeo-endoscópico em Ginecologia ou comprovação de produção cirúrgica no HMV ou como parte do treinamento em residência médica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:59:41",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 12,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-12",
+        "titulo": "Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária (necessidade de treinamento específico: apresentar certificado de treinamento específico em programa de especialização em uroginecologia e reconstrução pélvica",
+        "descricao": "Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária (necessidade de treinamento específico: apresentar certificado de treinamento específico em programa de especialização em uroginecologia e reconstrução pélvica ou comprovação de 100 cirurgias realizadas em paciente oncológico nos últimos 10 anos no HMV)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:59:53",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 13,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-13",
+        "titulo": "Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital",
+        "descricao": "Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:59:54",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"402\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 14,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-14",
+        "titulo": "Realizar cirurgias por vídeo-endoscopia assistidas por robô (necessidade de treinamento específico: apresentar certificado de treinamento robótico em curso validado pelo HMV)",
+        "descricao": "Realizar cirurgias por vídeo-endoscopia assistidas por robô (necessidade de treinamento específico: apresentar certificado de treinamento robótico em curso validado pelo HMV)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:59:55",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"403\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 15,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-15",
+        "titulo": "Realizar procedimento de coleta de óvulos orientado por ultrassonografia (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship",
+        "descricao": "Realizar procedimento de coleta de óvulos orientado por ultrassonografia (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional ou internacional)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:00:06",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 16,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-16",
+        "titulo": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso",
+        "descricao": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização em ultrassonografia ginecológica e obstétrica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:00:16",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":443}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 17,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-17",
+        "titulo": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal (necessidade de treinamento específico)",
+        "descricao": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização em ultrassonografia ginecológica e obstétrica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:00:28",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 18,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-18",
+        "titulo": "Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal (necessidade de treinamento específico)",
+        "descricao": "Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal (necessidade de treinamento específico: apresentar certificado de qualificação em cirurgia fetal)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:00:40",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":444}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 19,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-19",
+        "titulo": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem videolaparoscópica (necessidade de treinamento específico)",
+        "descricao": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem videolaparoscópica (necessidade de treinamento específico: apresentar certificado de residência médica em Cirurgia Geral e/ou Cirurgia Digestiva com comprovada presença de programa específico em cirurgia laparoscópica OU Certificado de conclusão e aprovação em Pós-graduação em Cirurgia Minimamente Invasiva com ênfase em Videolaparoscopia OU Certificado de área de atuação emitido pelo Colégio Brasileiro de Cirurgiões ou Sociedade Brasileira de Cirurgia Robótica e Minimamente Invasiva e/ou certificado como Membro Titular Qualificado emitido pela Sociedade Brasileira de Cirurgia Robótica e Minimamente Invasiva OU comprovar experiência em cirurgia videolaparoscópica com execução mínima de 150 procedimentos nos últimos 5 anos)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:00:52",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":445}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 20,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-20",
+        "titulo": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem robótica (necessidade de treinamento específico)",
+        "descricao": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem robótica (necessidade de treinamento específico: apresentar certificado de treinamento e habilitação em cirurgia robótica/cirurgião de console, com aprovação, emitido pela empresa Intuitive/Da Vinci Technology OU de treinamento com aprovação em curso HABILITADOR em cirurgia robótica (cirurgião de console) reconhecido/validado no exterior para realização de cirurgias robóticas na plataforma Da Vinci com comprovação de liberação para realizar cirurgias robóticas emitido por cirurgião habilitado como “proctor” pela Intuitive ou executar suas cirurgias no Hospital Moinhos de Vento sob supervisão de proctor validado pelo Programa de Cirurgia Robótica do Hospital Moinhos de Vento com esta finalidade, até liberação pelo mesmo)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:01:03",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":446}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 21,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-21",
+        "titulo": "Realizar procedimento de inseminação artificial e fertilização in vitro (necessidade de treinamento específico)",
+        "descricao": "Realizar procedimento de inseminação artificial e fertilização in vitro (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional ou internacional)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 01:01:15",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":447}",
+        "response_json": null
+      }
+    }
+  ]
+}

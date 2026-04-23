@@ -1,0 +1,168 @@
+{
+  "timestamp": "2025-09-18T21:40:32.278325",
+  "total_processados": 20,
+  "sucessos": 20,
+  "erros": 0,
+  "detalhes": [
+    {
+      "item": 1,
+      "nome": "Fellowship em Cardiologia Hospitalar",
+      "codOferta": "FELLOW-14",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1073}"
+    },
+    {
+      "item": 2,
+      "nome": "Fellowship em Cardiopatias Congênitas",
+      "codOferta": "FELLOW-15",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1074}"
+    },
+    {
+      "item": 3,
+      "nome": "Fellowship em Cirurgia Avançada de Joelho",
+      "codOferta": "FELLOW-16",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1075}"
+    },
+    {
+      "item": 4,
+      "nome": "Fellowship em Cirurgia Geral com ênfase em Cirurgia Minimamente Invasiva Avançada",
+      "codOferta": "FELLOW-17",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1076}"
+    },
+    {
+      "item": 5,
+      "nome": "Fellowship em Cirurgia Ginecológica Avançada",
+      "codOferta": "FELLOW-18",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1077}"
+    },
+    {
+      "item": 6,
+      "nome": "Fellowship em Cirurgia Robótica Urológica",
+      "codOferta": "FELLOW-19",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1078}"
+    },
+    {
+      "item": 7,
+      "nome": "Fellowship em Coloproctologia Avançada",
+      "codOferta": "FELLOW-20",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1079}"
+    },
+    {
+      "item": 8,
+      "nome": "Fellowship em Endourologia Avançada",
+      "codOferta": "FELLOW-21",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1080}"
+    },
+    {
+      "item": 9,
+      "nome": "Fellowship em Ensaios Clínicos",
+      "codOferta": "FELLOW-22",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1081}"
+    },
+    {
+      "item": 10,
+      "nome": "Fellowship em Imagem  Cardiovascular -Ressonância e Tomografia",
+      "codOferta": "FELLOW-23",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1082}"
+    },
+    {
+      "item": 11,
+      "nome": "Fellowship em Nefrointensivismo",
+      "codOferta": "FELLOW-24",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1083}"
+    },
+    {
+      "item": 12,
+      "nome": "Fellowship em Neurologia Hospitalar",
+      "codOferta": "FELLOW-25",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1084}"
+    },
+    {
+      "item": 13,
+      "nome": "Fellowship em Ortopedia e Traumatologia - Clínica e Cirurgia do Pé e Tornozelo",
+      "codOferta": "FELLOW-26",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1085}"
+    },
+    {
+      "item": 14,
+      "nome": "Fellowship em Pesquisa Clínica",
+      "codOferta": "FELLOW-27",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1086}"
+    },
+    {
+      "item": 15,
+      "nome": "Fellowship em Radiologia - Imagem Cardiovascular - Ressonância e Tomografia",
+      "codOferta": "FELLOW-28",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1087}"
+    },
+    {
+      "item": 16,
+      "nome": "Fellowship em Radiologia e Diagnóstico por Imagem - Subespecialidade Nível 4",
+      "codOferta": "FELLOW-29",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1088}"
+    },
+    {
+      "item": 17,
+      "nome": "Fellowship em Transplante de Medula óssea",
+      "codOferta": "FELLOW-30",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1089}"
+    },
+    {
+      "item": 18,
+      "nome": "Fellowship Multidisciplinar em Pesquisa Clínica",
+      "codOferta": "FELLOW-31",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1090}"
+    },
+    {
+      "item": 19,
+      "nome": "Fellowship Ortopedia e Traumatologia - Subespecialidade Ombro e Cotovelo",
+      "codOferta": "FELLOW-32",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1091}"
+    },
+    {
+      "item": 20,
+      "nome": "Ortopedia e Traumatologia Research - com enfase em  Ombro e Cotovelo",
+      "codOferta": "FELLOW-33",
+      "status": "SUCESSO",
+      "status_code": 200,
+      "response": "{\"success\":true,\"id\":1092}"
+    }
+  ]
+}

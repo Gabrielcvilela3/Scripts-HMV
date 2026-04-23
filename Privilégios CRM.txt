@@ -1,0 +1,1821 @@
+LISTAGEM DE LOCAIS - CRM
+==================================================
+
+--- ITEM 1 ---
+ID: 1
+CÓDIGO: PRV-CLI-2
+TÍTULO: PRV-CLI-2 - Realizar visita diária e determinar das prioridades do tratamento
+DESCRIÇÃO: Realizar visita diária e determinar das prioridades do tratamento
+
+--- ITEM 2 ---
+ID: 2
+CÓDIGO: PRV-CLI-AVA-3
+TÍTULO: PRV-CLI-AVA-3 - Administrar sedação
+DESCRIÇÃO: Administrar sedação
+
+--- ITEM 3 ---
+ID: 3
+CÓDIGO: PVR-0
+TÍTULO: N/A
+DESCRIÇÃO: None
+
+--- ITEM 4 ---
+ID: 4
+CÓDIGO: PRV-CLI-4
+TÍTULO: PRV-CLI-4 - Realizar ultrassom à beira do leito
+DESCRIÇÃO: Realizar ultrassom à beira do leito
+
+--- ITEM 5 ---
+ID: 5
+CÓDIGO: PVR-CLI-5
+TÍTULO: PRV-CLI-5 - Realizar punção venosa central para inserção de cateter venoso
+DESCRIÇÃO: Realizar punção venosa central para inserção de cateter venoso
+
+--- ITEM 6 ---
+ID: 6
+CÓDIGO: PRV-GO-ESP-6
+TÍTULO: PRV-GO-ESP-6 - Realizar videohisteroscopia diagnóstica ou terapêutica
+DESCRIÇÃO: Realizar videohisteroscopia diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS)...
+
+--- ITEM 7 ---
+ID: 7
+CÓDIGO: PRV-GO-ESP-7
+TÍTULO: PRV-GO-ESP-7 - Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária
+DESCRIÇÃO: Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária (necessidade de treinamento específico: apresentar certificado de treinamento específico em programa de especialização em uroginecologia e reconstrução pélvica ou comp
+
+--- ITEM 8 ---
+ID: 8
+CÓDIGO: PRV-GO-8
+TÍTULO: PRV-GO-8 - Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital
+DESCRIÇÃO: Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital
+
+--- ITEM 9 ---
+ID: 9
+CÓDIGO: PRV-CLI-1
+TÍTULO: PRV-CLI-1 - Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 10 ---
+ID: 11
+CÓDIGO: PRV-CLI-6
+TÍTULO: PRV-CLI-6 - Realizar punção arterial para monitorização invasiva da pressão arterial
+DESCRIÇÃO: Realizar punção arterial para monitorização invasiva da pressão arterial
+
+--- ITEM 11 ---
+ID: 13
+CÓDIGO: PRV-OTO-1
+TÍTULO: PRV-OTO-1 - Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico...
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 12 ---
+ID: 15
+CÓDIGO: PRV-OTO-2
+TÍTULO: PRV-OTO-2 - Realizar cuidados pré e pós-operatórios de pacientes submetidos à cirurgia otorrinolaringologica
+DESCRIÇÃO: Realizar cuidados pré e pós-operatórios de pacientes submetidos à cirurgia otorrinolaringologica
+
+--- ITEM 13 ---
+ID: 16
+CÓDIGO: PRV-OTO-3
+TÍTULO: PRV-OTO-3 - Realizar o tratamento clínico e cirúrgico de doenças otorrinolaringológicas (atendimento eletivo ou de urgência)
+DESCRIÇÃO: Realizar o tratamento clínico e cirúrgico de doenças otorrinolaringológicas (atendimento eletivo ou de urgência)
+
+--- ITEM 14 ---
+ID: 17
+CÓDIGO: PRV-OTO-4
+TÍTULO: PRV-OTO-4 - Realizar intubação endotraqueal
+DESCRIÇÃO: Realizar intubação endotraqueal
+
+--- ITEM 15 ---
+ID: 18
+CÓDIGO: PRV-OTO-5
+TÍTULO: PRV-OTO-5 - Realizar traqueostomia
+DESCRIÇÃO: Realizar traqueostomia
+
+--- ITEM 16 ---
+ID: 19
+CÓDIGO: PRV-OTO-6
+TÍTULO: PRV-OTO-6 - Realizar tamponamento nasal anterior e posterior
+DESCRIÇÃO: Realizar tamponamento nasal anterior e posterior
+
+--- ITEM 17 ---
+ID: 20
+CÓDIGO: PRV-OTO-7
+TÍTULO: PRV-OTO-7 - Interpretar audiometria e exames radiológicos da especialidade
+DESCRIÇÃO: Interpretar audiometria e exames radiológicos da especialidade
+
+--- ITEM 18 ---
+ID: 21
+CÓDIGO: PRV-OTO-8
+TÍTULO: PRV-OTO-8 - Identificar e manejar abscessos profundos cérvico-faríngeos
+DESCRIÇÃO: Identificar e manejar abscessos profundos cérvico-faríngeos
+
+--- ITEM 19 ---
+ID: 22
+CÓDIGO: PRV-OTO-9
+TÍTULO: PRV-OTO-9 - Realizar procedimento de craniotomia da fossa posterior ou fossa média (necessidade de treinamento específico: comprovação de habilitação em Neuro-otologia)
+DESCRIÇÃO: Realizar procedimento de craniotomia da fossa posterior ou fossa média (necessidade de treinamento específico: comprovação de habilitação em Neuro-otologia)
+
+--- ITEM 20 ---
+ID: 23
+CÓDIGO: PRV-OTO-10
+TÍTULO: PRV-OTO-10 - Realizar cirurgia de tumores supra-esfenoidais ou da fossa anterior por via nasossinusal (necessidade de treinamento específico: comprovação de habilitação em Rinossinusologia)
+DESCRIÇÃO: Realizar cirurgia de tumores supra-esfenoidais ou da fossa anterior por via nasossinusal (necessidade de treinamento específico: comprovação de habilitação em Rinossinusologia)
+
+--- ITEM 21 ---
+ID: 24
+CÓDIGO: PRV-OTO-11
+TÍTULO: PRV-OTO-11 - Realizar radio-cirurgia estéreotática
+DESCRIÇÃO: Realizar radio-cirurgia estéreotática
+
+--- ITEM 22 ---
+ID: 25
+CÓDIGO: PRV-OTO-12
+TÍTULO: PRV-OTO-12 - Realizar cirurgia micro-vascular
+DESCRIÇÃO: Realizar cirurgia micro-vascular
+
+--- ITEM 23 ---
+ID: 26
+CÓDIGO: PRV-OTO-13
+TÍTULO: PRV-OTO-13 - Realizar ultrassom em cabeça e pescoço (necessidade de treinamento específico: comprovação de habilitação em exames ecográficos em Cabeça e Pescoço)
+DESCRIÇÃO: Realizar ultrassom em cabeça e pescoço (necessidade de treinamento específico: comprovação de habilitação em exames ecográficos em Cabeça e Pescoço)
+
+--- ITEM 24 ---
+ID: 27
+CÓDIGO: PRV-OTO-14
+TÍTULO: PRV-OTO-14 - Utilizar microscópio cirúrgico, fotóforo, endoscópios, microdebridadores, laser cirúrgico, radiofrequência, neuro-navegador e instrumentos otológicos, nasossinusais, faríngeos e laríngeos
+DESCRIÇÃO: Utilizar microscópio cirúrgico, fotóforo, endoscópios, microdebridadores, laser cirúrgico, radiofrequência, neuro-navegador e instrumentos otológicos, nasossinusais, faríngeos e laríngeos
+
+--- ITEM 25 ---
+ID: 28
+CÓDIGO: PRV-OTO-AVA-15
+TÍTULO: PRV-OTO-AVA-15 - Realizar procedimentos diagnósticos e terapêuticos por abordagem robótica
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos por abordagem robótica, necessidade de treinamento específico: apresentar certificado de treinamento e habilitação em cirurgia robótica/cirurgião de console, com aprovação, emitido pela empresa Intuitive.
+
+--- ITEM 26 ---
+ID: 29
+CÓDIGO: PRV-GO-1
+TÍTULO: PRV-GO-1 - Admitir, avaliar, diagnosticar e estabelecer terapias clínicas para pacientes com doenças ginecológicas ou obstétricas em nível ambulatorial e internação em qualquer unidade do HMV, baseadas nas melhores práticas científicas.
+DESCRIÇÃO: Admitir, avaliar, diagnosticar e estabelecer terapias clínicas para pacientes com doenças ginecológicas ou obstétricas em nível ambulatorial e internação em qualquer unidade do HMV, baseadas nas melhores práticas científicas.
+
+--- ITEM 27 ---
+ID: 30
+CÓDIGO: PRV-GO-2
+TÍTULO: PRV-GO-2 - Admitir, avaliar, diagnosticar e estabelecer terapias cirúrgicas para pacientes com doenças ginecológicas ou obstétricas em nível ambulatorial e internação em qualquer unidade do HMV, baseadas nas melhores práticas científicas.
+DESCRIÇÃO: Admitir, avaliar, diagnosticar e estabelecer terapias cirúrgicas para pacientes com doenças ginecológicas ou obstétricas em nível ambulatorial e internação em qualquer unidade do HMV, baseadas nas melhores práticas científicas.
+
+--- ITEM 28 ---
+ID: 31
+CÓDIGO: PRV-GO-3
+TÍTULO: PRV-GO-3 - Realizar parto, via baixa ou cesariana, inclusive instrumentados, curetagem uterina, aspiração manual intra-terina (AMIU) pós-abortamento
+DESCRIÇÃO: Realizar parto, via baixa ou cesariana, inclusive instrumentados, curetagem uterina, aspiração manual intra-terina (AMIU) pós-abortamento
+
+--- ITEM 29 ---
+ID: 32
+CÓDIGO: PRV-GO-4
+TÍTULO: PRV-GO-4 - Realizar ultrassom à beira do leito
+DESCRIÇÃO: Realizar ultrassom à beira do leito
+
+--- ITEM 30 ---
+ID: 33
+CÓDIGO: PRV-GO-ESP-5
+TÍTULO: PRV-GO-ESP-5 - Realizar cirurgias vídeoendoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas ou malignas, incluíndo linfadenectomia e ressecção de órgãos não genitais
+DESCRIÇÃO: Realizar cirurgias vídeoendoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas ou malignas, incluíndo linfadenectomia e ressecção de órgãos não genitais...
+
+--- ITEM 31 ---
+ID: 34
+CÓDIGO: PRV-GO-AVA-9
+TÍTULO: PRV-GO-AVA-9 - Realizar cirurgias por abordagem robótica
+DESCRIÇÃO: Realizar cirurgias por abordagem robótica (necessidade de treinamento específico: apresentar certificado de treinamento e habilitação em cirurgia robótica/cirurgião de console, com aprovação, emitido pela empresa Intuitive/Da Vinci Technology...
+
+--- ITEM 32 ---
+ID: 35
+CÓDIGO: PRV-GO-ESP-10
+TÍTULO: PRV-GO-ESP-10 - Realizar procedimento de coleta de óvulos orientado por ultrassonografia
+DESCRIÇÃO: Realizar procedimento de coleta de óvulos orientado por ultrassonografia (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional...
+
+--- ITEM 33 ---
+ID: 36
+CÓDIGO: PRV-ANE-1
+TÍTULO: PRV-ANE-1 - Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 34 ---
+ID: 37
+CÓDIGO: PRV-ANE-2
+TÍTULO: PRV-ANE-2 - Avaliar, acompanhar e tratar pacientes inconscientes ou insensíveis à dor durante procedimentos, incluíndo pré-, trans- e pós-operatório (procedimentos com neccessidade de treinamento ou área de atuação específica descritos em outros itens)
+DESCRIÇÃO: Avaliar, acompanhar e tratar pacientes inconscientes ou insensíveis à dor durante procedimentos, incluíndo pré-, trans- e pós-operatório (procedimentos com neccessidade de treinamento ou área de atuação específica descritos em outros itens)
+
+--- ITEM 35 ---
+ID: 38
+CÓDIGO: PRV-ANE-3
+TÍTULO: PRV-ANE-3 - Realizar avaliação pré-anestésica
+DESCRIÇÃO: Realizar avaliação pré-anestésica
+
+--- ITEM 36 ---
+ID: 39
+CÓDIGO: PRV-ANE-4
+TÍTULO: PRV-ANE-4 - Realizar anestesia geral (inalatória ou endovenosa), regional (raquidiana, peridural ou bloqueio de plexo nervoso) ou local
+DESCRIÇÃO: Realizar anestesia geral (inalatória ou endovenosa), regional (raquidiana, peridural ou bloqueio de plexo nervoso) ou local
+
+--- ITEM 37 ---
+ID: 40
+CÓDIGO: PRV-ANE-5
+TÍTULO: PRV-ANE-5 - Administrar sedação leve, moderada ou profunda
+DESCRIÇÃO: Administrar sedação leve, moderada ou profunda
+
+--- ITEM 38 ---
+ID: 41
+CÓDIGO: PRV-ANE-6
+TÍTULO: PRV-ANE-6 - Realizar ultrassom à beira do leito
+DESCRIÇÃO: Realizar ultrassom à beira do leito
+
+--- ITEM 39 ---
+ID: 42
+CÓDIGO: PRV-ANE-7
+TÍTULO: PRV-ANE-7 - Realizar punção venosa central para inserção de cateter venoso
+DESCRIÇÃO: Realizar punção venosa central para inserção de cateter venoso
+
+--- ITEM 40 ---
+ID: 43
+CÓDIGO: PRV-ANE-8
+TÍTULO: PRV-ANE-8 - Realizar punção arterial para monitorização invasiva da pressão arterial
+DESCRIÇÃO: Realizar punção arterial para monitorização invasiva da pressão arterial
+
+--- ITEM 41 ---
+ID: 44
+CÓDIGO: PRV-ANE-9
+TÍTULO: PRV-ANE-9 - Realizar intubação endotraqueal
+DESCRIÇÃO: Realizar intubação endotraqueal
+
+--- ITEM 42 ---
+ID: 45
+CÓDIGO: PRV-ANE-10
+TÍTULO: PRV-ANE-10 - Manejar respiradores mecânicos invasivos e não invasivos
+DESCRIÇÃO: Manejar respiradores mecânicos invasivos e não invasivos
+
+--- ITEM 43 ---
+ID: 46
+CÓDIGO: PRV-ANE-11
+TÍTULO: PRV-ANE-11 - Realizar o implante de marcapasso venoso temporário
+DESCRIÇÃO: Realizar o implante de marcapasso venoso temporário
+
+--- ITEM 44 ---
+ID: 47
+CÓDIGO: PRV-ANE-12
+TÍTULO: PRV-ANE-12 - Realizar transporte de pacientes críticos
+DESCRIÇÃO: Realizar transporte de pacientes críticos
+
+--- ITEM 45 ---
+ID: 48
+CÓDIGO: PRV-ANE-13
+TÍTULO: PRV-ANE-13 - Realizar anestesia em obstetrícia
+DESCRIÇÃO: Realizar anestesia em obstetrícia 
+
+--- ITEM 46 ---
+ID: 49
+CÓDIGO: PRV-ANE-ESP-14
+TÍTULO: PRV-ANE-ESP-14 - Realizar broncoscopia flexível diagnóstica ou terapêutica
+DESCRIÇÃO: Realizar broncoscopia flexível diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificado de área de atuação em Endoscopia Respiratória pela Sociedade Brasileira de Pneumologia e Tisiologia/Sociedade Brasileira de Endoscopia
+
+--- ITEM 47 ---
+ID: 50
+CÓDIGO: PRV-ANE-15
+TÍTULO: PRV-ANE-15 - Realizar ecocardiografia trans-esofágica para diagnósticos e monitorização trans-anestésica (necessidade de treinamento específico: apresentar certificado de curso / qualificação para realização de ecocardiografia trans-esofágica)
+DESCRIÇÃO: Realizar ecocardiografia trans-esofágica para diagnósticos e monitorização trans-anestésica (necessidade de treinamento específico: apresentar certificado de curso / qualificação para realização de ecocardiografia trans-esofágica)
+
+--- ITEM 48 ---
+ID: 51
+CÓDIGO: PRV-ANE-ESP-16
+TÍTULO: PRV-ANE-ESP-16 - Realizar anestesia neonatal (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+DESCRIÇÃO: Realizar anestesia neonatal (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+
+--- ITEM 49 ---
+ID: 52
+CÓDIGO: PRV-ANE-ESP-17
+TÍTULO: PRV-ANE-ESP-17 - Realizar anestesia para neurocirurgia (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+DESCRIÇÃO: Realizar anestesia para neurocirurgia (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+
+--- ITEM 50 ---
+ID: 53
+CÓDIGO: PRV-ANE-ESP-18
+TÍTULO: PRV-ANE-ESP-18 - Realizar anestesia cardiovascular (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+DESCRIÇÃO: Realizar anestesia cardiovascular (necessidade de treinamento específico: com comprovação do número de anestesias no último ano e cartas de recomendação de pelo menos um cirurgião e um anestesista da subespecialidade)
+
+--- ITEM 51 ---
+ID: 54
+CÓDIGO: PRV-ANE-ESP-19
+TÍTULO: PRV-ANE-ESP-19 - Atuar no tratamento da dor crônica
+DESCRIÇÃO: Atuar no tratamento da dor crônica (necessidade de treinamento específico: apresentar comprovação do curso de pós-graduação em dor com o respectivo programa teórico e prático e carta de recomendação de pelo menos um anestesista da subespecialidade)
+
+--- ITEM 52 ---
+ID: 55
+CÓDIGO: PRV-PAT-1
+TÍTULO: PRV-PAT-1 - Realizar exame anatomopatológico
+DESCRIÇÃO: Realizar exame anatomopatológico
+
+--- ITEM 53 ---
+ID: 56
+CÓDIGO: PRV-PAT-2
+TÍTULO: PRV-PAT-2 - Realizar exame citopatológico
+DESCRIÇÃO: Realizar exame citopatológico
+
+--- ITEM 54 ---
+ID: 57
+CÓDIGO: PRV-PAT-3
+TÍTULO: PRV-PAT-3 - Realizar revisão de lâmina em anatomia patológica
+DESCRIÇÃO: Realizar revisão de lâmina em anatomia patológica
+
+--- ITEM 55 ---
+ID: 58
+CÓDIGO: PRV-PAT-4
+TÍTULO: PRV-PAT-4 - Realizar exame de imunohistoquímica
+DESCRIÇÃO: Realizar exame de imunohistoquímica
+
+--- ITEM 56 ---
+ID: 59
+CÓDIGO: PRV-PAT-5
+TÍTULO: PRV-PAT-5 - Realizar exame de imunocitoquímica
+DESCRIÇÃO: Realizar exame de imunocitoquímica
+
+--- ITEM 57 ---
+ID: 60
+CÓDIGO: PRV-PAT-6
+TÍTULO: PRV-PAT-6 - Realizar exames moleculares (tecidos)
+DESCRIÇÃO: Realizar exames moleculares (tecidos)
+
+--- ITEM 58 ---
+ID: 61
+CÓDIGO: PRV-PAT-7
+TÍTULO: PRV-PAT-7 - Realizar exame de mielograma
+DESCRIÇÃO: Realizar exame de mielograma
+
+--- ITEM 59 ---
+ID: 62
+CÓDIGO: PRV-RAD-1
+TÍTULO: PRV-RAD-1 - Avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+DESCRIÇÃO: Avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 60 ---
+ID: 63
+CÓDIGO: PRV-RAD-2
+TÍTULO: PRV-RAD-2 - Realizar visita diária e determinar das prioridades do tratamento
+DESCRIÇÃO: Realizar visita diária e determinar das prioridades do tratamento
+
+--- ITEM 61 ---
+ID: 64
+CÓDIGO: PRV-RAD-3
+TÍTULO: PRV-RAD-3 - Indicar e prescrever tratamento de radioterapia
+DESCRIÇÃO: Indicar e prescrever tratamento de radioterapia
+
+--- ITEM 62 ---
+ID: 65
+CÓDIGO: PRV-RAD-4
+TÍTULO: PRV-RAD-4 - Acompanhar o tratamento radioterápico
+DESCRIÇÃO: Acompanhar o tratamento radioterápico
+
+--- ITEM 63 ---
+ID: 66
+CÓDIGO: PRV-RAD-5
+TÍTULO: PRV-RAD-5 - Realizar tratamento com braquiterapia
+DESCRIÇÃO: Realizar tratamento com braquiterapia
+
+--- ITEM 64 ---
+ID: 67
+CÓDIGO: PRV-RAD-6
+TÍTULO: PRV-RAD-6 - Realizar radiocirurgia por radioterapia estereotáxica intracraniana
+DESCRIÇÃO: Realizar radiocirurgia por radioterapia estereotáxica intracraniana
+
+--- ITEM 65 ---
+ID: 68
+CÓDIGO: PRV-RAD-7
+TÍTULO: PRV-RAD-7 - Realizar radioterapia estereotáxica extracraniana
+DESCRIÇÃO: Realizar radioterapia estereotáxica extracraniana
+
+--- ITEM 66 ---
+ID: 69
+CÓDIGO: PRV-RAD-8
+TÍTULO: PRV-RAD-8 - Realizar radioterapia intraoperatória
+DESCRIÇÃO: Realizar radioterapia intraoperatória
+
+--- ITEM 67 ---
+ID: 70
+CÓDIGO: PRV-PED-1
+TÍTULO: PRV-PED-1 - Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 68 ---
+ID: 71
+CÓDIGO: PRV-PED-2
+TÍTULO: PRV-PED-2 - Realizar visita diária e determinar das prioridades do tratamento
+DESCRIÇÃO: Realizar visita diária e determinar das prioridades do tratamento
+
+--- ITEM 69 ---
+ID: 72
+CÓDIGO: PRV-PED-AVA-3
+TÍTULO: PRV-PED-AVA-3 - Administrar sedação
+DESCRIÇÃO: Administrar sedação
+
+--- ITEM 70 ---
+ID: 73
+CÓDIGO: PRV-PED-4
+TÍTULO: PRV-PED-4 - Realizar ultrassom à beira do leito
+DESCRIÇÃO: Realizar ultrassom à beira do leito
+
+--- ITEM 71 ---
+ID: 74
+CÓDIGO: PRV-PED-5
+TÍTULO: PRV-PED-5 - Realizar punção venosa central para inserção de cateter venoso
+DESCRIÇÃO: Realizar punção venosa central para inserção de cateter venoso
+
+--- ITEM 72 ---
+ID: 75
+CÓDIGO: PRV-PED-6
+TÍTULO: PRV-PED-6 - Realizar punção arterial para monitorização invasiva da pressão arterial
+DESCRIÇÃO: Realizar punção arterial para monitorização invasiva da pressão arterial
+
+--- ITEM 73 ---
+ID: 76
+CÓDIGO: PRV-PED-7
+TÍTULO: PRV-PED-7 - Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+DESCRIÇÃO: Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+
+--- ITEM 74 ---
+ID: 77
+CÓDIGO: PRV-PED-8
+TÍTULO: PRV-PED-8 - Realizar intubação endotraqueal
+DESCRIÇÃO: Realizar intubação endotraqueal
+
+--- ITEM 75 ---
+ID: 78
+CÓDIGO: PRV-PED-9
+TÍTULO: PRV-PED-9 - Manejar respiradores mecânicos invasivos e não invasivos
+DESCRIÇÃO: Manejar respiradores mecânicos invasivos e não invasivos
+
+--- ITEM 76 ---
+ID: 79
+CÓDIGO: PRV-PED-10
+TÍTULO: PRV-PED-10 - Realizar punção lombar
+DESCRIÇÃO: Realizar punção lombar
+
+--- ITEM 77 ---
+ID: 80
+CÓDIGO: PRV-PED-ESP-11
+TÍTULO: PRV-PED-ESP-11 - Prescrever nutrição parenteral (necessidade de treinamento específico validado pela EMTN)
+DESCRIÇÃO: Prescrever nutrição parenteral (necessidade de treinamento específico validado pela EMTN)
+
+--- ITEM 78 ---
+ID: 81
+CÓDIGO: PRV-PED-12
+TÍTULO: PRV-PED-12 - Orientar os pais quanto aos cuidados com a criança e o recém-nascido
+DESCRIÇÃO: Orientar os pais quanto aos cuidados com a criança e o recém-nascido
+
+--- ITEM 79 ---
+ID: 82
+CÓDIGO: PRV-PED-13
+TÍTULO: PRV-PED-13 - Avaliar e orientar a alta hospitalar da criança e do recém-nascido
+DESCRIÇÃO: Avaliar e orientar a alta hospitalar da criança e do recém-nascido
+
+--- ITEM 80 ---
+ID: 83
+CÓDIGO: PRV-PED-14
+TÍTULO: PRV-PED-14 - Favorecer o vínculo mãe-filho e a humanização no atendimento
+DESCRIÇÃO: Favorecer o vínculo mãe-filho e a humanização no atendimento
+
+--- ITEM 81 ---
+ID: 84
+CÓDIGO: PRV-PED-15
+TÍTULO: PRV-PED-15 - Realizar cateterismo cateterismo umbilical arterial e venoso
+DESCRIÇÃO: Realizar cateterismo cateterismo umbilical arterial e venoso
+
+--- ITEM 82 ---
+ID: 85
+CÓDIGO: PRV-PED-16
+TÍTULO: PRV-PED-16 - Administrar surfactante
+DESCRIÇÃO: Administrar surfactante
+
+--- ITEM 83 ---
+ID: 86
+CÓDIGO: PRV-PED-17
+TÍTULO: PRV-PED-17 - Realizar transporte de pacientes pediátricos ou neonatos críticos
+DESCRIÇÃO: Realizar transporte de pacientes pediátricos ou neonatos críticos
+
+--- ITEM 84 ---
+ID: 87
+CÓDIGO: PRV-PED-18
+TÍTULO: PRV-PED-18 - Se o médico possui subespecialidade pediátrica (exemplo: gastroenterologia, nefrologia, cardiologia intervencionista, neurologia, pneumologia) especificar privilégios específicos no campo abaixo
+DESCRIÇÃO: Se o médico possui subespecialidade pediátrica (exemplo: gastroenterologia, nefrologia, cardiologia intervencionista, neurologia, pneumologia) especificar privilégios específicos no campo abaixo 
+
+--- ITEM 85 ---
+ID: 88
+CÓDIGO: PRV-GO-ESP-14
+TÍTULO: PRV-GO-ESP-14 - Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal
+DESCRIÇÃO: Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal (necessidade de treinamento específico: apresentar cetificado de qualificação em cirurgia fetal)
+
+--- ITEM 86 ---
+ID: 89
+CÓDIGO: PRV-CLI-7
+TÍTULO: PRV-CLI-7 - Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+DESCRIÇÃO: Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+
+--- ITEM 87 ---
+ID: 90
+CÓDIGO: PRV-CLI-8
+TÍTULO: PRV-CLI-8 - Realizar intubação endotraqueal
+DESCRIÇÃO: Realizar intubação endotraqueal
+
+--- ITEM 88 ---
+ID: 91
+CÓDIGO: PRV-CLI-9
+TÍTULO: PRV-CLI-9 - Manejar respiradores mecânicos invasivos e não invasivos
+DESCRIÇÃO: Manejar respiradores mecânicos invasivos e não invasivos
+
+--- ITEM 89 ---
+ID: 92
+CÓDIGO: PRV-CLI-10
+TÍTULO: PRV-CLI-10 - Realizar punção lombar
+DESCRIÇÃO: Realizar punção lombar
+
+--- ITEM 90 ---
+ID: 93
+CÓDIGO: PRV-CLI-11
+TÍTULO: PRV-CLI-11 - Realizar drenagem de tórax
+DESCRIÇÃO: Realizar drenagem de tórax
+
+--- ITEM 91 ---
+ID: 95
+CÓDIGO: PRV-CLI-ESP-12
+TÍTULO: PRV-CLI-ESP-12 - Prescrever nutrição parenteral (necessidade de treinamento específico validado pela EMTN)
+DESCRIÇÃO: Prescrever nutrição parenteral (necessidade de treinamento específico validado pela EMTN)
+
+--- ITEM 92 ---
+ID: 96
+CÓDIGO: PRV-CLI-13
+TÍTULO: PRV-CLI-13 - Realizar pericardiocentese
+DESCRIÇÃO: Realizar pericardiocentese
+
+--- ITEM 93 ---
+ID: 97
+CÓDIGO: PRV-CLI-14
+TÍTULO: PRV-CLI-14 - Assinar laudo de interpretação de ECG e métodos não-invasivos cardiológicos
+DESCRIÇÃO: Assinar laudo de interpretação de ECG e métodos não-invasivos cardiológicos
+
+--- ITEM 94 ---
+ID: 98
+CÓDIGO: PRV-CLI-15
+TÍTULO: PRV-CLI-15 - Realizar o implante de marcapasso venoso temporário
+DESCRIÇÃO: Realizar o implante de marcapasso venoso temporário
+
+--- ITEM 95 ---
+ID: 99
+CÓDIGO: PRV-CLI-16
+TÍTULO: PRV-CLI-16 - Realizar cateterismo cardíaco direito e esquerdo
+DESCRIÇÃO: Realizar cateterismo cardíaco direito e esquerdo
+
+--- ITEM 96 ---
+ID: 100
+CÓDIGO: PRV-CLI-17
+TÍTULO: PRV-CLI-17 - Realizar estudo eletrofisiológico sem e com ablação cardíaca (treinamento)
+DESCRIÇÃO: Realizar estudo eletrofisiológico sem e com ablação cardíaca (treinamento)
+
+--- ITEM 97 ---
+ID: 101
+CÓDIGO: PRV-CLI-18
+TÍTULO: PRV-CLI-18 - Realizar mapeamento cardíaco com sistema tridimensional
+DESCRIÇÃO: Realizar mapeamento cardíaco com sistema tridimensional
+
+--- ITEM 98 ---
+ID: 102
+CÓDIGO: PRV-CLI-19
+TÍTULO: PRV-CLI-19 - Realizar implante de marcapasso definitivo
+DESCRIÇÃO: Realizar implante de marcapasso definitivo
+
+--- ITEM 99 ---
+ID: 103
+CÓDIGO: PRV-CLI-20
+TÍTULO: PRV-CLI-20 - Inserir dispositivos de estimulação cardíaca - ressincronização e cardiodesfibrilador
+DESCRIÇÃO: Inserir dispositivos de estimulação cardíaca - ressincronização e cardiodesfibrilador
+
+--- ITEM 100 ---
+ID: 104
+CÓDIGO: PRV-CLI-21
+TÍTULO: PRV-CLI-21 - Avaliar e programar marcapasso e dispositivos cardíacos implantados
+DESCRIÇÃO: Avaliar e programar marcapasso e dispositivos cardíacos implantados
+
+--- ITEM 101 ---
+ID: 105
+CÓDIGO: PRV-CLI-22
+TÍTULO: PRV-CLI-22 - Interpretar métodos diagnósticos cardíacos não-invasivos (Holter, Loop, teste tilt)
+DESCRIÇÃO: Interpretar métodos diagnósticos cardíacos não-invasivos (Holter, Loop, teste tilt)
+
+--- ITEM 102 ---
+ID: 106
+CÓDIGO: PRV-CLI-33
+TÍTULO: PRV-CLI-33 - Prescrever e instalar hemodiálise intermitente (aguda e crônica)
+DESCRIÇÃO: Prescrever e instalar hemodiálise intermitente (aguda e crônica)
+
+--- ITEM 103 ---
+ID: 107
+CÓDIGO: PRV-CLI-34
+TÍTULO: PRV-CLI-34 - Prescrever e instalar dialise peritoneal (aguda e crônica)
+DESCRIÇÃO: Prescrever e instalar dialise peritoneal (aguda e crônica)
+
+--- ITEM 104 ---
+ID: 108
+CÓDIGO: PRV-CLI-35
+TÍTULO: PRV-CLI-35 - Prescrever e instalar métodos de hemodiálise contínuos (HFVVC, HDFVVC, UF, hemoperfusão)
+DESCRIÇÃO: Prescrever e instalar métodos de hemodiálise contínuos (HFVVC, HDFVVC, UF, hemoperfusão)
+
+--- ITEM 105 ---
+ID: 109
+CÓDIGO: PRV-CLI-36
+TÍTULO: PRV-CLI-36 - Prescrever e instalar plasmaferese
+DESCRIÇÃO: Prescrever e instalar plasmaferese
+
+--- ITEM 106 ---
+ID: 110
+CÓDIGO: PRV-CLI-37
+TÍTULO: PRV-CLI-37 - Realizar biopsia renal (rim nativo e rim transplantado)
+DESCRIÇÃO: Realizar biopsia renal (rim nativo e rim transplantado)
+
+--- ITEM 107 ---
+ID: 111
+CÓDIGO: PRV-CLI-38
+TÍTULO: PRV-CLI-38 - Indicar transplante renal e acompanhar clinicamente o paciente transplantado
+DESCRIÇÃO: Indicar transplante renal e acompanhar clinicamente o paciente transplantado
+
+--- ITEM 108 ---
+ID: 112
+CÓDIGO: PRV-CLI-39
+TÍTULO: PRV-CLI-39 - Prescrever e administrar terapia antineoplásica
+DESCRIÇÃO: Prescrever e administrar terapia antineoplásica
+
+--- ITEM 109 ---
+ID: 113
+CÓDIGO: PRV-CLI-AVA-40
+TÍTULO: PRV-CLI-AVA-40 - Prescrever e administrar terapia antineoplásica com fins de intensificação terapêutica ou condicionamento para transplante de medula óssea (médicos do programa de transplante de medula óssea)
+DESCRIÇÃO: Prescrever e administrar terapia antineoplásica com fins de intensificação terapêutica ou condicionamento para transplante de medula óssea (médicos do programa de transplante de medula óssea)
+
+--- ITEM 110 ---
+ID: 114
+CÓDIGO: PRV-CLI-42
+TÍTULO: PRV-CLI-42 - Interpretar provas de função pulmonar
+DESCRIÇÃO: Interpretar provas de função pulmonar
+
+--- ITEM 111 ---
+ID: 115
+CÓDIGO: PRV-CLI-43
+TÍTULO: PRV-CLI-43 - Realizar biópsia pleural percutânea
+DESCRIÇÃO: Realizar biópsia pleural percutânea
+
+--- ITEM 112 ---
+ID: 116
+CÓDIGO: PRV-CLI-ESP-47
+TÍTULO: PRV-CLI-ESP-47 - Realizar ecobroncoscopia (EBUS) (necessidade de treinamento específico: apresentar certificado de treinamento em curso específico e/ou estágio em centro formador reconhecido, e ter realizado 20 procedimentos supervisionados.
+DESCRIÇÃO: Realizar ecobroncoscopia (EBUS) (necessidade de treinamento específico: apresentar certificado de treinamento em curso específico e/ou estágio em centro formador reconhecido, e ter realizado 20 procedimentos supervisionados.
+
+--- ITEM 113 ---
+ID: 117
+CÓDIGO: PRV-CLI-ESP-49
+TÍTULO: PRV-CLI-ESP-49 - Realizar procedimentos diagnósticos e terapêuticos de neurointervenção (necessidade de treinamento específico: apresentar comprovação de formação em neurorradiologia intervencionista ou título da Sociedade de Neurorradiologia)
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos de neurointervenção (necessidade de treinamento específico: apresentar comprovação de formação em neurorradiologia intervencionista ou título da Sociedade de Neurorradiologia)
+
+--- ITEM 114 ---
+ID: 118
+CÓDIGO: PRV-CLI-ESP-50
+TÍTULO: PRV-CLI-ESP-50 - Realizar Doppler Transcraniano (necessidade de treinamento específico validado pela chefia do serviço)
+DESCRIÇÃO: Realizar Doppler Transcraniano (necessidade de treinamento específico validado pela chefia do serviço)
+
+--- ITEM 115 ---
+ID: 119
+CÓDIGO: PRV-CLI-ESP-51
+TÍTULO: PRV-CLI-ESP-51 - Realizar eletroneuromiografia - ENMG (necessidade de treinamento específico)
+DESCRIÇÃO: Realizar eletroneuromiografia - ENMG (necessidade de treinamento específico)
+
+--- ITEM 116 ---
+ID: 120
+CÓDIGO: PRV-CLI-ESP-52
+TÍTULO: PRV-CLI-ESP-52 - Interpretar eletroencefalograma - EEG (necessidade de treinamento específico)
+DESCRIÇÃO: Interpretar eletroencefalograma - EEG (necessidade de treinamento específico)
+
+--- ITEM 117 ---
+ID: 121
+CÓDIGO: PRV-CLI-ESP-53
+TÍTULO: PRV-CLI-ESP-53 - Realizar potencial evocado (necessidade de treinamento específico)
+DESCRIÇÃO: Realizar potencial evocado (necessidade de treinamento específico)
+
+--- ITEM 118 ---
+ID: 122
+CÓDIGO: PRV-CLI-54
+TÍTULO: PRV-CLI-54 - Realizar injeção de toxina botulínica
+DESCRIÇÃO: Realizar injeção de toxina botulínica
+
+--- ITEM 119 ---
+ID: 123
+CÓDIGO: PRV-CLI-55
+TÍTULO: PRV-CLI-55 - Realizar psicoterapia individual, familiar ou em grupo
+DESCRIÇÃO: Realizar psicoterapia individual, familiar ou em grupo
+
+--- ITEM 120 ---
+ID: 124
+CÓDIGO: PRV-CLI-56
+TÍTULO: PRV-CLI-56 - Realizar transporte de pacientes críticos
+DESCRIÇÃO: Realizar transporte de pacientes críticos
+
+--- ITEM 121 ---
+ID: 125
+CÓDIGO: PRV-CLI-57
+TÍTULO: PRV-CLI-57 - Prescrever tratamento fisioterápico (termo e cinesioterapia) a partir de um diagnóstico reumatológico
+DESCRIÇÃO: Prescrever tratamento fisioterápico (termo e cinesioterapia) a partir de um diagnóstico reumatológico
+
+--- ITEM 122 ---
+ID: 126
+CÓDIGO: PRV-CLI-58
+TÍTULO: PRV-CLI-58 - Realizar artrocentese (punção de líquido sinovial)
+DESCRIÇÃO: Realizar artrocentese (punção de líquido sinovial)
+
+--- ITEM 123 ---
+ID: 127
+CÓDIGO: PRV-CLI-59
+TÍTULO: PRV-CLI-59 - Prescrever medicamentos imunobiológicos para tratamento de doenças reumatológicas
+DESCRIÇÃO: Prescrever medicamentos imunobiológicos para tratamento de doenças reumatológicas
+
+--- ITEM 124 ---
+ID: 128
+CÓDIGO: PRV-CLI-60
+TÍTULO: PRV-CLI-60 - Realizar biópsia de pele e cirurgia dermatológica
+DESCRIÇÃO: Realizar biópsia de pele e cirurgia dermatológica
+
+--- ITEM 125 ---
+ID: 129
+CÓDIGO: PRV-CLI-61
+TÍTULO: PRV-CLI-61 - Realizar cirurgia oftalmológica
+DESCRIÇÃO: Realizar cirurgia oftalmológica
+
+--- ITEM 126 ---
+ID: 130
+CÓDIGO: PRV-CLI-62
+TÍTULO: PRV-CLI-62 - Promover o atendimento inicial do paciente politraumatizado ou queimado
+DESCRIÇÃO: Promover o atendimento inicial do paciente politraumatizado ou queimado
+
+--- ITEM 127 ---
+ID: 131
+CÓDIGO: PRV-CLI-ESP-41
+TÍTULO: PRV-CLI-ESP-41 - Interpretar polissonografia
+DESCRIÇÃO: Interpretar polissonografia (necessidade de treinamento específico: apresentar certificado de residência médica na área de atuação em medicina do sono ou título de especialista em medicina do sono pela Sociedade Brasileira de Pneumologia e Tisiologia)
+
+--- ITEM 128 ---
+ID: 132
+CÓDIGO: PRV-CLI-ESP-23
+TÍTULO: PRV-CLI-ESP-23 - Realizar endoscopia digestiva alta diagnóstica, incluindo realização de biópsia
+DESCRIÇÃO: Realizar endoscopia digestiva alta diagnóstica, incluindo realização de biópsia (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certifi
+
+--- ITEM 129 ---
+ID: 133
+CÓDIGO: PRV-CLI-ESP-24
+TÍTULO: PRV-CLI-ESP-24 - Realizar endoscopia digestiva alta terapêutica – exemplo mucosectomia, stents luminais, tratamento de hemorragia digestiva
+DESCRIÇÃO: Realizar endoscopia digestiva alta terapêutica – exemplo mucosectomia, stents luminais, tratamento de hemorragia digestiva (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade 
+
+--- ITEM 130 ---
+ID: 134
+CÓDIGO: PRV-CLI-ESP-25
+TÍTULO: PRV-CLI-ESP-25 - Realizar colonoscopia diagnóstica, incluindo realização de biópsia
+DESCRIÇÃO: Realizar colonoscopia diagnóstica, incluindo realização de biópsia (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de Resid
+
+--- ITEM 131 ---
+ID: 135
+CÓDIGO: PRV-CLI-ESP-26
+TÍTULO: PRV-CLI-ESP-26 - Realizar colonoscopia terapêutica – exemplo mucosectomia, stents luminais, tratamento de hemorragia digestiva
+DESCRIÇÃO: Realizar colonoscopia terapêutica – exemplo mucosectomia, stents luminais, tratamento de hemorragia digestiva (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de
+
+--- ITEM 132 ---
+ID: 136
+CÓDIGO: PRV-CLI-ESP-27
+TÍTULO: PRV-CLI-ESP-27 - Realizar colangiopancreatografia retrógrada diagnóstica e/ou terapêutica
+DESCRIÇÃO: Realizar colangiopancreatografia retrógrada diagnóstica e/ou terapêutica (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de
+
+--- ITEM 133 ---
+ID: 137
+CÓDIGO: PRV-CLI-ESP-28
+TÍTULO: PRV-CLI-ESP-28 - Realizar ecoendoscopia digestiva
+DESCRIÇÃO: Realizar ecoendoscopia digestiva (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de Residência Médica em Endoscopia Digesti
+
+--- ITEM 134 ---
+ID: 138
+CÓDIGO: PRV-CLI-ESP-29
+TÍTULO: PRV-CLI-ESP-29 - Realizar exame de enteroscopia por cápsula endoscópica
+DESCRIÇÃO: Realizar exame de enteroscopia por cápsula endoscópica (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de Residência Médica
+
+--- ITEM 135 ---
+ID: 139
+CÓDIGO: PRV-CLI-ESP-30
+TÍTULO: PRV-CLI-ESP-30 - Avaliar fisiologia digestiva alta (manometria e phmetria esofágica) e baixa
+DESCRIÇÃO: Avaliar fisiologia digestiva alta (manometria e phmetria esofágica) e baixa (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado
+
+--- ITEM 136 ---
+ID: 140
+CÓDIGO: PRV-CLI-ESP-31
+TÍTULO: PRV-CLI-ESP-31 - Realizar dissecção endoscópica da submucosa (ESD)
+DESCRIÇÃO: Realizar dissecção endoscópica da submucosa (ESD) (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de Residência Médica em E
+
+--- ITEM 137 ---
+ID: 141
+CÓDIGO: PRV-CLI-ESP-32
+TÍTULO: PRV-CLI-ESP-32 - Realizar introdução de balão intragástrico para tratamento de obesidade
+DESCRIÇÃO: Realizar introdução de balão intragástrico para tratamento de obesidade (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de
+
+--- ITEM 138 ---
+ID: 142
+CÓDIGO: PRV-CLI-44
+TÍTULO: PRV-CLI-44 - Realizar broncoscopia flexível diagnóstica, envolvendo inspeção, realização de lavado broncoalveolar, biopsia, brônquica, transbrônquica e punção por agulha
+DESCRIÇÃO: Realizar broncoscopia flexível diagnóstica, envolvendo inspeção, realização de lavado broncoalveolar, biopsia, brônquica, transbrônquica e punção por agulha (necessidade de treinamento específico: apresentar certificado de área de atuação em Endoscopia Re
+
+--- ITEM 139 ---
+ID: 143
+CÓDIGO: PRV-CLI-45
+TÍTULO: PRV-CLI-45 - Realizar broncoscopia flexível terapêutica, envolvendo manejo de hemoptise, higiene brônquica, remoção de corpo estranho e auxílio a intubação
+DESCRIÇÃO: Realizar broncoscopia flexível terapêutica, envolvendo manejo de hemoptise, higiene brônquica, remoção de corpo estranho e auxílio a intubação (necessidade de treinamento específico: apresentar certificado de área de atuação em Endoscopia Respiratória pel
+
+--- ITEM 140 ---
+ID: 144
+CÓDIGO: PRV-CLI-ESP-46
+TÍTULO: PRV-CLI-ESP-46 - Realizar broncoscopia rígida
+DESCRIÇÃO: Realizar broncoscopia rígida (necessidade de treinamento específico: apresentar certificado de realização de treinamento específico em broncoscopia rígida durante o programa de residência médica OU comprovação de realização de pelo menos 20 broncoscopias 
+
+--- ITEM 141 ---
+ID: 145
+CÓDIGO: PRV-CLI-ESP-48
+TÍTULO: PRV-CLI-ESP-48 - Realizar crioterapia / criobiópsia por broncoscopia
+DESCRIÇÃO: Realizar crioterapia / criobiópsia por broncoscopia (necessidade de treinamento específico: apresentar certificado de treinamento específico do uso do equipamento e do procedimento pela Erb® (única indústria de aparelhos para este procedimento) e ter real
+
+--- ITEM 142 ---
+ID: 146
+CÓDIGO: PRV-CIR-1
+TÍTULO: PRV-CIR-1 - Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 143 ---
+ID: 147
+CÓDIGO: PRV-CIR-2
+TÍTULO: PRV-CIR-2 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia geral e cirurgia do aparelho digestivo
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia geral e cirurgia do aparelho digestivo
+
+--- ITEM 144 ---
+ID: 148
+CÓDIGO: PRV-CIR-3
+TÍTULO: PRV-CIR-3 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia cardíaca
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia cardíaca
+
+--- ITEM 145 ---
+ID: 149
+CÓDIGO: PRV-CIR-4
+TÍTULO: PRV-CIR-4 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia vascuclar
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia vascuclar
+
+--- ITEM 146 ---
+ID: 150
+CÓDIGO: PRV-CIR-5
+TÍTULO: PRV-CIR-5 - Realizar cuidados perioperatórios de pacientes submetidos a cirurgia colorretal
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a cirurgia colorretal
+
+--- ITEM 147 ---
+ID: 151
+CÓDIGO: PRV-CIR-6
+TÍTULO: PRV-CIR-6 - Admitir, avaliar, diagnosticar e realizar procedimentos cirúrgicos em pacientes com doenças mamárias. Realizar cuidados perioperatórios de pacientes submetidos a cirurgia de mama.
+DESCRIÇÃO: Admitir, avaliar, diagnosticar e realizar procedimentos cirúrgicos em pacientes com doenças mamárias. Realizar cuidados perioperatórios de pacientes submetidos a cirurgia de mama.
+
+--- ITEM 148 ---
+ID: 152
+CÓDIGO: PRV-CIR-7
+TÍTULO: PRV-CIR-7 - Realizar cuidados perioperatórios de pacientes submetidos à neurocirurgia
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos à neurocirurgia
+
+--- ITEM 149 ---
+ID: 153
+CÓDIGO: PRV-CIR-8
+TÍTULO: PRV-CIR-8 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia torácica
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia torácica
+
+--- ITEM 150 ---
+ID: 154
+CÓDIGO: PRV-CIR-9
+TÍTULO: PRV-CIR-9 - Realizar cuidados perioperatórios de pacientes submetidos à cirurgia urológica
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos à cirurgia urológica
+
+--- ITEM 151 ---
+ID: 155
+CÓDIGO: PRV-CIR-10
+TÍTULO: PRV-CIR-10 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia de cabeça e pescoço
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia de cabeça e pescoço
+
+--- ITEM 152 ---
+ID: 156
+CÓDIGO: PRV-CIR-11
+TÍTULO: PRV-CIR-11 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia plástica
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia plástica
+
+--- ITEM 153 ---
+ID: 157
+CÓDIGO: PRV-CIR-12
+TÍTULO: PRV-CIR-12 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia ortopédica
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia ortopédica
+
+--- ITEM 154 ---
+ID: 158
+CÓDIGO: PRV-CIR-13
+TÍTULO: PRV-CIR-13 - Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia pediátrica
+DESCRIÇÃO: Realizar cuidados perioperatórios de pacientes submetidos a procedimentos relacionados à cirurgia pediátrica
+
+--- ITEM 155 ---
+ID: 159
+CÓDIGO: PRV-CIR-14
+TÍTULO: PRV-CIR-14 - Realizar ultrassom à beira do leito
+DESCRIÇÃO: Realizar ultrassom à beira do leito
+
+--- ITEM 156 ---
+ID: 160
+CÓDIGO: PRV-CIR-15
+TÍTULO: PRV-CIR-15 - Realizar punção venosa central para inserção de cateter venoso
+DESCRIÇÃO: Realizar punção venosa central para inserção de cateter venoso
+
+--- ITEM 157 ---
+ID: 161
+CÓDIGO: PRV-CIR-16
+TÍTULO: PRV-CIR-16 - Realizar punção arterial para monitorização invasiva da pressão arterial
+DESCRIÇÃO: Realizar punção arterial para monitorização invasiva da pressão arterial
+
+--- ITEM 158 ---
+ID: 162
+CÓDIGO: PRV-CIR-17
+TÍTULO: PRV-CIR-17 - Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+DESCRIÇÃO: Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica
+
+--- ITEM 159 ---
+ID: 163
+CÓDIGO: PRV-CIR-18
+TÍTULO: PRV-CIR-18 - Realizar intubação endotraqueal
+DESCRIÇÃO: Realizar intubação endotraqueal
+
+--- ITEM 160 ---
+ID: 164
+CÓDIGO: PRV-CIR-19
+TÍTULO: PRV-CIR-19 - Realizar punção lombar
+DESCRIÇÃO: Realizar punção lombar
+
+--- ITEM 161 ---
+ID: 165
+CÓDIGO: PRV-CIR-20
+TÍTULO: PRV-CIR-20 - Realizar drenagem de tórax
+DESCRIÇÃO: Realizar drenagem de tórax
+
+--- ITEM 162 ---
+ID: 166
+CÓDIGO: PRV-CIR-21
+TÍTULO: PRV-CIR-21 - Realizar pericardiocentese
+DESCRIÇÃO: Realizar pericardiocentese
+
+--- ITEM 163 ---
+ID: 167
+CÓDIGO: PRV-CIR-22
+TÍTULO: PRV-CIR-22 - Realizar o implante de marcapasso venoso temporário
+DESCRIÇÃO: Realizar o implante de marcapasso venoso temporário
+
+--- ITEM 164 ---
+ID: 168
+CÓDIGO: PRV-CIR-23
+TÍTULO: PRV-CIR-23 - Realizar traqueostomia
+DESCRIÇÃO: Realizar traqueostomia
+
+--- ITEM 165 ---
+ID: 169
+CÓDIGO: PRV-CIR-24
+TÍTULO: PRV-CIR-24 - Realizar cirurgias para correção e defeitos da parede abdominal
+DESCRIÇÃO: Realizar cirurgias para correção e defeitos da parede abdominal
+
+--- ITEM 166 ---
+ID: 170
+CÓDIGO: PRV-CIR-25
+TÍTULO: PRV-CIR-25 - Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoniais ou de transição toracoabdominal
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoniais ou de transição toracoabdominal
+
+--- ITEM 167 ---
+ID: 171
+CÓDIGO: PRV-CIR-28
+TÍTULO: PRV-CIR-28 - Realizar manejo de circulação extracorpórea (CEC) e proteção miocárdica
+DESCRIÇÃO: Realizar manejo de circulação extracorpórea (CEC) e proteção miocárdica
+
+--- ITEM 168 ---
+ID: 172
+CÓDIGO: PRV-CIR-29
+TÍTULO: PRV-CIR-29 - Realizar tratamento cirúrgico de miocardiopatia isquêmica
+DESCRIÇÃO: Realizar tratamento cirúrgico de miocardiopatia isquêmica
+
+--- ITEM 169 ---
+ID: 173
+CÓDIGO: PRV-CIR-30
+TÍTULO: PRV-CIR-30 - Realizar tratamento cirúrgico de cardiopatias congênitas 
+DESCRIÇÃO: Realizar tratamento cirúrgico de cardiopatias congênitas 
+
+--- ITEM 170 ---
+ID: 174
+CÓDIGO: PRV-CIR-31
+TÍTULO: PRV-CIR-31 - Realizar tratamento cirúrgico de doenças da aorta e de seus ramos
+DESCRIÇÃO: Realizar tratamento cirúrgico de doenças da aorta e de seus ramos
+
+--- ITEM 171 ---
+ID: 175
+CÓDIGO: PRV-CIR-32
+TÍTULO: PRV-CIR-32 - Realizar tratamento cirúrgico de insuficiência cardíaca
+DESCRIÇÃO: Realizar tratamento cirúrgico de insuficiência cardíaca
+
+--- ITEM 172 ---
+ID: 176
+CÓDIGO: PRV-CIR-33
+TÍTULO: PRV-CIR-33 - Realizar implante e programação de marcapasso e de dispositivos de cardioestimulação
+DESCRIÇÃO: Realizar implante e programação de marcapasso e de dispositivos de cardioestimulação
+
+--- ITEM 173 ---
+ID: 177
+CÓDIGO: PRV-CIR-34
+TÍTULO: PRV-CIR-34 - Realizar avaliação e tratamento cirúrgico de tumores cardíacos e doenças do pericárdio
+DESCRIÇÃO: Realizar avaliação e tratamento cirúrgico de tumores cardíacos e doenças do pericárdio
+
+--- ITEM 174 ---
+ID: 178
+CÓDIGO: PRV-CIR-35
+TÍTULO: PRV-CIR-35 - Manejar dispositivos de suporte cardíaco (ECMO e Impella)
+DESCRIÇÃO: Manejar dispositivos de suporte cardíaco (ECMO e Impella)
+
+--- ITEM 175 ---
+ID: 179
+CÓDIGO: PRV-CIR-36
+TÍTULO: PRV-CIR-36 - Realizar tratamento clínico e cirúrgico de doenças vasculares arteriais periféricas
+DESCRIÇÃO: Realizar tratamento clínico e cirúrgico de doenças vasculares arteriais periféricas
+
+--- ITEM 176 ---
+ID: 180
+CÓDIGO: PRV-CIR-37
+TÍTULO: PRV-CIR-37 - Realizar tratamento clínico e cirúrgico de doenças venosas
+DESCRIÇÃO: Realizar tratamento clínico e cirúrgico de doenças venosas
+
+--- ITEM 177 ---
+ID: 181
+CÓDIGO: PRV-CIR-ESP-38
+TÍTULO: PRV-CIR-ESP-38 - Realizar procedimentos endovasculares da aorta torácica e periféricos (necessidade de treinamento específico: comprovação de experiências com casos prévios com sucesso)
+DESCRIÇÃO: Realizar procedimentos endovasculares da aorta torácica e periféricos (necessidade de treinamento específico: comprovação de experiências com casos prévios com sucesso)
+
+--- ITEM 178 ---
+ID: 182
+CÓDIGO: PRV-CIR-39
+TÍTULO: PRV-CIR-39 - Realizar procedimentos de pequeno porte para terapia de patologias orificiais (manejo conservador de doença hemorroidária com ligadura elástica, fotocoagulação ou injeção esclerosante;  tratamento de HPV)
+DESCRIÇÃO: Realizar procedimentos de pequeno porte para terapia de patologias orificiais (manejo conservador de doença hemorroidária com ligadura elástica, fotocoagulação ou injeção esclerosante;  tratamento de HPV)
+
+--- ITEM 179 ---
+ID: 183
+CÓDIGO: PRV-CIR-40
+TÍTULO: PRV-CIR-40 - Realizar cirurgias orificiais (hemorroidectomia, fistulotomia/fistulectomia, excisão de cisto pilonidal, manejo cirúrgico de fissura anal, excisão de tumor anorretal)
+DESCRIÇÃO: Realizar cirurgias orificiais (hemorroidectomia, fistulotomia/fistulectomia, excisão de cisto pilonidal, manejo cirúrgico de fissura anal, excisão de tumor anorretal)
+
+--- ITEM 180 ---
+ID: 184
+CÓDIGO: PRV-CIR-42
+TÍTULO: PRV-CIR-42 - Realizar colonoscopia diagnóstica e terapêutica (biópsia, polipectomia e mucosectomia)
+DESCRIÇÃO: Realizar colonoscopia diagnóstica e terapêutica (biópsia, polipectomia e mucosectomia)
+
+--- ITEM 181 ---
+ID: 185
+CÓDIGO: PRV-CIR-ESP-43
+TÍTULO: PRV-CIR-ESP-43 - Realizar implante de prótese transtumoral ou dilatação endoscópica com balão (necessidade de treinamento específico: apresentar comprovação de formação ou realização de casos com sucesso)
+DESCRIÇÃO: Realizar implante de prótese transtumoral ou dilatação endoscópica com balão (necessidade de treinamento específico: apresentar comprovação de formação ou realização de casos com sucesso)
+
+--- ITEM 182 ---
+ID: 186
+CÓDIGO: PRV-CIR-ESP-44
+TÍTULO: PRV-CIR-ESP-44 - Realizar implante de neuroestimulador / neuromodulador sacral no tratamento de distúrbios da continência ou da dor perineal (necessidade de treinamento específico: apresentar comprovação de formação ou realização de casos com sucesso)
+DESCRIÇÃO: Realizar implante de neuroestimulador / neuromodulador sacral no tratamento de distúrbios da continência ou da dor perineal (necessidade de treinamento específico: apresentar comprovação de formação ou realização de casos com sucesso)
+
+--- ITEM 183 ---
+ID: 187
+CÓDIGO: PRV-CIR-45
+TÍTULO: PRV-CIR-45 - Realizar tratamento cirúrgico conservador, usando técnica de rotação de retalhos locais
+DESCRIÇÃO: Realizar tratamento cirúrgico conservador, usando técnica de rotação de retalhos locais
+
+--- ITEM 184 ---
+ID: 188
+CÓDIGO: PRV-CIR-46
+TÍTULO: PRV-CIR-46 - Realizar tratamento cirúrgico do câncer de mama com pesquisa de linfonodo sentinela
+DESCRIÇÃO: Realizar tratamento cirúrgico do câncer de mama com pesquisa de linfonodo sentinela
+
+--- ITEM 185 ---
+ID: 189
+CÓDIGO: PRV-CIR-47
+TÍTULO: PRV-CIR-47 - Realizar tratamento cirúrgico com colocação de expansores e próteses mamárias
+DESCRIÇÃO: Realizar tratamento cirúrgico com colocação de expansores e próteses mamárias
+
+--- ITEM 186 ---
+ID: 190
+CÓDIGO: PRV-CIR-48
+TÍTULO: PRV-CIR-48 - Realizar cirurgia de lesões benignas e malignas da pele na região torácica e axilar
+DESCRIÇÃO: Realizar cirurgia de lesões benignas e malignas da pele na região torácica e axilar
+
+--- ITEM 187 ---
+ID: 191
+CÓDIGO: PRV-CIR-49
+TÍTULO: PRV-CIR-49 - Realizar procedimentos diagnósticos e terapêuticos de neurointervenção (necessidade de treinamento específico: apresentar comprovação de formação em neurorradiologia intervencionista ou título da Sociedade de Neurorradiologia)
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos de neurointervenção (necessidade de treinamento específico: apresentar comprovação de formação em neurorradiologia intervencionista ou título da Sociedade de Neurorradiologia)
+
+--- ITEM 188 ---
+ID: 192
+CÓDIGO: PRV-CIR-50
+TÍTULO: PRV-CIR-50 - Realizar implante de Deep Brain Stimulation
+DESCRIÇÃO: Realizar implante de Deep Brain Stimulation
+
+--- ITEM 189 ---
+ID: 193
+CÓDIGO: PRV-CIR-51
+TÍTULO: PRV-CIR-51 - Realizar radiocirurgia 
+DESCRIÇÃO: Realizar radiocirurgia 
+
+--- ITEM 190 ---
+ID: 194
+CÓDIGO: PRV-CIR-ESP-52
+TÍTULO: PRV-CIR-ESP-52 - Realizar doppler transcraniano (necessidade de treinamento específico validado pela chefia do serviço)
+DESCRIÇÃO: Realizar doppler transcraniano (necessidade de treinamento específico validado pela chefia do serviço)
+
+--- ITEM 191 ---
+ID: 195
+CÓDIGO: PRV-CIR-53
+TÍTULO: PRV-CIR-53 - Realizar procedimentos diagnósticos e terapêuticos em relação a estruturas mediastinais (mediastinoscopia, mediastinostomia, ressecção de tumor mediastinal, janela pericárdica)
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos em relação a estruturas mediastinais (mediastinoscopia, mediastinostomia, ressecção de tumor mediastinal, janela pericárdica)
+
+--- ITEM 192 ---
+ID: 196
+CÓDIGO: PRV-CIR-54
+TÍTULO: PRV-CIR-54 - Realizar procedimentos pleurais diagnósticos e terapêuticos (pleuroscopia, toracocentese, biópsia pleural percutânea ou por vídeo, pleurodese)
+DESCRIÇÃO: Realizar procedimentos pleurais diagnósticos e terapêuticos (pleuroscopia, toracocentese, biópsia pleural percutânea ou por vídeo, pleurodese)
+
+--- ITEM 193 ---
+ID: 197
+CÓDIGO: PRV-CIR-55
+TÍTULO: PRV-CIR-55 - Realizar procedimentos relacionados ao diafragma (plicatura ou reparo de hérnias)
+DESCRIÇÃO: Realizar procedimentos relacionados ao diafragma (plicatura ou reparo de hérnias)
+
+--- ITEM 194 ---
+ID: 198
+CÓDIGO: PRV-CIR-ESP-56
+TÍTULO: PRV-CIR-ESP-56 - Implantar marcapasso diafragmático (necessidade de treinamento específico: apresentar comprovação de treinamento ou realização de casos de sucesso como cirurgião principal ou auxiliar)
+DESCRIÇÃO: Implantar marcapasso diafragmático (necessidade de treinamento específico: apresentar comprovação de treinamento ou realização de casos de sucesso como cirurgião principal ou auxiliar)
+
+--- ITEM 195 ---
+ID: 199
+CÓDIGO: PRV-CIR-57
+TÍTULO: PRV-CIR-57 - Realizar procedimentos relacionados à parede torácica (ressecção de tumores ou reconstruções)
+DESCRIÇÃO: Realizar procedimentos relacionados à parede torácica (ressecção de tumores ou reconstruções)
+
+--- ITEM 196 ---
+ID: 200
+CÓDIGO: PRV-CIR-58
+TÍTULO: PRV-CIR-58 - Realizar simpatectomia
+DESCRIÇÃO: Realizar simpatectomia
+
+--- ITEM 197 ---
+ID: 201
+CÓDIGO: PRV-CIR-59
+TÍTULO: PRV-CIR-59 - Realizar bulectomia e cirurgia redutora de volume pulmonar
+DESCRIÇÃO: Realizar bulectomia e cirurgia redutora de volume pulmonar
+
+--- ITEM 198 ---
+ID: 202
+CÓDIGO: PRV-CIR-60
+TÍTULO: PRV-CIR-60 - Avaliar e manejar paciente com trauma torácico
+DESCRIÇÃO: Avaliar e manejar paciente com trauma torácico
+
+--- ITEM 199 ---
+ID: 203
+CÓDIGO: PRV-CIR-61
+TÍTULO: PRV-CIR-61 - Realizar cirurgia de ressecção pulmonar por videotoracoscopia (lobectomia, segmentectomia, biópsia pulmonar)
+DESCRIÇÃO: Realizar cirurgia de ressecção pulmonar por videotoracoscopia (lobectomia, segmentectomia, biópsia pulmonar)
+
+--- ITEM 200 ---
+ID: 204
+CÓDIGO: PRV-CIR-ESP-66
+TÍTULO: PRV-CIR-ESP-66 - Realizar cirurgia laparoscópica renal ou prostática (necessidade de treinamento específico: comprovar experiência prévia de pelo menos 5 casos OU formação em serviço de residência médica com a técnica)
+DESCRIÇÃO: Realizar cirurgia laparoscópica renal ou prostática (necessidade de treinamento específico: comprovar experiência prévia de pelo menos 5 casos OU formação em serviço de residência médica com a técnica)
+
+--- ITEM 201 ---
+ID: 205
+CÓDIGO: PRV-CIR-ESP-70
+TÍTULO: PRV-CIR-ESP-70 - Utilizar fluoroscopia / Radioscopia transoperatória (o médico deverá estar cadastrado no serviço de radiologia e utilizar dosímetro individualizado disponibilizado pelo hospital)
+DESCRIÇÃO: Utilizar fluoroscopia / Radioscopia transoperatória (o médico deverá estar cadastrado no serviço de radiologia e utilizar dosímetro individualizado disponibilizado pelo hospital)
+
+--- ITEM 202 ---
+ID: 206
+CÓDIGO: PRV-CIR-71
+TÍTULO: PRV-CIR-71 - Realizar procedimentos diagnósticos ou terapêuticos por abordagem artroscópica
+DESCRIÇÃO: Realizar procedimentos diagnósticos ou terapêuticos por abordagem artroscópica
+
+--- ITEM 203 ---
+ID: 207
+CÓDIGO: PRV-CIR-72
+TÍTULO: PRV-CIR-72 - Realizar artrocentese (punção de líquido sinovial)
+DESCRIÇÃO: Realizar artrocentese (punção de líquido sinovial)
+
+--- ITEM 204 ---
+ID: 208
+CÓDIGO: PRV-CIR-73
+TÍTULO: PRV-CIR-73 - Realizar procedimentos cirúrgicos de cabeça e pescoço
+DESCRIÇÃO: Realizar procedimentos cirúrgicos de cabeça e pescoço
+
+--- ITEM 205 ---
+ID: 209
+CÓDIGO: PRV-CIR-74
+TÍTULO: PRV-CIR-74 - Realizar cirurgia plástica estética
+DESCRIÇÃO: Realizar cirurgia plástica estética
+
+--- ITEM 206 ---
+ID: 210
+CÓDIGO: PRV-CIR-75
+TÍTULO: PRV-CIR-75 - Realizar cirurgia plástica reconstrutiva
+DESCRIÇÃO: Realizar cirurgia plástica reconstrutiva
+
+--- ITEM 207 ---
+ID: 211
+CÓDIGO: PRV-CIR-76
+TÍTULO: PRV-CIR-76 - Realizar procedimentos cirúrgicos ortopédicos eletivos
+DESCRIÇÃO: Realizar procedimentos cirúrgicos ortopédicos eletivos
+
+--- ITEM 208 ---
+ID: 212
+CÓDIGO: PRV-CIR-77
+TÍTULO: PRV-CIR-77 - Realizar procedimentos cirúrgicos ortopédicos de urgência
+DESCRIÇÃO: Realizar procedimentos cirúrgicos ortopédicos de urgência
+
+--- ITEM 209 ---
+ID: 213
+CÓDIGO: PRV-CIR-AVA-26
+TÍTULO: PRV-CIR-AVA-26 - Realizar procedimentos diagnósticos e terapêuticos por abordagem videolaparoscópica (necessiadade de treinamento específico: apresentar certificado de residência médica em Cirurgia Geral e/ou Cirurgia Digestiva com comprovada presença...)
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos por abordagem videolaparoscópica (necessiadade de treinamento específico: apresentar certificado de residência médica em Cirurgia Geral e/ou Cirurgia Digestiva com comprovada presença de programa...)
+
+--- ITEM 210 ---
+ID: 214
+CÓDIGO: PRV-CIR-ESP-27
+TÍTULO: PRV-CIR-ESP-27 - Realizar procedimentos diagnósticos e terapêuticos por abordagem robótica (necessiadade de treinamento específico: apresentar certificado de treinamento e habilitação em cirurgia robótica/cirurgião de console, com aprovação, emitido...)
+DESCRIÇÃO: Realizar procedimentos diagnósticos e terapêuticos por abordagem robótica (necessiadade de treinamento específico: apresentar certificado de treinamento e habilitação em cirurgia robótica/cirurgião de console, com aprovação, emitido pela empresa...)
+
+--- ITEM 211 ---
+ID: 215
+CÓDIGO: PRV-CIR-ESP-41
+TÍTULO: PRV-CIR-ESP-41 - Realizar cirurgias colorretais de médio e grande porte pro abordagem aberta ou videolaparoscópica (necessiadade de treinamento específico para videolaparoscopia: apresentar certificado de residência médica em Cirurgia Geral...)
+DESCRIÇÃO: Realizar cirurgias colorretais de médio e grande porte pro abordagem aberta ou videolaparoscópica (necessiadade de treinamento específico para videolaparoscopia: apresentar certificado de residência médica em Cirurgia Geral e/ou Cirurgia Digestiva...)
+
+--- ITEM 212 ---
+ID: 216
+CÓDIGO: PRV-CIR-62
+TÍTULO: PRV-CIR-62 - Realizar cirurgia minimamente invasiva por videotoracoscopia (VATS) (necessidade de treinamento específico: apresentar certificado de realização de treinamento em broncoscopia rígida durante o programa de residência médica ou...)
+DESCRIÇÃO: Realizar cirurgia minimamente invasiva por videotoracoscopia (VATS) (necessidade de treinamento específico: apresentar certificado de realização de treinamento em broncoscopia rígida durante o programa de residência médica ou fellowship realizado...)
+
+--- ITEM 213 ---
+ID: 217
+CÓDIGO: PRV-CIR-63
+TÍTULO: PRV-CIR-63 - Realizar broncoscopia flexível diagnóstica, envolvendo inspeção, realização de lavado broncoalveolar, biopsia, brônquica, transbrônquica e punção por agulha
+DESCRIÇÃO: Realizar broncoscopia flexível diagnóstica, envolvendo inspeção, realização de lavado broncoalveolar, biopsia, brônquica, transbrônquica e punção por agulha (necessidade de treinamento específico: apresentar certificado de área de atuação em Endoscopia...
+
+--- ITEM 214 ---
+ID: 218
+CÓDIGO: PRV-CIR-64
+TÍTULO: PRV-CIR-64 - Realizar broncoscopia flexível terapêutica, envolvendo manejo de hemoptise, higiene brônquica, remoção de corpo estranho e auxílio a intubação
+DESCRIÇÃO: Realizar broncoscopia flexível terapêutica, envolvendo manejo de hemoptise, higiene brônquica, remoção de corpo estranho e auxílio a intubação (necessidade de treinamento específico: apresentar certificado de área de atuação em Endoscopia Respiratória...)
+
+--- ITEM 215 ---
+ID: 219
+CÓDIGO: PRV-CIR-ESP-65
+TÍTULO: PRV-CIR-ESP-65 - Realização dos procedimentos específicos (especiais) para o qual o médico tem comprovação, tais como broncoscopia rígida, terapêutica, ecobroncoscopia (EBUS) e crioterapia/criobiopsia
+DESCRIÇÃO: Realização dos procedimentos específicos (especiais) para o qual o médico tem comprovação, tais como broncoscopia rígida, terapêutica (implantação de órteses e válvulas endobrônquicas, uso de eletrocautério e/ou laser), ecobroncoscopia (EBUS)...)
+
+--- ITEM 216 ---
+ID: 220
+CÓDIGO: PRV-CIR-ESP-67
+TÍTULO: PRV-CIR-ESP-67 - Realizar cirurgia com Greenlight laser da próstata (fotovaporização prostática para hiperplasia prostárica)
+DESCRIÇÃO: Realizar cirurgia com Greenlight laser da próstata (fotovaporização prostática para hiperplasia prostárica) (necessidade de treinamento específico: apresentar comprovação de realização de pelo menos 2 casos com o método OU realização de curso...)
+
+--- ITEM 217 ---
+ID: 221
+CÓDIGO: PRV-CIR-ESP-68
+TÍTULO: PRV-CIR-ESP-68 - Realizar cirurgia de transplante renal
+DESCRIÇÃO: Realizar cirurgia de transplante renal (pré-requisito: estar participando do grupo de transplante renal da instituição, com autorização direta dos Serviços de Urologia, Nefrologia e Cirurgia, bem como Superintendência Médica E comprovar treinamento...)
+
+--- ITEM 218 ---
+ID: 222
+CÓDIGO: PRV-CIR-ESP-69
+TÍTULO: PRV-CIR-ESP-69 - Realizar procedimento de Neuromodulação Sacral
+DESCRIÇÃO: Realizar procedimento de Neuromodulação Sacral (necessidade de treinamento específico: atestar treinamento com cursos validados pela Sociedade Brasileira de Urologia ou junto à empresa fabricante, tendo realizado pelo menos um caso nos últimos 2 anos...)
+
+--- ITEM 219 ---
+ID: 223
+CÓDIGO: PRV-GO-ESP-13
+TÍTULO: PRV-GO-ESP-13 - Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal
+DESCRIÇÃO: Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal (necessidade de treinamento específico: apresentar...)
+
+--- ITEM 220 ---
+ID: 224
+CÓDIGO: PRV-GO-ESP-12
+TÍTULO: PRV-GO-ESP-12 - Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal
+DESCRIÇÃO: Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de espcialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização...)
+
+--- ITEM 221 ---
+ID: 225
+CÓDIGO: PRV-GO-ESP-11
+TÍTULO: PRV-GO-ESP-11 - Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal
+DESCRIÇÃO: Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização
+
+--- ITEM 222 ---
+ID: 226
+CÓDIGO: PRV-ODO-1
+TÍTULO: PRV-ODO-1 - Admitir, avaliar, acompanhar, diagnosticar e orientar  pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento odontológico.
+DESCRIÇÃO: Admitir, avaliar, acompanhar, diagnosticar e orientar  pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento odontológico.
+
+--- ITEM 223 ---
+ID: 227
+CÓDIGO: PRV-ODO-2
+TÍTULO: PRV-ODO-2 - Realizar procedimentos odontológicos conforme comprovação de habilitação.
+DESCRIÇÃO: Realizar procedimentos odontológicos conforme comprovação de habilitação.
+
+--- ITEM 224 ---
+ID: 228
+CÓDIGO: PRV-ENDO-1
+TÍTULO: PRV-ENDO-1 - Realizar endoscopia digestiva alta diagnóstica, incluindo realização de biópsia
+DESCRIÇÃO: Realizar endoscopia digestiva alta diagnóstica, incluindo realização de biópsia (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade Brasileira de Endoscopia (SOBED) ou certifi
+
+--- ITEM 225 ---
+ID: 229
+CÓDIGO: PRV-ENDO-2
+TÍTULO: PRV-ENDO-2 - Realizar endoscopia digestiva alta terapêutica
+DESCRIÇÃO: Realizar endoscopia digestiva alta terapêutica – exemplo mucosectomia, stents luminais, tratamento de hemorragia digestiva (necessidade de treinamento específico: apresentar título de especialista ou área de atuação em Endoscopia Digestiva pela Sociedade 
+
+--- ITEM 226 ---
+ID: 230
+CÓDIGO: PRV-ENDO-3
+TÍTULO: PRV-ENDO-3 - Realizar colonoscopia
+DESCRIÇÃO: Realizar colonoscopia (necessidade de treinamento específico: apresentar título de especialista pela Sociedade Brasileira de Endoscopia (SOBED) ou certificado de Residência Médica em endoscopia digestiva reconhecida pelo MEC ou ter registro da especialida
+
+--- ITEM 227 ---
+ID: 231
+CÓDIGO: PRV-ODO-ESP-3
+TÍTULO: PRV-ODO-ESP-3 - Realizar laserterapia
+DESCRIÇÃO: Realizar laserterapia
+
+--- ITEM 228 ---
+ID: 232
+CÓDIGO: PRV-RADL-1
+TÍTULO: PRV-RADL-1 - Laudar Raio-X; Tomografia Computadorizada e Ressonância Nuclear Magnética
+DESCRIÇÃO: Realizar Raio-X; Tomografia Computadorizada e Ressonância Nuclear Magnética
+
+--- ITEM 229 ---
+ID: 233
+CÓDIGO: PRV-RADL-2
+TÍTULO: PRV-RADL-2 - Realizar procedimento mamário
+DESCRIÇÃO: Realizar procedimento mamário
+
+--- ITEM 230 ---
+ID: 234
+CÓDIGO: PRV-RADL-3
+TÍTULO: PRV-RADL-3 - Realizar procedimento por tomografia computadorizada
+DESCRIÇÃO: Realizar procedimento por tomografia computadorizada
+
+--- ITEM 231 ---
+ID: 235
+CÓDIGO: PRV-RADL-4
+TÍTULO: PRV-RADL-4 - Realizar ultrassonografia geral
+DESCRIÇÃO: Realizar ultrassonografia geral
+
+--- ITEM 232 ---
+ID: 236
+CÓDIGO: PRV-RADL-5
+TÍTULO: PRV-RADL-5 - Realizar ultrassonografia ginecológica
+DESCRIÇÃO: Realizar ultrassonografia ginecológica
+
+--- ITEM 233 ---
+ID: 237
+CÓDIGO: PRV-RADL-6
+TÍTULO: PRV-RADL-6 - Realizar ultrassonografia mamária, mamografia e densitometria óssea
+DESCRIÇÃO: Realizar ultrassonografia mamária, mamografia e densitometria óssea
+
+--- ITEM 234 ---
+ID: 238
+CÓDIGO: PRV-RADL-7
+TÍTULO: PRV-RADL-7 - Realizar ultrassonografia musculoesquelético
+DESCRIÇÃO: Realizar ultrassonografia musculoesquelético
+
+--- ITEM 235 ---
+ID: 239
+CÓDIGO: PRV-RADL-8
+TÍTULO: PRV-RADL-8 - Realizar ultrassonografia obstétrica
+DESCRIÇÃO: Realizar ultrassonografia obstétrica
+
+--- ITEM 236 ---
+ID: 240
+CÓDIGO: PRV-FELLOW-1
+TÍTULO: PRV-FELLOW-1 - Avaliar, acompanhar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico.
+DESCRIÇÃO: Avaliar, acompanhar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico.
+
+--- ITEM 237 ---
+ID: 241
+CÓDIGO: PRV-FELLOW-2
+TÍTULO: PRV-FELLOW-2 - Realizar visita diária e discutir com o preceptor as prioridades do tratamento.
+DESCRIÇÃO: Realizar visita diária e discutir com o preceptor as prioridades do tratamento.
+
+--- ITEM 238 ---
+ID: 242
+CÓDIGO: PRV-FELLOW-3
+TÍTULO: PRV-FELLOW-3 - Procedimentos conforme especialidade, com supervisão de Preceptor.
+DESCRIÇÃO: Procedimentos conforme especialidade, com supervisão de Preceptor.
+
+--- ITEM 239 ---
+ID: 243
+CÓDIGO: PRV-FELLOW-4
+TÍTULO: PRV-FELLOW-4 - Laudar exames de imagens com supervisão de Preceptor.
+DESCRIÇÃO: Laudar exames de imagens com supervisão de Preceptor.
+
+--- ITEM 240 ---
+ID: 244
+CÓDIGO: PRV-CLI-ESP-63
+TÍTULO: PRV-CLI-ESP-63 - Realizar ecocardiografia
+DESCRIÇÃO: Realizar ecocardiografia
+
+--- ITEM 241 ---
+ID: 245
+CÓDIGO: PRV-RESID-1
+TÍTULO: PRV-RESID-1 - Avaliar, acompanhar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+DESCRIÇÃO: Avaliar, acompanhar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico
+
+--- ITEM 242 ---
+ID: 246
+CÓDIGO: PRV-RESID-2
+TÍTULO: PRV-RESID-2 - Realizar visita diária e discutir com o preceptor as prioridades do tratamento
+DESCRIÇÃO: Realizar visita diária e discutir com o preceptor as prioridades do tratamento
+
+--- ITEM 243 ---
+ID: 247
+CÓDIGO: PRV-RESID-3
+TÍTULO: PRV-RESID-3 - Procedimentos conforme especialidade em formação com supervisão do Preceptor
+DESCRIÇÃO: Procedimentos conforme especialidade em formação com supervisão do Preceptor
+
+--- ITEM 244 ---
+ID: 249
+CÓDIGO: None
+TÍTULO: CORPO CLÍNICO
+DESCRIÇÃO: None
+
+--- ITEM 245 ---
+ID: 250
+CÓDIGO: None
+TÍTULO: N/A
+DESCRIÇÃO: None
+
+--- ITEM 246 ---
+ID: 254
+CÓDIGO: None
+TÍTULO: ACUPUNTURA
+DESCRIÇÃO: None
+
+--- ITEM 247 ---
+ID: 255
+CÓDIGO: None
+TÍTULO: ALERGIA E IMUNOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 248 ---
+ID: 256
+CÓDIGO: None
+TÍTULO: ANESTESIOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 249 ---
+ID: 257
+CÓDIGO: None
+TÍTULO: ANGIOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 250 ---
+ID: 258
+CÓDIGO: None
+TÍTULO: CARDIOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 251 ---
+ID: 259
+CÓDIGO: None
+TÍTULO: CIRURGIA BUCO-MAXILO-FACIAL
+DESCRIÇÃO: None
+
+--- ITEM 252 ---
+ID: 260
+CÓDIGO: None
+TÍTULO: CIRURGIA CARDIOVASCULAR
+DESCRIÇÃO: None
+
+--- ITEM 253 ---
+ID: 261
+CÓDIGO: None
+TÍTULO: CIRURGIA DA MAO
+DESCRIÇÃO: None
+
+--- ITEM 254 ---
+ID: 262
+CÓDIGO: None
+TÍTULO: CIRURGIA DE CABEÇA E PESCOÇO
+DESCRIÇÃO: None
+
+--- ITEM 255 ---
+ID: 263
+CÓDIGO: None
+TÍTULO: CIRURGIA DO APARELHO DIGESTIVO
+DESCRIÇÃO: None
+
+--- ITEM 256 ---
+ID: 264
+CÓDIGO: None
+TÍTULO: CIRURGIA GERAL
+DESCRIÇÃO: None
+
+--- ITEM 257 ---
+ID: 265
+CÓDIGO: None
+TÍTULO: CIRURGIA ONCOLÓGICA
+DESCRIÇÃO: None
+
+--- ITEM 258 ---
+ID: 266
+CÓDIGO: None
+TÍTULO: CIRURGIA PEDIÁTRICA
+DESCRIÇÃO: None
+
+--- ITEM 259 ---
+ID: 267
+CÓDIGO: None
+TÍTULO: CIRURGIA PLÁSTICA
+DESCRIÇÃO: None
+
+--- ITEM 260 ---
+ID: 268
+CÓDIGO: None
+TÍTULO: CIRURGIA TORÁCICA
+DESCRIÇÃO: None
+
+--- ITEM 261 ---
+ID: 269
+CÓDIGO: None
+TÍTULO: CIRURGIA VASCULAR
+DESCRIÇÃO: None
+
+--- ITEM 262 ---
+ID: 270
+CÓDIGO: None
+TÍTULO: CIRURGIÃO DENTISTA
+DESCRIÇÃO: None
+
+--- ITEM 263 ---
+ID: 271
+CÓDIGO: None
+TÍTULO: CLÍNICA MÉDICA
+DESCRIÇÃO: None
+
+--- ITEM 264 ---
+ID: 272
+CÓDIGO: None
+TÍTULO: COLOPROCTOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 265 ---
+ID: 273
+CÓDIGO: None
+TÍTULO: DERMATOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 266 ---
+ID: 274
+CÓDIGO: None
+TÍTULO: ENDOCRINOLOGIA E METABOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 267 ---
+ID: 275
+CÓDIGO: None
+TÍTULO: ENDOSCOPIA
+DESCRIÇÃO: None
+
+--- ITEM 268 ---
+ID: 276
+CÓDIGO: None
+TÍTULO: GASTROENTEROLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 269 ---
+ID: 277
+CÓDIGO: None
+TÍTULO: GENÉTICA MÉDICA
+DESCRIÇÃO: None
+
+--- ITEM 270 ---
+ID: 278
+CÓDIGO: None
+TÍTULO: GERIATRIA
+DESCRIÇÃO: None
+
+--- ITEM 271 ---
+ID: 279
+CÓDIGO: None
+TÍTULO: GINECOLOGIA E OBSTETRÍCIA
+DESCRIÇÃO: None
+
+--- ITEM 272 ---
+ID: 280
+CÓDIGO: None
+TÍTULO: HEMATOLOGIA E HEMOTERAPIA
+DESCRIÇÃO: None
+
+--- ITEM 273 ---
+ID: 281
+CÓDIGO: None
+TÍTULO: HOMEOPATIA
+DESCRIÇÃO: None
+
+--- ITEM 274 ---
+ID: 282
+CÓDIGO: None
+TÍTULO: INFECTOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 275 ---
+ID: 283
+CÓDIGO: None
+TÍTULO: MASTOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 276 ---
+ID: 284
+CÓDIGO: None
+TÍTULO: MEDICINA DE EMERGÊNCIA
+DESCRIÇÃO: None
+
+--- ITEM 277 ---
+ID: 285
+CÓDIGO: None
+TÍTULO: MEDICINA DE FAMÍLIA E COMUNIDADE
+DESCRIÇÃO: None
+
+--- ITEM 278 ---
+ID: 286
+CÓDIGO: None
+TÍTULO: MEDICINA DO TRABALHO
+DESCRIÇÃO: None
+
+--- ITEM 279 ---
+ID: 287
+CÓDIGO: None
+TÍTULO: MEDICINA DO TRÁFEGO
+DESCRIÇÃO: None
+
+--- ITEM 280 ---
+ID: 288
+CÓDIGO: None
+TÍTULO: MEDICINA ESPORTIVA
+DESCRIÇÃO: None
+
+--- ITEM 281 ---
+ID: 289
+CÓDIGO: None
+TÍTULO: MEDICINA FÍSICA E REABILITAÇÃO
+DESCRIÇÃO: None
+
+--- ITEM 282 ---
+ID: 290
+CÓDIGO: None
+TÍTULO: MEDICINA INTENSIVA
+DESCRIÇÃO: None
+
+--- ITEM 283 ---
+ID: 291
+CÓDIGO: None
+TÍTULO: MEDICINA LEGAL E PERÍCIA MÉDICA
+DESCRIÇÃO: None
+
+--- ITEM 284 ---
+ID: 292
+CÓDIGO: None
+TÍTULO: MEDICINA NUCLEAR
+DESCRIÇÃO: None
+
+--- ITEM 285 ---
+ID: 293
+CÓDIGO: None
+TÍTULO: MEDICINA PREVENTIVA SOCIAL
+DESCRIÇÃO: None
+
+--- ITEM 286 ---
+ID: 294
+CÓDIGO: None
+TÍTULO: NEFROLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 287 ---
+ID: 295
+CÓDIGO: None
+TÍTULO: NEUROCIRURGIA
+DESCRIÇÃO: None
+
+--- ITEM 288 ---
+ID: 296
+CÓDIGO: None
+TÍTULO: NEUROLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 289 ---
+ID: 297
+CÓDIGO: None
+TÍTULO: NUTROLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 290 ---
+ID: 298
+CÓDIGO: None
+TÍTULO: OFTALMOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 291 ---
+ID: 299
+CÓDIGO: None
+TÍTULO: ONCOLOGIA CLÍNICA
+DESCRIÇÃO: None
+
+--- ITEM 292 ---
+ID: 300
+CÓDIGO: None
+TÍTULO: ORTOPEDIA E TRAUMATOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 293 ---
+ID: 301
+CÓDIGO: None
+TÍTULO: OTORRINOLARINGOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 294 ---
+ID: 302
+CÓDIGO: None
+TÍTULO: PATOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 295 ---
+ID: 303
+CÓDIGO: None
+TÍTULO: PATOLOGIA CLÍNICA / MEDICINA LABORATORIAL
+DESCRIÇÃO: None
+
+--- ITEM 296 ---
+ID: 304
+CÓDIGO: None
+TÍTULO: PEDIATRIA
+DESCRIÇÃO: None
+
+--- ITEM 297 ---
+ID: 305
+CÓDIGO: None
+TÍTULO: PNEUMOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 298 ---
+ID: 306
+CÓDIGO: None
+TÍTULO: PSIQUIATRIA
+DESCRIÇÃO: None
+
+--- ITEM 299 ---
+ID: 307
+CÓDIGO: None
+TÍTULO: RADIOLOGIA E DIAGNÓSTICO POR IMAGEM
+DESCRIÇÃO: None
+
+--- ITEM 300 ---
+ID: 308
+CÓDIGO: None
+TÍTULO: RADIOTERAPIA
+DESCRIÇÃO: None
+
+--- ITEM 301 ---
+ID: 309
+CÓDIGO: None
+TÍTULO: REUMATOLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 302 ---
+ID: 310
+CÓDIGO: None
+TÍTULO: UROLOGIA
+DESCRIÇÃO: None
+
+--- ITEM 303 ---
+ID: 311
+CÓDIGO: None
+TÍTULO: Painel de acompanhamento médico
+DESCRIÇÃO: None
+

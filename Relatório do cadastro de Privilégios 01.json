@@ -1,0 +1,2267 @@
+{
+  "resumo": {
+    "data_execucao": "2025-08-27 00:43:03",
+    "total_itens": 141,
+    "sucessos": 141,
+    "falhas": 0,
+    "taxa_sucesso": 100.0
+  },
+  "detalhes": [
+    {
+      "numero": 1,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:30",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"312\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 2,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:31",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"313\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 3,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:32",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"314\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 4,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:33",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"315\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 5,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:34",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"316\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 6,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:36",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"317\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 7,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:37",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"318\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 8,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:38",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"319\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 9,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:39",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"320\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 10,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:40",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"321\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 11,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:41",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"322\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 12,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:42",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"323\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 13,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:44",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"324\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 14,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:45",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"325\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 15,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-15",
+        "titulo": "Indicar e prescrever medicação trombolítica",
+        "descricao": "Indicar e prescrever medicação trombolítica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:46",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"326\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 16,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-16",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:47",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"327\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 17,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-17",
+        "titulo": "Realizar o implante de marcapasso venoso temporário",
+        "descricao": "Realizar o implante de marcapasso venoso temporário",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:48",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"328\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 18,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-18",
+        "titulo": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "descricao": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:49",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"329\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 19,
+      "item_original": {
+        "codigo": "PRV-CLT-CR-19",
+        "titulo": "Realizar transporte de pacientes críticos",
+        "descricao": "Realizar transporte de pacientes críticos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:51",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"330\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 20,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:52",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"331\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 21,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:53",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"332\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 22,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:54",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"333\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 23,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:55",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"334\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 24,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:56",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"335\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 25,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:57",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"336\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 26,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:38:59",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"337\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 27,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:00",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"338\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 28,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:01",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"339\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 29,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:02",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"340\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 30,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:03",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"341\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 31,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:04",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"342\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 32,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:06",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"343\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 33,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:07",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"344\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 34,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-15",
+        "titulo": "Indicar e prescrever medicação trombolítica",
+        "descricao": "Indicar e prescrever medicação trombolítica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:08",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"345\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 35,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-16",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:09",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"346\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 36,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-17",
+        "titulo": "Realizar o implante de marcapasso venoso temporário",
+        "descricao": "Realizar o implante de marcapasso venoso temporário",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:10",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"347\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 37,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-18",
+        "titulo": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "descricao": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:11",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"348\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 38,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-19",
+        "titulo": "Realizar transporte de pacientes críticos",
+        "descricao": "Realizar transporte de pacientes críticos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:13",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"349\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 39,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-20",
+        "titulo": "Promover o atendimento inicial do paciente politraumatizado ou queimado",
+        "descricao": "Promover o atendimento inicial do paciente politraumatizado ou queimado",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:14",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"350\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 40,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-21",
+        "titulo": "Introduzir cateter de saturação de bulbo jugular",
+        "descricao": "Introduzir cateter de saturação de bulbo jugular",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:15",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"351\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 41,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-22",
+        "titulo": "Manejo básico de ultrafiltração e de controle de temperatura de paciente em terapia dialítica contínua",
+        "descricao": "Manejo básico de ultrafiltração e de controle de temperatura de paciente em terapia dialítica contínua",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:16",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"352\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 42,
+      "item_original": {
+        "codigo": "PRV-CLT-CTI-A-23",
+        "titulo": "Manejar dispositivos de suporte cardíaco (ECMO e Impella)",
+        "descricao": "Manejar dispositivos de suporte cardíaco (ECMO e Impella)",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:17",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"353\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 43,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:18",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"354\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 44,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:20",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"355\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 45,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:21",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"356\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 46,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:22",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"357\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 47,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:23",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"358\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 48,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:24",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"359\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 49,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:25",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"360\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 50,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:27",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"361\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 51,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:28",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"362\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 52,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:29",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"363\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 53,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:30",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"364\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 54,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:31",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"365\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 55,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:32",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"366\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 56,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:34",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"367\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 57,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-15",
+        "titulo": "Indicar e prescrever medicação trombolítica",
+        "descricao": "Indicar e prescrever medicação trombolítica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:35",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"368\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 58,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-16",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:36",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"369\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 59,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-17",
+        "titulo": "Realizar o implante de marcapasso venoso temporário",
+        "descricao": "Realizar o implante de marcapasso venoso temporário",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:37",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"370\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 60,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-18",
+        "titulo": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "descricao": "Introduzir balão esofágico para tratamento de hemorragia digestiva",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:38",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"371\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 61,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-19",
+        "titulo": "Realizar transporte de pacientes críticos",
+        "descricao": "Realizar transporte de pacientes críticos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:39",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"372\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 62,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-A-20",
+        "titulo": "Promover o atendimento inicial do paciente politraumatizado ou queimado",
+        "descricao": "Promover o atendimento inicial do paciente politraumatizado ou queimado",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:40",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"373\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 63,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:42",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"374\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 64,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:43",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"375\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 65,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:44",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"376\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 66,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:45",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"377\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 67,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:46",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"378\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 68,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:47",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"379\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 69,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-7",
+        "titulo": "Avaliar, diagnosticar e estabelecer terapias clínicas e cirúrgicas para pacientes com doenças ginecológicas ou obstétricas, baseadas nas melhores práticas científicas",
+        "descricao": "Avaliar, diagnosticar e estabelecer terapias clínicas e cirúrgicas para pacientes com doenças ginecológicas ou obstétricas, baseadas nas melhores práticas científicas",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:49",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"380\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 70,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-8",
+        "titulo": "Realização de partos, inclusive instrumentados, cesarianas, curetagens uterinas e AMIU (Aspiração Manual Intra-Uterina) pós-abortamento",
+        "descricao": "Realização de partos, inclusive instrumentados, cesarianas, curetagens uterinas e AMIU (Aspiração Manual Intra-Uterina) pós-abortamento",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:50",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"381\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 71,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:51",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"382\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 72,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:52",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"383\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 73,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:53",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"384\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 74,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:54",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"385\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 75,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:55",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"386\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 76,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:57",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"387\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 77,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-15",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:58",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"388\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 78,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-16",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:39:59",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"389\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 79,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-17",
+        "titulo": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "descricao": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:00",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"390\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 80,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-18",
+        "titulo": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "descricao": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:01",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"391\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 81,
+      "item_original": {
+        "codigo": "PRV-CLT-EME-P-19",
+        "titulo": "Realizar transporte de pacientes pediátricos ou neonatos críticos",
+        "descricao": "Realizar transporte de pacientes pediátricos ou neonatos críticos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:02",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"392\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 82,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:04",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"393\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 83,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:05",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"394\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 84,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:06",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"395\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 85,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:07",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"396\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 86,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:08",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"397\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 87,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:09",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"398\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 88,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:11",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"399\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 89,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:12",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"400\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 90,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-9",
+        "titulo": "Realizar cirurgias vídeo-endoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia",
+        "descricao": "Realizar cirurgias vídeo-endoscópicas para diagnóstico ou ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias benignas (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:40:26",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 91,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-10",
+        "titulo": "Realizar cirurgias vídeo-endoscópicas para ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias malignas, envolvendo linfadenectomia, incuindo ressecção de órgãos não genitais",
+        "descricao": "Realizar cirurgias vídeo-endoscópicas para ressecção parcial ou total de órgãos genitais femininos pélvicos por patologias malignas, envolvendo linfadenectomia, incuindo ressecção de órgãos não genitais",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:40:27",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"401\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 92,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-11",
+        "titulo": "Realizar video-histeroscopia diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS) de treinamento",
+        "descricao": "Realizar video-histeroscopia diagnóstica ou terapêutica (necessidade de treinamento específico: apresentar certificação pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou pela Sociedade Vídeo-Endoscópica do RS (SOCIVERS) de treinamento",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:40:40",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 93,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-12",
+        "titulo": "Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária (necessidade de treinamento específico: apresentar certificado de treinamento específico em programa de especialização em uroginecologia e reconstrução pélvica ou comprovação",
+        "descricao": "Realizar cirurgias de colocação de dispositivos para correção de incontinência urinária (necessidade de treinamento específico: apresentar certificado de treinamento específico em programa de especialização em uroginecologia e reconstrução pélvica ou comprovação",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:40:52",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 94,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-13",
+        "titulo": "Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital",
+        "descricao": "Realizar cirurgias de traquelectomia, histerectomia vaginal, e correção de prolapso genital",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:40:54",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"402\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 95,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-14",
+        "titulo": "Realizar cirurgias por vídeo-endoscopia assistidas por robô (necessidade de treinamento específico: apresentar certificado de treinamento robótico em curso validado pelo HMV)",
+        "descricao": "Realizar cirurgias por vídeo-endoscopia assistidas por robô (necessidade de treinamento específico: apresentar certificado de treinamento robótico em curso validado pelo HMV)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:40:55",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"403\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 96,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-15",
+        "titulo": "Realizar procedimento de coleta de óvulos orientado por ultrassonografia (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional",
+        "descricao": "Realizar procedimento de coleta de óvulos orientado por ultrassonografia (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:41:05",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 97,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-16",
+        "titulo": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização",
+        "descricao": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:41:18",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 98,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-17",
+        "titulo": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização em ultrassonografia ginecológica e obstétrica)",
+        "descricao": "Realizar ultrassonografia ginecológica e obstétrica via abdominal e transvaginal com procedimentos invasivos, incluindo amniocentese, paracenteses, drenagem de coleções, transfusão sanguínea fetal (necessidade de treinamento específico: apresentar certificado de especialista pela Federação Brasileira de Ginecologia e Obstetrícia (FEBRASGO) ou curso de especialização em ultrassonografia ginecológica e obstétrica)",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:41:30",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 99,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-18",
+        "titulo": "Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal (necessidade de treinamento específico: apresentar certificado de qualificação em cirurgia",
+        "descricao": "Cirurgias fetais por fetoscopia, incluindo correção de meningo-mielocele, fulguração a laser de vasos placentários e inserção de plug endo-traqueal fetal (necessidade de treinamento específico: apresentar certificado de qualificação em cirurgia",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:41:42",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 100,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-19",
+        "titulo": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem videolaparoscópica (necessidade de treinamento específico: apresentar certificado de residência médica",
+        "descricao": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem videolaparoscópica (necessidade de treinamento específico: apresentar certificado de residência médica",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:41:53",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 101,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-20",
+        "titulo": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem robótica (necessidade de treinamento específico: apresentar certificado de treinamento e habilitação",
+        "descricao": "Realizar procedimentos diagnósticos e terapêuticos que envolvam peritônio, órgãos intraperitoneais, transição toracoabdominal ou parede torácica por abordagem robótica (necessidade de treinamento específico: apresentar certificado de treinamento e habilitação",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:42:06",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 102,
+      "item_original": {
+        "codigo": "PRV-CLT-MAT-ESP-21",
+        "titulo": "Realizar procedimento de inseminação artificial e fertilização in vitro (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional",
+        "descricao": "Realizar procedimento de inseminação artificial e fertilização in vitro (necessidade de treinamento específico: apresentar diploma ou certificado de conclusão em residência médica em endocrinologia e infertilidade; ou programa de fellowship nacional",
+        "bairro": "Específico"
+      },
+      "timestamp": "2025-08-27 00:42:18",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":false,\"id\":false,\"erro\":[]}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 103,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:19",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"404\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 104,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:20",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"405\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 105,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:21",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"406\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 106,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:22",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"407\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 107,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:23",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"408\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 108,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:25",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"409\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 109,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:26",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"410\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 110,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:27",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"411\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 111,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:28",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"412\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 112,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:29",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"413\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 113,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:30",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"414\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 114,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:31",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"415\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 115,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:33",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"416\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 116,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:34",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"417\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 117,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-15",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:35",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"418\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 118,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-16",
+        "titulo": "Orientar os pais quanto aos cuidados com a criança ou recém-nascido",
+        "descricao": "Orientar os pais quanto aos cuidados com a criança ou recém-nascido",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:36",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"419\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 119,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-17",
+        "titulo": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "descricao": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:37",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"420\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 120,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-18",
+        "titulo": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "descricao": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:38",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"421\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 121,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-19",
+        "titulo": "Realizar transporte de pacientes pediátricos ou neonatos críticos",
+        "descricao": "Realizar transporte de pacientes pediátricos ou neonatos críticos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:40",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"422\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 122,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-20",
+        "titulo": "Realizar cateterismo cateterismo umbilical arterial e venoso",
+        "descricao": "Realizar cateterismo cateterismo umbilical arterial e venoso",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:41",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"423\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 123,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-NEO-21",
+        "titulo": "Administrar surfactante",
+        "descricao": "Administrar surfactante",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:42",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"424\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 124,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-1",
+        "titulo": "Realizar ultrassom à beira do leito",
+        "descricao": "Realizar ultrassom à beira do leito",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:43",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"425\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 125,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-2",
+        "titulo": "Realizar punção venosa e arterial central e periférica",
+        "descricao": "Realizar punção venosa e arterial central e periférica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:44",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"426\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 126,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-3",
+        "titulo": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "descricao": "Realizar de toracocentese e paracentese diagnóstica e/ou terapêutica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:45",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"427\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 127,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-4",
+        "titulo": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "descricao": "Realizar cardioversão elétrica e manobras de ressuscitação",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:46",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"428\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 128,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-5",
+        "titulo": "Realizar intubação endotraqueal",
+        "descricao": "Realizar intubação endotraqueal",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:48",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"429\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 129,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-6",
+        "titulo": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "descricao": "Realizar sondagem vesical de demora ou de alívio e passagem de sonda oro ou naso gástrica ou entérica",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:49",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"430\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 130,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-7",
+        "titulo": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "descricao": "Avaliar, diagnosticar, realizar exame físico e histórico de saúde completo dos pacientes atendidos no HMV, sempre preservando os princípios éticos do atendimento médico",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:50",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"431\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 131,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-8",
+        "titulo": "Administrar sedação e analgesia",
+        "descricao": "Administrar sedação e analgesia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:51",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"432\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 132,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-9",
+        "titulo": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "descricao": "Realizar cricotireoidostomia ou intubação retrógrada em casos de emergência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:52",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"433\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 133,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-10",
+        "titulo": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "descricao": "Manejar ventiladores mecânicos invasivos e não invasivos",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:53",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"434\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 134,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-11",
+        "titulo": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "descricao": "Realizar troca, reposicionamento ou higienização de cânula de traqueostomia",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:55",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"435\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 135,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-12",
+        "titulo": "Realizar punção lombar",
+        "descricao": "Realizar punção lombar",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:56",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"436\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 136,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-13",
+        "titulo": "Realizar drenagem de tórax",
+        "descricao": "Realizar drenagem de tórax",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:57",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"437\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 137,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-14",
+        "titulo": "Prescrever nutrição parenteral",
+        "descricao": "Prescrever nutrição parenteral",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:58",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"438\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 138,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-15",
+        "titulo": "Realizar pericardiocentese de urgência",
+        "descricao": "Realizar pericardiocentese de urgência",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:42:59",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"439\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 139,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-16",
+        "titulo": "Orientar os pais quanto aos cuidados com a criança ou recém-nascido",
+        "descricao": "Orientar os pais quanto aos cuidados com a criança ou recém-nascido",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:43:00",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"440\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 140,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-17",
+        "titulo": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "descricao": "Avaliar e orientar a alta hospitalar da criança e do recém-nascido",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:43:01",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"441\"}",
+        "response_json": null
+      }
+    },
+    {
+      "numero": 141,
+      "item_original": {
+        "codigo": "PRV-CLT-UTI-P-18",
+        "titulo": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "descricao": "Favorecer o vínculo mãe-filho e a humanização no atendimento",
+        "bairro": "Geral"
+      },
+      "timestamp": "2025-08-27 00:43:03",
+      "resultado": {
+        "sucesso": true,
+        "status_code": 200,
+        "response_text": "{\"success\":true,\"id\":\"442\"}",
+        "response_json": null
+      }
+    }
+  ]
+}
